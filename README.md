@@ -2,13 +2,13 @@
 <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <h3 align="center"> Ingeniería de Software </h3>
-<h3 align="center"> Ciclo 2024 - 2 </h3>
+<h3 align="center"> Ciclo 2025 - 1 </h3>
 
 <br>
 
-<div align="center">
-  <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
-</div>
+ <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="80px" height="80px"/>
+</p>
 
 <br>
 
@@ -34,8 +34,6 @@
 <div align="center"> Abril 2025 </div>
 
 <h3 align="center"> 2024 </h3>
-
-<br>
 
 <hr>
 
