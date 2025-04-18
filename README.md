@@ -200,9 +200,10 @@
 
 ![Context Diagram](Assets/context_diagram.png)
 
+#### 4.6.2. Software Architecture Container Diagrams
+
 ![Container Diagram](Assets/container_diagram.png)
 
-#### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
