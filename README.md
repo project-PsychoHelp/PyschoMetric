@@ -198,7 +198,9 @@
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams
 
-![Context Diagram](Assets/context_diagram.png.png)
+![Context Diagram](Assets/context_diagram.png)
+
+![Container Diagram](Assets/container_diagram.png)
 
 #### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
