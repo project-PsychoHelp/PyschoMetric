@@ -176,6 +176,125 @@
 - ¿Dónde surge el problema?
 
 
+
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores
+#### 2.1.1. Análisis competitivo
+#### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.2. Entrevistas
+#### 2.2.1. Diseño de entrevistas
+#### 2.2.2. Registro de entrevistas
+#### 2.2.3. Análisis de entrevistas
+
+### 2.3. Needfinding
+#### 2.3.1. User Personas
+Los User personas se realizaron en base a las distintas personas que entrevistamos según nuestros segmentos objetivos.
+**Estudiante de 4to año de secundaria:**
+![Enrique Gonzales User Persona](Assets/Enrique-Gonzalo-User-Persona.png)
+**Psicólogo certificado:**
+![Luiz Ramirez User Persona](Assets/Luiz-Ramirez-User-Persona.png)
+#### 2.3.2. User Task Matrix
+En esta sección vamos a detallar las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de PsychoHealth.
+**Estudiante de 4to año de secundaria: Enrique Gonzalo**
+
+| Actividades                                         | Frecuencia     | Importancia |
+|-----------------------------------------------------|----------------|-------------|
+| Realizar un test vocacional interactivo             | Frecuentemente | Alta        |
+| Obtener recomendaciones de carreras y programas     | Ocasionalmente | Alta        |
+| Ver universidades compatibles con su perfil         | Frecuentemente | Media       |
+| Ver experiencias o testimonios de otros estudiantes | Ocasionalmente | Media       |
+| Pedir recomendaciones a vecinos o conocidos         | Rara vez       | Baja        |
+
+
+**Psicólogo certificado: Luiz Ramirez**
+
+| Actividades                                                | Frecuencia     | Importancia |
+|------------------------------------------------------------|----------------|-------------|
+| Buscar electricistas certificados                          | Frecuentemente | Alta        |
+| Agendar mantenimientos preventivos para el hogar           | Ocasionalmente | Alta        |
+| Comparar calificaciones de proveedores                     | Frecuentemente | Media       |
+| Buscar soluciones que ahorren energía en el hogar          | Ocasionalmente | Media       |
+| Pedir recomendaciones a vecinos o conocidos                | Rara vez       | Media       |
+
+
+
+#### 2.3.3. User Journey Mapping
+
+**USER PERSONA: Enrique Gonzalo**
+![Journey Map 1](Assets/Journey-Map-OPSO.png)
+
+Enrique Gonzales atraviesa un camino marcado por la incertidumbre y la presión, con decisiones que percibe como determinantes para su futuro pero con muy poca orientación personalizada. Aunque intenta buscar ayuda en internet, en su entorno o en charlas del colegio, su experiencia es confusa, genérica y poco útil.
+Sus mayores frustraciones están en:
+
+    * La sobrecarga de información sin una guía clara para filtrar opciones.
+
+
+    * La falta de autoconocimiento sobre sus fortalezas, intereses y talentos.
+
+
+    * La presión externa de padres y entorno que opacan su propio criterio.
+
+
+    * La ausencia de herramientas accesibles que le ayuden a tomar decisiones de forma objetiva y emocionalmente segura.
+
+
+A pesar de esto, Valeria tiene una actitud abierta al aprendizaje, interés en construir su camino y una necesidad genuina de orientación. Esto la convierte en una usuaria ideal para una solución como PsychoHelp
+
+**USER PERSONA: Luis Ramirez**
+![Journey Map 2](Assets/Journey-Map%20OPSO2.png)
+
+Luis transita un recorrido profesional donde su vocación de ayudar está limitada por los medios tradicionales con los que trabaja. Aunque tiene formación, experiencia y motivación, su impacto es reducido por tareas administrativas y tecnológicas que lo sobrecargan.
+Sus mayores frustraciones están en:
+La dificultad para llegar a nuevos pacientes, especialmente jóvenes.
+
+
+    * Los procesos manuales y poco escalables para agendar, evaluar y cobrar.
+
+
+    * La falta de una plataforma profesional que centralice sus funciones.
+
+
+    * La sensación de estar desperdiciando tiempo valioso en lo no clínico.
+
+
+Aun así, Luis tiene disposición, habilidades y un alto compromiso con su labor como orientador vocacional. Esto lo convierte en un aliado ideal para PsychoHelp.
+
+
+#### 2.3.4. Empathy Mapping
+
+**USER PERSONA: Enrique Gonzalo**
+![Empathy Map 1](Assets/Empathy-Map-1.jpg)
+
+**USER PERSONA: Luis Ramirez**
+![Empathy Map 2](Assets/Empathy-Map_2.jpg)
+
+### 2.3.5. As-is Scenario Mapping
+
+**USER PERSONA: Enrique Gonzalo**
+![Scenario Mapping 1](Assets/Scenario-Mapping2.jpg)
+
+Enrique atraviesa un proceso emocionalmente abrumador y poco estructurado. La sobrecarga de información, la presión externa y la falta de autoconocimiento lo llevan a decisiones inseguras y apresuradas. Su necesidad de orientación personalizada y confiable es urgente, convirtiéndo en un usuario ideal para una solución como PsychoHelp que lo guíe con claridad y empatía.
+
+
+**USER PERSONA: Luis Ramirez**
+
+![Scenario Mapping 1](Assets/Scenario-Mapping1.jpg)
+
+Luis trabaja con compromiso, pero se enfrenta a procesos manuales, herramientas poco eficientes y limitaciones para escalar su impacto. Esto afecta su motivación y profesionalismo. Una plataforma como PsychoHelp representaría una oportunidad clave para optimizar su práctica, ampliar su alcance y ofrecer un servicio vocacional de mayor calidad y eficiencia.
+
+## 2.4. Ubiquitous Language
+
+| Término en inglés           | Término en español          | Definición                                                                                                           |
+|----------------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Career Doubt               | Orientación vocacional      | Estado de confusión o inseguridad que siente un estudiante al no tener claridad sobre qué profesión desea seguir.   |
+| Premium Subscription       | Suscripción premium         | Plan de pago que permite al usuario acceder a tests avanzados, reportes personalizados y sesiones privadas.         |
+| Psychometric Profile       | Perfil psicométrico         | Informe que resume los rasgos psicológicos, habilidades cognitivas y tendencias conductuales de un estudiante.      |
+| Vocational Test            | Test vocacional             | Evaluación psicométrica diseñada para identificar intereses, aptitudes y rasgos de personalidad del estudiante.     |
+| Career Compatibility       | Compatibilidad vocacional   | Nivel de alineación entre los intereses, habilidades y personalidad del estudiante con determinadas carreras.       |
+| Vocational Report          | Informe vocacional          | Documento detallado en PDF con sugerencias de carrera tras una evaluación o sesión de orientación.                  |
+| Career Guidance            | Orientación vocacional      | Apoyo personalizado para ayudar a los estudiantes a explorar y decidir su camino académico o profesional.           |
+
+
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
