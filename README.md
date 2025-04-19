@@ -211,5 +211,7 @@
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
+![Database Diagram](Assets/bd_diagram.png)
+
 
 
