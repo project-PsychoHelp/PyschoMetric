@@ -295,6 +295,26 @@ Luis trabaja con compromiso, pero se enfrenta a procesos manuales, herramientas 
 | Career Guidance            | Orientación vocacional      | Apoyo personalizado para ayudar a los estudiantes a explorar y decidir su camino académico o profesional.           |
 
 
+## Capítulo III: Requirements Specification
+### 3.1. To-Be Scenario Mapping
+
+El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o flujo de trabajo deseado en el futuro después de implementar las mejoras propuestas. 
+
+**USER PERSONA: Enrique Gonzalo**
+![TO BE](Assets/TOBE1.jpg)
+Enrique atraviesa un proceso más claro, guiado y confiable para decidir su futuro académico. Gracias a la suscripción premium, accede a tests avanzados, reportes detallados y sesiones con especialistas. Además, adquiere un informe vocacional personalizado que le ofrece una visión integral de su perfil y recomendaciones de universidades. El proceso le genera alivio, seguridad y motivación, ayudándole a tomar decisiones informadas y alineadas a sus intereses.
+
+**USER PERSONA: Luis Ramirez**
+![TO BE](Assets/TOBE2.jpg)
+Luis se incorpora a PsychoHelp como profesional verificado, gestionando su disponibilidad y tarifas. Brinda orientación vocacional apoyado por reportes psicométricos y recibe pagos directos por sus sesiones, lo que le permite obtener ingresos adicionales y ganar visibilidad profesional. Se siente satisfecho, valorado y reconocido, convirtiendo a la plataforma en una herramienta de crecimiento personal y económico.
+
+
+### 3.2. User Stories
+### 3.3. Impact Mapping
+Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. 
+### 3.4. Product Backlog
+
+
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
