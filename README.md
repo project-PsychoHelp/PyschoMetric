@@ -178,11 +178,69 @@
 
 
 ## Capítulo II: Requirements Elicitation & Analysis
-### 2.1. Competidores
-#### 2.1.1. Análisis competitivo
-#### 2.1.2. Estrategias y tácticas frente a competidores
-### 2.2. Entrevistas
-#### 2.2.1. Diseño de entrevistas
+
+# 2.1.1. Análisis Competitivo
+
+En esta sección identificamos los principales competidores directos con productos digitales similares.
+### Competitive Analysis Landscape 
+
+| Por qué llevar a cabo este análisis? | Este análisis es clave para entender el mercado, las necesidades de los usuarios y cómo Psychometric puede ofrecer soluciones innovadoras y efectivas para poder contrarrestar y mejorar el producto. |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Características | PsychoHelp | Orientum | Edutest | Universia |
+|-----------------|------------|----------|---------|-----------|
+| **Perfil**      | **Overview:** PsychoHelp es una aplicación digital que ayuda a estudiantes de secundaria y primeros ciclos universitarios a descubrir su vocación profesional. | Plataforma especializada en orientación vocacional, dirigida a jóvenes que están por elegir carrera. | Ofrece test vocacionales interactivos y herramientas para explorar distintas opciones académicas. Está dirigido a estudiantes de último año de secundaria. | Portal web con test vocacionales gratuitos y contenidos informativos sobre carreras y universidades. Su enfoque está en estudiantes de secundaria. |
+| **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | PsychoHelp ofrece una experiencia completa y personalizada, combinando test vocacionales avanzados con asesoría profesional en vivo, lo que permite a los estudiantes tomar decisiones informadas con base en su perfil real y emocional. | Ofrece test vocacionales y asesoría personalizada para ayudar a los jóvenes a identificar la carrera que mejor se adapta a sus intereses. | Brinda test vocacionales interactivos y fáciles de usar para orientar a estudiantes en la elección de una carrera, de forma rápida y gratuita. | Proporciona herramientas vocacionales básicas y contenido informativo sobre universidades y programas académicos en distintos países. |
+| **Overview**                 | Aplicación digital que ayuda a estudiantes de secundaria y primeros ciclos universitarios a descubrir su vocación profesional.             | Plataforma especializada en orientación vocacional, dirigida a jóvenes que están por elegir carrera. | Ofrece test vocacionales interactivos y herramientas para explorar distintas opciones académicas. | Portal web con test vocacionales gratuitos y contenidos informativos sobre carreras y universidades. |
+| **Ventaja competitiva**      | Experiencia completa y personalizada, combinando test vocacionales avanzados con asesoría profesional en vivo.                            | Ofrece test vocacionales y asesoría personalizada.                                              | Brinda test vocacionales interactivos de forma rápida y gratuita.       | Herramientas vocacionales básicas y contenido informativo sobre universidades y programas académicos. |
+| **Mercado objetivo**         | Estudiantes de secundaria y jóvenes universitarios en primeros ciclos con dudas sobre su carrera.                                          | Estudiantes de secundaria, bachillerato, padres y colegios.                                    | Jóvenes de secundaria y preuniversitarios que buscan conocer sus intereses. | Estudiantes de secundaria y universitarios, principalmente en países de habla hispana.                |
+| **Estrategias de marketing** | Marketing de contenido, alianzas con colegios y universidades.                                                                             | Charlas y talleres en instituciones educativas, presencia en buscadores.                       | Estrategia freemium, correos y boletines informativos.                  | Alianzas con universidades, contenido web gratuito.                                      |
+| **Precios & Costos**         | Freemium: test básico gratuito. Informe detallado: S/ 30 – S/ 50. Sesión con psicólogo: S/ 70 – S/ 100.                                     | Test y asesoría personalizada: S/ 50 – S/ 150.                                                  | Acceso pago: S/ 30 – S/ 50.                                            | Totalmente gratis; financiado por alianzas con universidades y patrocinadores.          |
+| **Productos & Servicios**    | Test psicométricos, informes personalizados, recomendaciones de carreras, sesiones con psicólogos.                                         | Test vocacionales psicométricos y asesoría personalizada.                                      | Test vocacionales interactivos con informes detallados de pago.        | Test vocacional gratuito, buscador de carreras, artículos y blogs sobre orientación.     |
+| **Canales de distribución**  | Integración en plataformas educativas, plataforma web y aplicación móvil.                                                                  | Plataforma web con agendamiento de sesiones.                                                   | Plataforma web para acceso a tests.                                    | Web y app móvil para facilitar acceso.                                                   |
+  | **Fortalezas** | Combina tecnología con atención humana personalizada y una plataforma flexible, desde cualquier lugar. | Ofrece orientación personalizada con psicólogos profesionales, brindando un enfoque más humano y confiable a los usuarios. | Su modelo permite atraer a muchos estudiantes, ofreciendo acceso gratuito a tests básicos. | Cuenta con una sólida red de universidades y amplia presencia en países hispanohablantes. |
+| **Debilidades**| Necesita inversión constante en marketing y captación de usuarios. | El modelo de pago limita el acceso a estudiantes con pocos recursos. | No ofrece asesoría profesional, lo que limita su valor agregado. | El test vocacional es básico y carece de personalización. |
+| **Oportunidades**| Alta demanda de orientación vocacional entre jóvenes. | Puede expandir su presencia digital y llegar a más estudiantes mediante plataformas en línea. | Integrar servicios de orientación personalizada para diferenciarse de otras plataformas. | Refuerza su servicio vocacional con más tecnología para atraer a una audiencia más joven. |
+| **Amenazas**   | Competencia con plataformas consolidadas y gratuitas como Universia y Edutest. | La competencia de plataformas gratuitas puede reducir su cuota de mercado. | La falta de seguimiento humano puede llevar a que los usuarios busquen alternativas más completas. | Startups más especializadas pueden ofrecer servicios más personalizados y dinámicos. |
+
+# 2.1.2. Estrategias y Tácticas frente a Competidores
+
+Estas son las principales estrategias que aplicará **PsychoHelp**:
+
+- Ofrecer orientación personalizada y humana combinada con test psicométricos avanzados.
+- Ofrecer una versión básica gratuita con opciones de pago para resultados más detallados y servicios adicionales.
+- Establecer alianzas con colegios, universidades y centros educativos para integrar **PsychoHelp** como herramienta oficial de orientación vocacional.
+- Desarrollar una app móvil atractiva y fácil de usar, optimizada para el público joven.
+- Proponer test vocacionales basados en psicometría confiable, más allá de simples cuestionarios de personalidad.
+
+# 2.2. Entrevistas
+
+## 2.2.1. Diseño de Entrevistas
+
+### Preguntas para estudiantes de últimos años de colegio (4to y 5to de secundaria)
+
+1. ¿Has pensado qué carrera te gustaría seguir después del colegio? ¿Por qué?
+2. ¿Cuál es tu mayor motivación al pensar en tu futuro? ¿Y tu mayor miedo?
+3. ¿Qué tan seguro/a te sientes sobre tu elección profesional?
+4. ¿Has hecho alguna vez un test vocacional? ¿Cómo fue tu experiencia?
+5. ¿A quién acudes cuando necesitas orientación sobre tu futuro académico?
+6. ¿Qué tipo de herramientas digitales usas con frecuencia (apps, redes, plataformas educativas)?
+7. ¿Qué características valoras en una plataforma que te ayude a elegir tu carrera?
+8. ¿Qué te frustra o preocupa al pensar en tu futuro profesional?
+9. ¿Cómo te gustaría que te ayuden a descubrir tu vocación? ¿Qué formato prefieres?
+
+### Preguntas para Psicólogos y Consejeros Vocacionales Certificados
+
+1. ¿Cuánto tiempo llevas trabajando en orientación vocacional?
+2. ¿Qué tipo de estudiantes atiendes con más frecuencia? ¿Edad, nivel educativo?
+3. ¿Cómo es el proceso que sigues para orientar a un estudiante?
+4. ¿Qué herramientas digitales usas actualmente en tus sesiones?
+5. ¿Qué tipo de dificultades encuentras al orientar a jóvenes?
+6. ¿Qué aspectos consideras esenciales en un test vocacional?
+7. ¿Qué tan abierto estás a colaborar con plataformas digitales de orientación?
+8. ¿Qué te parecería tener una app que te conecte directamente con estudiantes?
+9. ¿Qué necesitarías para confiar en una plataforma como **PsychoHelp**?
+    
 #### 2.2.2. Registro de entrevistas
 #### 2.2.3. Análisis de entrevistas
 
