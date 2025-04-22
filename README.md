@@ -156,25 +156,192 @@
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
+
+Elegir una carrera profesional puede ser una de las decisiones más difíciles en la vida de un joven. Muchos estudiantes se sienten inseguros, confundidos o insatisfechos con la elección que han tomado, lo que puede llevar a la deserción o frustración académica.
+PsychoMetric nace para responder a esta problemática con una plataforma integral que conecta a jóvenes de entre 15 y 19 años con psicólogos vocacionales. Nuestra aplicación PsychoHelp brindará acceso a distintos planes de nivel, en los cuales el estudiante podrá encontrar test psicométricos especializados, recibir orientación personalizada, y obtener planes académicos alineados a sus intereses. Con todo ello, ayudamos a que los estudiantes tomen decisiones informadas y conscientes sobre su futuro profesional.
+Además, brindamos a los psicólogos una herramienta para gestionar sus servicios, atender estudiantes desde cualquier lugar y participar activamente en el desarrollo vocacional de los jóvenes.
+Como resultado final, la aplicación mostrará la compatibilidad del usuario con programas académicos y universidades que se ajustan a su perfil, facilitando así la toma de decisiones de los estudiantes de manera responsable e informada para su futuro académico y profesional.
+
+**Objetivo**
+Desarrollar una plataforma digital que facilite la orientación vocacional de jóvenes entre 15 y 19 años, combinando pruebas psicométricas, sesiones con psicólogos certificados y generación de planes académicos personalizados. Al mismo tiempo, brindar a los profesionales en psicología un espacio para ofrecer sus servicios, conectar con estudiantes y contribuir activamente en su desarrollo vocacional.
+**Misión**
+Brindar a los jóvenes una orientación vocacional precisa, accesible y personalizada mediante herramientas tecnológicas y el acompañamiento de psicólogos vocacionales. Al mismo tiempo, potenciar el trabajo de los profesionales, facilitando su conexión con estudiantes y apoyando su labor mediante una plataforma intuitiva, segura y eficiente.
+**Visión**
+Ser la plataforma líder en orientación vocacional en el país, revolucionando la forma en que los jóvenes descubren su vocación y eligen su camino académico y profesional. Aspiramos a reducir la deserción educativa, empoderar a los psicólogos en su rol como guías, y formar una nueva generación de profesionales motivados con su propósito.
+
 #### 1.1.2. Perfiles de Integrantes del Equipo
 | Miembros del equipo                             | Codigo Estudiante | Descripcion            |
 | ----------------------------------------------- | ----------------- | ---------------------- |
 | Eric Marlon Olivera Barzola	![Imagen del compañero](https://i.imgur.com/BwFfLIZ.png)   | U202315032            | Soy Eric Marlon Olivera Barzola, actualmente estoy cursando el quinto ciclo académico correspondiente. Mi experiencia me ha dotado de la capacidad para abordar tareas relacionadas con el diseño, programación y resolución de problemáticas en el ámbito del lenguaje de programación C++. Asimismo, estoy en proceso de adquirir conocimientos en C# y JavaScript. | 
 
+### 1.2. Solution Profile
+
 #### 1.2.1. Antecedentes y Problemática (usando The 5W'S y 2 'H's)
+Uno de los problemas más comunes entre los estudiantes de secundaria y universitarios de primeros ciclos es la dificultad para elegir una carrera profesional adecuada. Esta situación se debe a diversos factores interrelacionados. Muchos jóvenes no cuentan con un adecuado nivel de autoconocimiento, lo que impide que puedan identificar claramente sus intereses, habilidades, valores y motivaciones personales. Esta falta de claridad sobre sí mismos afecta directamente su capacidad para tomar decisiones vocacionales informadas.
+De acuerdo con un informe de la UNESCO (2021), la orientación vocacional es clave para mejorar la satisfacción estudiantil. Sin embargo, en América Latina, más del 60 % de los estudiantes no recibe ningún tipo de acompañamiento en este proceso.
+Nuestro objetivo es comprender las necesidades de nuestros usuarios, por lo tanto, hemos analizamos sus historiales y la problemática bajo el enfoque de las 5 ‘W’s y 2 ‘H’s.
+
+
 **What (Qué)**
 - ¿Cuál es el problema?
-- ¿Cuál es la relación con la persona en cuestión?
+Muchos jóvenes estudiantes se sienten confundidos o insatisfechos con la elección de su carrera profesional, lo que puede llevar a la desmotivación, cambio de carrera o abandono académico. La falta de orientación vocacional temprana y personalizada es la causa central de la problemática identificada.
 
 **When (Cuando)**
 - ¿Cuándo sucede el problema?
+Este problema ocurre principalmente durante la etapa final de la secundaria y en algunos casos, en los primeros ciclos universitarios, cuando los estudiantes deben tomar decisiones importantes sobre su futuro académico o decidir si necesitan un cambio de carrera antes de avanzar con su malla curricular.
+
 - ¿Cuándo utiliza el cliente el producto?
+El cliente utiliza el producto en momentos clave de su vida académica:
+ - Antes de postular a una universidad o carrera.
+
+ - Durante los primeros ciclos universitarios, cuando sienten dudas o insatisfacción respecto a la carrera elegida.
+En el caso de los psicólogos:
+ Cuando están en búsqueda de clientes, como lo son los estudiantes.
 
 **Where (Dónde)**
-- ¿Dónde está el cliente cuando usa el producto?
-- ¿A dónde se dirige?
-- ¿Dónde surge el problema?
+- ¿Dónde está el usuario cuando usa el producto?
+El usuario accede a la aplicación desde cualquier lugar con conexión a internet, generalmente desde su casa, colegio, biblioteca, oficina o en espacios donde busca privacidad para reflexionar sobre su futuro. La plataforma está diseñada para ser accesible desde dispositivos móviles y computadoras.
 
+**Who (Quién)**
+- ¿Quiénes están involucrados?
+Usuarios principales: Jóvenes estudiantes, de secundaria (últimos años) y universitarios de primeros ciclos.
+
+Profesionales involucrados: Psicólogos vocacionales y consejeros certificados que brindan asesoramiento personalizado.
+
+- ¿Quién lo utilizará?
+Principalmente lo utilizarán los jóvenes estudiantes que buscan claridad y guía para tomar decisiones académicas alineadas con su perfil e intereses. Asimismo los profesionales en orientación vocacional lo usarán para ofrecer sus servicios.
+
+**Why (Por qué)**
+- ¿Cuál es la causa del problema?
+Algunas de las causas identificadas son las siguientes: 
+ - Falta de autoconocimiento vocacional desde etapas tempranas.
+ - Ausencia de orientación profesional efectiva en colegios y universidades.
+ - Escasa información clara y personalizada sobre las opciones académicas disponibles.
+
+**How (Cómo)**
+- ¿Cómo prefieren los usuarios que sea el producto?
+Los usuarios esperan una aplicación intuitiva y fácil de usar desde el celular o    computadora. Además su confianza estará puesta en la confiabilidad de los resultados, por lo cual estos deben estar respaldados por profesionales. Y finalmente, esperan recibir resultados personalizados, adaptados a su perfil e intereses.
+
+ **How much (Cuánto)**
+- ¿Cuánto usaron los usuarios la app?
+Nuestra aplicación resuelve una problemática crítica y ampliamente extendida: la falta de claridad vocacional entre estudiantes de secundaria y primeros ciclos universitarios. Más del 60 % de los jóvenes en América Latina no recibe orientación vocacional, lo que evidencia una gran brecha que nuestra plataforma puede cubrir. Esta necesidad es especialmente urgente en etapas clave como la preparación para postular a una carrera o durante los primeros ciclos universitarios, donde se consolidan decisiones fundamentales sobre el futuro profesional del estudiante. Es por estos motivos que el uso de nuestra app por parte de los usuarios será grande.
+En cuanto al nivel de uso, se espera que los estudiantes interactúen activamente con la aplicación en varios momentos de su camino vocacional. Inicialmente, para realizar tests psicométricos y definir su perfil vocacional. Posteriormente, para revisar resultados, explorar carreras afines, agendar citas con psicólogos vocacionales y recibir retroalimentación personalizada.
+
+#### 1.2.2. Lean UX Process
+
+##### 1.2.2.1. Lean UX Problem Statements
+
+Muchos estudiantes de secundaria enfrentan incertidumbre, confusión o insatisfacción al elegir una carrera profesional, debido a la falta de autoconocimiento, orientación vocacional personalizada y acceso a información clara sobre programas académicos. Esta situación puede llevar a decisiones mal fundamentadas, abandono de estudios o frustración profesional a largo plazo.
+Actualmente, no existen soluciones digitales completas, confiables y accesibles que integren evaluaciones psicométricas especializadas, sesiones con psicólogos certificados, informes vocacionales interactivos en PDF y recomendaciones académicas personalizadas dentro de un solo ecosistema.
+Además, los psicólogos vocacionales certificados enfrentan dificultades para encontrar espacios digitales que les permitan visibilizar su trabajo, acceder a herramientas especializadas, atraer nuevos clientes potenciales y desarrollarse profesionalmente. No existen plataformas que les ofrezcan beneficios escalables a través de una membresía profesional que valore su expertise y potencie su alcance.
+
+##### 1.2.2.2. Lean UX Assumptions
+
+Los estudiantes de secundaria y universitarios de primeros ciclos experimentan inseguridad y confusión al momento de elegir una carrera profesional.
+
+Su falta de autoconocimiento, la presión social y el desconocimiento de la oferta académica son factores que dificultan una elección adecuada.
+
+Los jóvenes están dispuestos a utilizar herramientas digitales como apoyo para su orientación vocacional.
+
+Dado su nivel de familiaridad con la tecnología, una app móvil o web es un canal accesible y cómodo para este público.
+
+Los usuarios confiarán en los resultados de pruebas psicométricas si estas se presentan de manera clara, profesional y con respaldo especializado.
+
+Una metodología basada en psicología vocacional validada tendrá mayor aceptación que simples tests genéricos disponibles en línea.
+
+El acompañamiento de psicólogos o consejeros certificados será valorado positivamente por los estudiantes.
+
+Las sesiones con especialistas aportan valor agregado a la orientación y aumentan la confianza en la toma de decisiones.
+
+Los estudiantes están dispuestos a pagar por beneficios adicionales como acceso a psicólogos, reportes vocacionales interactivos y detallados, y tests avanzados mediante una suscripción premium.
+
+Los psicólogos certificados están interesados en un modelo de suscripción premium que les permita acceder a herramientas digitales, obtener mayor visibilidad frente a potenciales pacientes y expandir su red de trabajo dentro de una comunidad profesional.
+
+Los estudiantes y psicólogos cuentan con dispositivos y acceso a internet que les permiten interactuar con la plataforma.
+
+Padres de familia, colegios e instituciones educativas valorarán soluciones que apoyen a los jóvenes en sus decisiones vocacionales.
+
+Existe una oportunidad de mercado debido a la falta de soluciones digitales completas, integradas y personalizadas de orientación vocacional.
+
+##### 1.2.2.3. Lean UX Hypothesis Statements
+
+Creemos que los estudiantes de secundaria necesitan una herramienta digital de orientación vocacional que les permita descubrir sus intereses, habilidades y compatibilidad con carreras profesionales mediante pruebas psicométricas avanzadas, sesiones con especialistas y reportes vocacionales personalizados.
+Si desarrollamos una aplicación que combine:
+ - Un modelo freemium con beneficios exclusivos en su versión premium (tests avanzados, acceso a especialistas y reportes detallados),
+
+ - La posibilidad de agendar citas con psicólogos certificados dentro de la plataforma,
+
+ - Y una suscripción premium para psicólogos que les ofrezca visibilidad, posicionamiento profesional y herramientas para su práctica vocacional,
+
+Entonces lograremos que los estudiantes tomen decisiones académicas más informadas, reduzcan la tasa de deserción por elección incorrecta de carrera y que los psicólogos encuentren una red profesional sólida, sostenible y con oportunidades reales de crecimiento dentro de la plataforma.
+
+### 1.3. Segmentos Objetivos
+
+**Jóvenes estudiantes de 15 - 19 años**
+
+**Descripción:**
+Adolescentes que se encuentran en la etapa final de la educación secundaria o que recientemente la han terminado. Están próximos a tomar decisiones clave sobre su futuro académico y profesional, pero en muchos casos enfrentan incertidumbre, presión externa e indecisión sobre qué carrera seguir o dónde estudiar.
+**Objetivo principal:**
+Definir su carrera profesional ideal y elegir la institución educativa alineada a su perfil vocacional.
+**Características clave:**
+ - En etapa activa de exploración de intereses y habilidades.
+
+ - Sienten presión para tomar decisiones importantes a corto plazo.
+
+ - Influenciados por padres, docentes, amigos y su entorno.
+
+ - Buscan orientación clara, confiable y personalizada.
+
+**Necesidades específicas:**
+Identificar sus fortalezas, talentos e intereses mediante herramientas confiables.
+
+ - Recibir sugerencias de carreras compatibles con su perfil.
+
+ - Explorar universidades, carreras y rutas educativas adaptadas a su vocación.
+
+ - Recibir orientación profesional de calidad.
+
+
+**Psicólogos enfocados en orientación vocacional**
+
+**Descripción:**
+Profesionales titulados en psicología con experiencia en orientación vocacional. Buscan digitalizar sus servicios, llegar a más jóvenes, y aprovechar plataformas tecnológicas para ofrecer asesorías personalizadas de manera remota.
+**Objetivo principal:**
+Ofrecer orientación vocacional personalizada en línea, generar ingresos y ampliar su impacto profesional.
+**Características clave:**
+ - Formación especializada en psicometría, vocación y asesoramiento juvenil.
+
+ - Interés en plataformas digitales que les permitan crecer profesionalmente.
+
+ - Buscan mayor visibilidad, acceso a nuevos clientes y autonomía en su gestión.
+
+ - Valoran herramientas que faciliten y eleven la calidad de su servicio.
+
+**Necesidades específicas:**
+ - Acceder a una red de estudiantes que requieren apoyo vocacional.
+
+ - Contar con una plataforma que centralice la gestión de citas, evaluaciones y reportes.
+
+ - Aplicar pruebas psicométricas y generar informes personalizados de forma digital.
+
+ - Obtener ingresos justos y sostenibles por cada sesión brindada a través de la app.
+
+**Segmentación Geográfica:**
+Región: Áreas urbanas de Lima con acceso a internet y una alta concentración de instituciones educativas de nivel secundario y superior.
+
+Distribución: Ciudades grandes y medianas con presencia de colegios, academias preuniversitarias y universidades, donde existe una mayor competitividad académica y presión por tomar decisiones vocacionales acertadas.
+
+**Segmentación Demográfica:**
+Edad: Estudiantes entre 15 y 19 años (secundaria y primeros ciclos universitarios).
+
+Nivel Socioeconómico: Clase media y media - alta, con acceso a dispositivos móviles, conectividad y recursos para invertir en orientación personalizada.
+
+Ocupación: Estudiantes activos de secundaria, egresados de colegio en búsqueda de carrera, y universitarios en etapa inicial de estudios.
+
+**Segmentación Psicográfica:**
+Estilo de Vida: Jóvenes que utilizan tecnología diariamente, familiarizados con apps educativas, redes sociales y plataformas digitales de aprendizaje.
+
+Valores y creencias: Buscan autoconocimiento, claridad sobre su futuro y una toma de decisiones responsable. Valoran la personalización, la orientación profesional y el acompañamiento humano en procesos importantes de su vida.
 
 
 ## Capítulo II: Requirements Elicitation & Analysis
