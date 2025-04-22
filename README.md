@@ -438,9 +438,89 @@ El tono de comunicación y lenguaje aplicado se está usando es para tener un to
 
 
 #### 4.1.2. Web Style Guidelines
+Para PsychoHelp, estamos desarrollando una plataforma web orientada a la orientación vocacional personalizada, para que los estudiantes y psicólogos puedan navegar de forma cómoda, clara y eficiente, mejorando significativamente su experiencia de usuario.
+
+Decidimos incorporar el patrón de diseño en forma de Z en nuestro sitio web. Esta técnica de diseño web es altamente efectiva para guiar visualmente la atención del usuario hacia los elementos clave, lo que potencia la comprensión del contenido y facilita la interacción. Normalmente, colocaremos el logotipo de PsychoHelp en la esquina superior izquierda, asegurando que sea el primer elemento que capte la atención del visitante.
+
+![web-style-guideline.png](Assets/Chapter%204/web-style-guideline.png)
+
+
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
+En PsychoHelp, aplicaremos distintos sistemas de organización de la información dependiendo del tipo de contenido y la experiencia deseada para el usuario. Nuestro objetivo es asegurar que tanto estudiantes como psicólogos accedan fácilmente a la información relevante, en el momento adecuado.
+
+**Menú principal:**
+
+| Sección         | Etiqueta  | Descripción  |
+|-----------------|---|---|
+| Menú de inicio  |  Inicio |  Página principal con visión general de la plataforma y CTA para comenzar. |
+| Menú de inicio  | Sobre Nosotros |  Información sobre la misión, visión y equipo de PsychoHelp. |
+| Menú de inicio  | Test Vocacional| Botón para acceso a los distintos tipos de test vocacionales (gratuito y premium).  |
+| Menú de inicio  | Psicólogos  |  Botón para ver el listado y perfiles de psicólogos certificados, con opción de agendar sesión. |
+| Menú de inicio  | Planes y Suscripción  | Comparación entre versión gratuita y premium para estudiantes y psicólogos.  |
+| Menú de inicio  | Iniciar sesión  | Botón para que usuarios registrados accedan a su cuenta.  |
+| Menú de inicio  |Registrarse | Opción para crear una nueva cuenta (estudiante o psicólogo).|
+
+**Inicio de sesión y registro:**
+
+| Sección         | Etiqueta  | Descripción  |
+|-----------------|---|---|
+| Autenticación  |  Iniciar sesión |  Botón donde los usuarios acceden a su cuenta. |
+| Autenticación  | Iniciar sesión con Google |  Inicio de sesión a través de una cuenta de Google. |
+| Autenticación  | Iniciar sesión con Facebook| Inicio de sesión a través de una cuenta de Facebook.  |
+| Autenticación  | Registrarse  |  Formulario de registro como estudiante o psicólogo. |
+
+**Panel del Estudiante (Dashboard)**
+
+| Sección         | Etiqueta  | Descripción  |
+|-----------------|---|---|
+| Dashboard Estudiante  |  Resultados de test |  Visualización de resultados y análisis básicos. |
+| Dashboard Estudiante | Reporte vocacional (PDF) |  Acceso y descarga del reporte detallado si es usuario premium. |
+| Dashboard Estudiante | Historial de sesiones| Registro de sesiones pasadas con psicólogos.  |
+| Dashboard Estudiante | Recomendaciones académicas  |  Universidades sugeridas según perfil psicométrico( usuario premium) |
+| Dashboard Estudiante  | Editar perfil  | Permite modificar sus datos personales  |
+
+**Panel del Psicólogo (Dashboard)**
+
+| Sección         | Etiqueta  | Descripción  |
+|-----------------|---|---|
+| Dashboard Psicólogo  |  Perfil profesional |  Visualización y edición del perfil público. |
+| Dashboard Psicólogo | Disponibilidad |  Configuración de horarios y fechas para agendar citas. |
+| Dashboard Psicólogo | Citas agendadas| Vista y gestión de sesiones con estudiantes.  |
+| Dashboard Psicólogo | Estadísticas de perfil  |  Métricas de visualización, citas programadas, reseñas recibidas. |
+| Dashboard Psicólogo  | Acceso Premium  | Gestión de la suscripción premium y sus beneficios. |
+
+**Página de Planes y Suscripción**
+
+| Sección         | Etiqueta  | Descripción  |
+|-----------------|---|---|
+| Planes y precios  |  Estudiante Gratuito |  Plan básico con test inicial gratuito y visualización parcial de resultados. |
+| Planes y precios  | Estudiante Premium |  Acceso a tests avanzados, reporte PDF y sesiones con psicólogos. |
+| Planes y precios  | Psicólogo Gratuito| Registro en la plataforma y perfil básico visible.  |
+| Planes y precios  | Psicólogo Premium |  Mayor visibilidad, herramientas, estadísticas y agenda destacada. |
+
+**Página de Test Vocacional**
+
+| Sección         | Etiqueta  | Descripción  |
+|-----------------|---|---|
+| Test Vocacional  |  Tipos de Test |  Sección que compara el test básico gratuito con el test premium más profundo. |
+| Test Vocacional  | Realizar Test |  Botón que llama a la acción para iniciar el test. Pide login/registro si aún no accedió. |
+| Test Vocacional  | Resultados inmediatos| Muestra resumen básico de perfil vocacional.  |
+| Test Vocacional | CTA Premium |  Botón o mensaje para animar a suscribirse y desbloquear el test avanzado y el PDF. |
+
+**Página de Psicólogos**
+
+| Sección             | Etiqueta  | Descripción  |
+|---------------------|---|---|
+| Busqueda Psicólogos |  Lista de Psicólogos |  Muestra todos los psicólogos registrados con filtros por especialidad, enfoque, etc. |
+| Busqueda Psicólogos     | Ficha de Psicólogo |  Botón que muestra la información profesional, educación, certificaciones y testimonios. |
+| Busqueda Psicólogos     | Botón o formulario para reservar una cita (requiere estar registrado y ser premiun).  |
+
+
+
 #### 4.2.2. Labeling Systems
+
 #### 4.2.3. SEO Tags and Meta Tags
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
