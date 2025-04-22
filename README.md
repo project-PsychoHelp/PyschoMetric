@@ -23,11 +23,11 @@
 
 | <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
 |:-------------------------------------:|:-------------------------------------:|
-|                                       |    
-|                                       |                                       |
+|     Joaquin Alberto Cuentas Peña      |              U20201f788               |
+|      Walter Luis Fajardo Monrroy      |              U202221632               |
 |      Eric Marlon Olivera Barzola      |              U202315032               |
-|                                       |                                       |                                 |
-|                                       |                                       |
+|     Victor Manuel Rojas Reategui      |              U202123655               |                                
+|     Geronimo Quispe Pablo Antonio     |              U202314304               |
 
 </div>
 
@@ -48,6 +48,12 @@
 ## Tabla de Contenidos
 
 ## Student Outcome
+
+| Criterio específico                                                                                      | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.c1. Identifica problemas complejos de ingeniería de software.                                          | Cuentas Peña Joaquin Alberto</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Fajardo Monrroy, Walter Luis</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Olivera Barzola, Eric Marlon</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática</br></br>Geronimo Quispe ,Pablo Antonio</br>TB1:</br>Se centró en identificar un problema concreto que afecta a los usuarios y ofrecer una solución innovadora. En este caso, la descripción del problema, los usuarios potenciales y los objetivos del proyecto.</br></br>Rojas Reategui, Victor Manuel</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática. | TB1:</br>El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. |
+| 1.c2. Formula problemas complejos de ingeniería de software aplicando ciencias,matemáticas e ingeniería  | Cuentas Peña Joaquin Alberto</br>TB1:</br>Aplicando la técnica 5W2H, le permitió identificar de manera precisa y brindar un enfoque claro y bien fundamentado para el desarrollo antecedente y problemáticas del trabajo.</br></br>Fajardo Monrroy, Walter Luis</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Olivera Barzola, Eric Marlon</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Geronimo Quispe ,Pablo Antonio</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Rojas Reategui, Victor Manuel</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.                             | TB1:</br>El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. |
+| 1.c3. Resuelve problemas complejos de ingeniería de software aplicando ciencias,matemáticas e ingeniería | Cuentas Peña Joaquin Alberto</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Fajardo Monrroy, Walter Luis</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Olivera Barzola, Eric Marlon</br>TB1:</br>Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.</br></br>Geronimo Quispe ,Pablo Antonio</br>TB1:</br>El proceso de definir una propuesta de valor refuerza la importancia del aprendizaje continuo en el análisis de problemas reales y en la creación de soluciones centradas en el usuario.</br></br>Rojas Reategui, Victor Manuel</br>TB1:Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática.                         | TB1:</br>El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. |
 
 <details>
     <summary><h3>Capítulo I: Introducción </h3></summary>    
@@ -1045,9 +1051,18 @@ Estrategias de Diseño:
 
 ![landing4.png](Assets/Chapter%204/landing4.png)
 #### 4.3.2. Landing Page Mock-up
+
 ![1](Assets/Chapter%204/1.JPG)
 ![2](Assets/Chapter%204/2.JPG)
 ![3](Assets/Chapter%204/3.JPG)
+
+
+![landing-mockup1.png](Assets/Chapter%204/landing-mockup1.png)
+
+![landing-mockup2.png](Assets/Chapter%204/landing-mockup2.png)
+
+![landing-mockup3.png](Assets/Chapter%204/landing-mockup3.png)
+
 
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
@@ -1082,6 +1097,7 @@ Estrategias de Diseño:
 **PANELL DE PSICÓLOGO**
 ![Panel-psicólogo.png](Assets/Chapter%204/Panel-psic%C3%B3logo.png)
 #### 4.4.2. Web Applications Wireflow Diagrams
+
 Cada diagrama muestra las interacciones y cambios de pantalla a lo largo de los flujos típicos, utilizando las herramientas indicadas para ilustrar el nuevo estado tras cada
 
 ![4](Assets/Chapter%204/4.JPG)
@@ -1126,6 +1142,65 @@ PÁGINA WEB DE RESOLUCION DE TEST:
 
 VIDEO SOBRE EL PROTOTIPO:
 [VER EL VIDEO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+=======
+
+![wireflow-diagram.png](Assets/Chapter%204/wireflow-diagram.png)
+
+[https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224](https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224)
+
+#### 4.4.3. Web Applications Mock-ups
+
+**LOGIN / REGISTER:**
+
+![iniciar-sesión.png](Assets/Chapter%204/iniciar-sesi%C3%B3n.png)
+
+![registrarse.png](Assets/Chapter%204/registrarse.png)
+
+**PÁGINA DE PLANES Y SUBSCRIPCIÓN:**
+
+![planes2.png](Assets/Chapter%204/planes2.png)
+
+![detalles-planes2.png](Assets/Chapter%204/detalles-planes2.png)
+
+**PÁGINA DE BÚSQUEDA DE PSICÓLOGOS**
+
+![busqueda-psicólogos2.png](Assets/Chapter%204/busqueda-psic%C3%B3logos2.png)
+
+**PANEL DE ESTUDIANTE:**
+
+![panel-estudiante2.png](Assets/Chapter%204/panel-estudiante2.png)
+
+**PANEL DE PSICÓLOGO**
+
+![panel-psicólogo2.png](Assets/Chapter%204/panel-psic%C3%B3logo2.png)
+
+**BUSQUEDA DE LOS TESTS**
+
+![busqueda-tests2.png](Assets/Chapter%204/busqueda-tests2.png)
+
+
+
+**INTERFAZ DE LOS TESTS**
+
+![interfaz-tests.png](Assets/Chapter%204/interfaz-tests.png)
+
+
+#### 4.4.4. Web Applications User Flow Diagrams
+
+![user-flow-diagram.png](Assets/Chapter%204/user-flow-diagram.png)
+
+[https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870](https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870)
+
+
+
+### 4.5. Web Applications Prototyping
+
+![prototyping.png](Assets/Chapter%204/prototyping.png)
+
+[Elance para ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams
 
@@ -1163,6 +1238,7 @@ VIDEO SOBRE EL PROTOTIPO:
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+![Class Diagram](Assets/Chapter%204/diagram_class.jpeg)
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
