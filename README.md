@@ -503,11 +503,27 @@ El tono de comunicación y lenguaje aplicado se está usando es para tener un to
 
 **Diagrama de Componentes - User Management Bounded Context**
 
-![Component Diagram](Assets/Chapter%204/component_diagram01.png)
+![Component Diagram](Assets/Chapter%204/diagram_component01.png)
 
 **Diagrama de Componentes - Messaging Management Bounded Context**
 
-![Component Diagram](Assets/Chapter%204/component_diagram02.png)
+![Component Diagram](Assets/Chapter%204/diagram_component02.png) 
+
+**Diagrama de Componentes - Payment Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component03.png)
+
+**Diagrama de Componentes - Notification Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component04.png)
+
+**Diagrama de Componentes - Appointment Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component05.png)
+
+**Diagrama de Componentes - Test Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component06.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
