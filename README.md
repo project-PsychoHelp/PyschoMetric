@@ -515,12 +515,16 @@ En PsychoHelp, aplicaremos distintos sistemas de organización de la informació
 |---------------------|---|---|
 | Busqueda Psicólogos |  Lista de Psicólogos |  Muestra todos los psicólogos registrados con filtros por especialidad, enfoque, etc. |
 | Busqueda Psicólogos     | Ficha de Psicólogo |  Botón que muestra la información profesional, educación, certificaciones y testimonios. |
-| Busqueda Psicólogos     | Botón o formulario para reservar una cita (requiere estar registrado y ser premiun).  |
+| Busqueda Psicólogos     | Agendar sesión| Botón o formulario para reservar una cita (requiere estar registrado y ser premiun). |
+
+
+
+
+
 
 
 
 #### 4.2.2. Labeling Systems
-
 #### 4.2.3. SEO Tags and Meta Tags
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
