@@ -273,7 +273,15 @@ Si desarrollamos una aplicación que combine:
 
  - Y una suscripción premium para psicólogos que les ofrezca visibilidad, posicionamiento profesional y herramientas para su práctica vocacional,
 
-Entonces lograremos que los estudiantes tomen decisiones académicas más informadas, reduzcan la tasa de deserción por elección incorrecta de carrera y que los psicólogos encuentren una red profesional sólida, sostenible y con oportunidades reales de crecimiento dentro de la plataforma.
+Entonces lograremos que los estudiantes tomen decisiones académicas más informadas, reduzcan la tasa de deserción por elección incorrecta de carrera y que los psicólogos encuentren una red profesional sólida, sostenible y con oportunidades reales de crecimiento dentro de la plataforma .
+
+##### 1.2.2.4. Lean UX Canvas
+
+<div align="center">
+  <img src="./Assets/Lean UX Canvas.jpg"  style="margin: 10px 0;" width="70%">
+  </div>
+
+https://miro.com/welcomeonboard/SkxvZDZOSkVFd0p2b0hRLzJiM0ttR0N2MkZRbFdCQld3bkl0VFVUKzZjYlFGQWxLNEk4MkFNZUxlQmdBN3M0K2I0bXhGbUM4UEVZQlVzS21pdFZ0bGtnVG5ZTlRaT1J2bUlsSWxoV3lwTUxyeENGYS9pS1BTTGhGc2tDS3JvcTdBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=110904466604
 
 ### 1.3. Segmentos Objetivos
 
