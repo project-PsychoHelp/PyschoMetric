@@ -442,11 +442,11 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 
 **Diagrama de Componentes - User Management Bounded Context**
 
-![Component Diagram](Assets/Chapter%204/component_diagram01.png)
+![Component Diagram](Assets/Chapter%204/diagram_component01.png)
 
 **Diagrama de Componentes - Messaging Management Bounded Context**
 
-![Component Diagram](Assets/Chapter%204/component_diagram02.png)
+![Component Diagram](Assets/Chapter%204/diagram_component02.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
