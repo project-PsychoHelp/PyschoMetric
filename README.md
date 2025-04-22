@@ -842,10 +842,196 @@ Estrategias de Diseño:
 #### 4.7.1. Class Diagrams
 ![Class Diagram](Assets/Chapter%204/diagram_class.jpeg)
 #### 4.7.2. Class Dictionary
+
+# Documentación de Clases
+
+## Clase: `User`
+
+| Nombre de Atributo | Descripción                             | Tipo de Dato        |
+|--------------------|-----------------------------------------|---------------------|
+| `id`               | Identificador único del usuario         | UUID                |
+| `name`             | Nombre del usuario                      | String              |
+| `mail`             | Correo electrónico del usuario          | String              |
+| `password`         | Contraseña del usuario                  | String              |
+| `rol`              | Rol del usuario (ej. estudiante, psicólogo) | RolUsuario (enum) |
+| `profile`          | Perfil asociado del usuario             | Profile             |
+
+**Métodos**
+- `login()` — Iniciar sesión del usuario
+- `recoverPassword()` — Recuperar la contraseña del usuario
+
+---
+
+## Clase: `Profile`
+
+| Nombre de Atributo | Descripción                     | Tipo de Dato |
+|--------------------|---------------------------------|--------------|
+| `idProfile`        | Identificador del perfil        | int          |
+| `name`             | Nombre del perfil               | String       |
+| `typeUser`         | Tipo de usuario del perfil      | enum         |
+| `mail`             | Correo del perfil               | String       |
+| `photoProfil`      | Foto del perfil (URL o ruta)    | String       |
+
+**Métodos**
+- `modifyName()` — Modificar el nombre del perfil
+
+---
+
+## Clase: `Student`
+
+Usuario con rol de estudiante.  
+Hereda de: `User`
+
+**Métodos**
+- `updateStudent()` — Actualiza los datos del estudiante
+
+---
+
+## Clase: `Psychologist`
+
+Usuario con rol de psicólogo.  
+Hereda de: `User`
+
+**Métodos**
+- `updatePsychologist()` — Actualiza los datos del psicólogo
+
+---
+
+## Clase: `Appointment`
+
+| Nombre de Atributo | Descripción                     | Tipo de Dato       |
+|--------------------|---------------------------------|--------------------|
+| `id`               | Identificador único de la cita  | UUID               |
+| `student`          | Estudiante que participa        | Student            |
+| `psychologist`     | Psicólogo que participa         | Psychologist       |
+| `dateTime`         | Fecha y hora de la cita         | DateTime           |
+| `state`            | Estado de la cita               | StateAppointment (enum) |
+
+---
+
+## Clase: `Session`
+
+| Nombre de Atributo | Descripción                    | Tipo de Dato  |
+|--------------------|--------------------------------|---------------|
+| `id`               | Identificador único de la sesión | UUID        |
+| `student`          | Estudiante participante        | Student       |
+| `psychologist`     | Psicólogo participante         | Psychologist  |
+| `notes`            | Notas tomadas en la sesión     | String        |
+
+**Métodos**
+- `startSession()` — Iniciar la sesión  
+- `endSession()` — Finalizar la sesión  
+- `addNotes()` — Agregar notas a la sesión
+
+---
+
+## Clase: `Test`
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato      |
+|--------------------|------------------------------|-------------------|
+| `id`               | Identificador del test       | UUID              |
+| `name`             | Nombre del test              | String            |
+| `description`      | Descripción del test         | String            |
+| `questions`        | Lista de preguntas           | List<Question>    |
+| `dateStart`        | Fecha de inicio del test     | Date              |
+| `dateEnd`          | Fecha de fin del test        | Date              |
+
+**Métodos**
+- `start()` — Iniciar el test  
+- `pause()` — Pausar el test  
+- `finish()` — Finalizar el test
+
+---
+
+## Clase: `Question`
+
+| Nombre de Atributo | Descripción               | Tipo de Dato    |
+|--------------------|---------------------------|-----------------|
+| `id`               | Identificador de la pregunta | UUID         |
+| `text`             | Texto de la pregunta      | String          |
+| `options`          | Opciones de respuesta     | List<Opcion>     |
+
+---
+
+## Clase: `Results_test`
+
+| Nombre de Atributo | Descripción                       | Tipo de Dato           |
+|--------------------|-----------------------------------|------------------------|
+| `id`               | Identificador del resultado       | UUID                   |
+| `testId`           | Identificador del test asociado   | UUID                   |
+| `studentId`        | Identificador del estudiante      | UUID                   |
+| `points`           | Puntos por categoría              | Map<String, Double>    |
+| `summary`          | Resumen del resultado             | String                 |
+| `date`             | Fecha del resultado               | Date                   |
+
+**Métodos**
+- `castResult()` — Método para procesar el resultado
+
+---
+
+## Clase: `Planning`
+
+| Nombre de Atributo | Descripción                  | Tipo de Dato |
+|--------------------|------------------------------|--------------|
+| `idPlan`           | Identificador del plan       | UUID         |
+| `type`             | Tipo de plan (mensual, anual)| String       |
+
+**Métodos**
+- `showPlan()` — Mostrar detalles del plan  
+- `suscribePlan()` — Suscribirse a un plan  
+- `renewPlan()` — Renovar el plan
+
+---
+
+## Clase: `Payment`
+
+| Nombre de Atributo | Descripción              | Tipo de Dato                              |
+|--------------------|--------------------------|-------------------------------------------|
+| `amount`           | Monto del pago           | Double                                    |
+| `status`           | Estado del pago          | enum (`PENDING`, `COMPLETED`, `FAILED`)   |
+| `paymentDate`      | Fecha del pago           | DateTime                                  |
+| `paymentMethod`    | Método de pago           | String                                    |
+
+**Métodos**
+- `cancelPayment()` — Cancelar un pago  
+- `getReceipt()` — Obtener recibo de pago
+
+---
+
+## Clase: `Notification`
+
+| Nombre de Atributo | Descripción                       | Tipo de Dato              |
+|--------------------|-----------------------------------|---------------------------|
+| `id`               | Identificador de la notificación | UUID                      |
+| `recipient`        | Usuario destinatario             | User                      |
+| `message`          | Mensaje de la notificación       | String                    |
+| `dateTime`         | Fecha y hora de la notificación  | DateTime                  |
+| `type`             | Tipo de notificación             | TypeNotification (enum)   |
+| `status`           | Estado de la notificación        | StatusNotification (enum) |
+
+**Métodos**
+- `sendNotification()` — Enviar la notificación
+
+---
+
+## Clase: `Chat`
+
+| Nombre de Atributo | Descripción               | Tipo de Dato                  |
+|--------------------|---------------------------|-------------------------------|
+| `id`               | Identificador del mensaje | UUID                          |
+| `message`          | Contenido del mensaje     | String                        |
+| `dateTime`         | Fecha y hora del mensaje  | DateTime                      |
+| `status`           | Estado del mensaje        | ChatStatus (enum: SENT, DELIVERED, READ) |
+
+**Métodos**
+- `sendMessage()` — Enviar un mensaje de chat  
+- `markAsRead()` — Marcar un mensaje como leído
+
+
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
 
-![Database Diagram](Assets/bd_diagram.png)
+![Database Diagram](Assets/Chapter%204/diagram_DB.png)
 
 
 
