@@ -1045,6 +1045,10 @@ Estrategias de Diseño:
 
 ![landing4.png](Assets/Chapter%204/landing4.png)
 #### 4.3.2. Landing Page Mock-up
+![1](Assets/Chapter%204/1.JPG)
+![2](Assets/Chapter%204/2.JPG)
+![3](Assets/Chapter%204/3.JPG)
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 **LOGIN**
@@ -1078,9 +1082,50 @@ Estrategias de Diseño:
 **PANELL DE PSICÓLOGO**
 ![Panel-psicólogo.png](Assets/Chapter%204/Panel-psic%C3%B3logo.png)
 #### 4.4.2. Web Applications Wireflow Diagrams
+Cada diagrama muestra las interacciones y cambios de pantalla a lo largo de los flujos típicos, utilizando las herramientas indicadas para ilustrar el nuevo estado tras cada
+
+![4](Assets/Chapter%204/4.JPG)
+
+[Ver tablero en Miro](https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224)
+
 #### 4.4.3. Web Applications Mock-ups
+
+LOGIN / REGISTER:
+![5](Assets/Chapter%204/5.JPG)
+![6](Assets/Chapter%204/6.JPG)
+
+PÁGINA DE PLANES Y SUBSCRIPCIÓN:
+
+![7](Assets/Chapter%204/7.JPG)
+![8](Assets/Chapter%204/8.JPG)
+![9](Assets/Chapter%204/9.JPG)
+
+PÁGINA DE BÚSQUEDA DE PSICÓLOGOS
+
+![10](Assets/Chapter%204/10.JPG)
+
+PANEL DE ESTUDIANTE:
+![11](Assets/Chapter%204/11.JPG)
+
+PANEL DE PSICÓLOGO:
+![12](Assets/Chapter%204/12.JPG)
+
+PÁGINA DE LOS TEST:
+![15](Assets/Chapter%204/15.JPG)
+
+PÁGINA WEB DE RESOLUCION DE TEST:
+
+![16](Assets/Chapter%204/16.JPG)
+
 #### 4.4.4. Web Applications User Flow Diagrams
+![17](Assets/Chapter%204/17.JPG)
+
+[Ver tablero en miro](https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870 )
 ### 4.5. Web Applications Prototyping
+![18](Assets/Chapter%204/18.JPG)
+
+VIDEO SOBRE EL PROTOTIPO:
+[VER EL VIDEO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams
 
@@ -1401,4 +1446,5 @@ En nuestro repositorio vamos a github pages y logramos hacer un deploy de nuestr
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Eric Olivera
+
 
