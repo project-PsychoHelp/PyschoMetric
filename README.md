@@ -452,70 +452,70 @@ En PsychoHelp, aplicaremos distintos sistemas de organización de la informació
 
 **Menú principal:**
 
-| Sección         | Etiqueta  | Descripción  |
-|-----------------|---|---|
-| Menú de inicio  |  Inicio |  Página principal con visión general de la plataforma y CTA para comenzar. |
-| Menú de inicio  | Sobre Nosotros |  Información sobre la misión, visión y equipo de PsychoHelp. |
-| Menú de inicio  | Test Vocacional| Botón para acceso a los distintos tipos de test vocacionales (gratuito y premium).  |
-| Menú de inicio  | Psicólogos  |  Botón para ver el listado y perfiles de psicólogos certificados, con opción de agendar sesión. |
-| Menú de inicio  | Planes y Suscripción  | Comparación entre versión gratuita y premium para estudiantes y psicólogos.  |
-| Menú de inicio  | Iniciar sesión  | Botón para que usuarios registrados accedan a su cuenta.  |
-| Menú de inicio  |Registrarse | Opción para crear una nueva cuenta (estudiante o psicólogo).|
+| Sección        | Etiqueta             | Descripción                                                                                    |
+|----------------|----------------------|------------------------------------------------------------------------------------------------|
+| Menú de inicio | Inicio               | Página principal con visión general de la plataforma y CTA para comenzar.                      |
+| Menú de inicio | Sobre Nosotros       | Información sobre la misión, visión y equipo de PsychoHelp.                                    |
+| Menú de inicio | Test Vocacional      | Botón para acceso a los distintos tipos de test vocacionales (gratuito y premium).             |
+| Menú de inicio | Psicólogos           | Botón para ver el listado y perfiles de psicólogos certificados, con opción de agendar sesión. |
+| Menú de inicio | Planes y Suscripción | Comparación entre versión gratuita y premium para estudiantes y psicólogos.                    |
+| Menú de inicio | Iniciar sesión       | Botón para que usuarios registrados accedan a su cuenta.                                       |
+| Menú de inicio | Registrarse          | Opción para crear una nueva cuenta (estudiante o psicólogo).                                   |
 
 **Inicio de sesión y registro:**
 
-| Sección         | Etiqueta  | Descripción  |
-|-----------------|---|---|
-| Autenticación  |  Iniciar sesión |  Botón donde los usuarios acceden a su cuenta. |
-| Autenticación  | Iniciar sesión con Google |  Inicio de sesión a través de una cuenta de Google. |
-| Autenticación  | Iniciar sesión con Facebook| Inicio de sesión a través de una cuenta de Facebook.  |
-| Autenticación  | Registrarse  |  Formulario de registro como estudiante o psicólogo. |
+| Sección       | Etiqueta                    | Descripción                                          |
+|---------------|-----------------------------|------------------------------------------------------|
+| Autenticación | Iniciar sesión              | Botón donde los usuarios acceden a su cuenta.        |
+| Autenticación | Iniciar sesión con Google   | Inicio de sesión a través de una cuenta de Google.   |
+| Autenticación | Iniciar sesión con Facebook | Inicio de sesión a través de una cuenta de Facebook. |
+| Autenticación | Registrarse                 | Formulario de registro como estudiante o psicólogo.  |
 
 **Panel del Estudiante (Dashboard)**
 
-| Sección         | Etiqueta  | Descripción  |
-|-----------------|---|---|
-| Dashboard Estudiante  |  Resultados de test |  Visualización de resultados y análisis básicos. |
-| Dashboard Estudiante | Reporte vocacional (PDF) |  Acceso y descarga del reporte detallado si es usuario premium. |
-| Dashboard Estudiante | Historial de sesiones| Registro de sesiones pasadas con psicólogos.  |
-| Dashboard Estudiante | Recomendaciones académicas  |  Universidades sugeridas según perfil psicométrico( usuario premium) |
-| Dashboard Estudiante  | Editar perfil  | Permite modificar sus datos personales  |
+| Sección              | Etiqueta                   | Descripción                                                         |
+|----------------------|----------------------------|---------------------------------------------------------------------|
+| Dashboard Estudiante | Resultados de test         | Visualización de resultados y análisis básicos.                     |
+| Dashboard Estudiante | Reporte vocacional (PDF)   | Acceso y descarga del reporte detallado si es usuario premium.      |
+| Dashboard Estudiante | Historial de sesiones      | Registro de sesiones pasadas con psicólogos.                        |
+| Dashboard Estudiante | Recomendaciones académicas | Universidades sugeridas según perfil psicométrico( usuario premium) |
+| Dashboard Estudiante | Editar perfil              | Permite modificar sus datos personales                              |
 
 **Panel del Psicólogo (Dashboard)**
 
-| Sección         | Etiqueta  | Descripción  |
-|-----------------|---|---|
-| Dashboard Psicólogo  |  Perfil profesional |  Visualización y edición del perfil público. |
-| Dashboard Psicólogo | Disponibilidad |  Configuración de horarios y fechas para agendar citas. |
-| Dashboard Psicólogo | Citas agendadas| Vista y gestión de sesiones con estudiantes.  |
-| Dashboard Psicólogo | Estadísticas de perfil  |  Métricas de visualización, citas programadas, reseñas recibidas. |
-| Dashboard Psicólogo  | Acceso Premium  | Gestión de la suscripción premium y sus beneficios. |
+| Sección             | Etiqueta               | Descripción                                                      |
+|---------------------|------------------------|------------------------------------------------------------------|
+| Dashboard Psicólogo | Perfil profesional     | Visualización y edición del perfil público.                      |
+| Dashboard Psicólogo | Disponibilidad         | Configuración de horarios y fechas para agendar citas.           |
+| Dashboard Psicólogo | Citas agendadas        | Vista y gestión de sesiones con estudiantes.                     |
+| Dashboard Psicólogo | Estadísticas de perfil | Métricas de visualización, citas programadas, reseñas recibidas. |
+| Dashboard Psicólogo | Acceso Premium         | Gestión de la suscripción premium y sus beneficios.              |
 
 **Página de Planes y Suscripción**
 
-| Sección         | Etiqueta  | Descripción  |
-|-----------------|---|---|
-| Planes y precios  |  Estudiante Gratuito |  Plan básico con test inicial gratuito y visualización parcial de resultados. |
-| Planes y precios  | Estudiante Premium |  Acceso a tests avanzados, reporte PDF y sesiones con psicólogos. |
-| Planes y precios  | Psicólogo Gratuito| Registro en la plataforma y perfil básico visible.  |
-| Planes y precios  | Psicólogo Premium |  Mayor visibilidad, herramientas, estadísticas y agenda destacada. |
+| Sección          | Etiqueta            | Descripción                                                                  |
+|------------------|---------------------|------------------------------------------------------------------------------|
+| Planes y precios | Estudiante Gratuito | Plan básico con test inicial gratuito y visualización parcial de resultados. |
+| Planes y precios | Estudiante Premium  | Acceso a tests avanzados, reporte PDF y sesiones con psicólogos.             |
+| Planes y precios | Psicólogo Gratuito  | Registro en la plataforma y perfil básico visible.                           |
+| Planes y precios | Psicólogo Premium   | Mayor visibilidad, herramientas, estadísticas y agenda destacada.            |
 
 **Página de Test Vocacional**
 
-| Sección         | Etiqueta  | Descripción  |
-|-----------------|---|---|
-| Test Vocacional  |  Tipos de Test |  Sección que compara el test básico gratuito con el test premium más profundo. |
-| Test Vocacional  | Realizar Test |  Botón que llama a la acción para iniciar el test. Pide login/registro si aún no accedió. |
-| Test Vocacional  | Resultados inmediatos| Muestra resumen básico de perfil vocacional.  |
-| Test Vocacional | CTA Premium |  Botón o mensaje para animar a suscribirse y desbloquear el test avanzado y el PDF. |
+| Sección         | Etiqueta              | Descripción                                                                              |
+|-----------------|-----------------------|------------------------------------------------------------------------------------------|
+| Test Vocacional | Tipos de Test         | Sección que compara el test básico gratuito con el test premium más profundo.            |
+| Test Vocacional | Realizar Test         | Botón que llama a la acción para iniciar el test. Pide login/registro si aún no accedió. |
+| Test Vocacional | Resultados inmediatos | Muestra resumen básico de perfil vocacional.                                             |
+| Test Vocacional | CTA Premium           | Botón o mensaje para animar a suscribirse y desbloquear el test avanzado y el PDF.       |
 
 **Página de Psicólogos**
 
-| Sección             | Etiqueta  | Descripción  |
-|---------------------|---|---|
-| Busqueda Psicólogos |  Lista de Psicólogos |  Muestra todos los psicólogos registrados con filtros por especialidad, enfoque, etc. |
-| Busqueda Psicólogos     | Ficha de Psicólogo |  Botón que muestra la información profesional, educación, certificaciones y testimonios. |
-| Busqueda Psicólogos     | Agendar sesión| Botón o formulario para reservar una cita (requiere estar registrado y ser premiun). |
+| Sección             | Etiqueta            | Descripción                                                                             |
+|---------------------|---------------------|-----------------------------------------------------------------------------------------|
+| Busqueda Psicólogos | Lista de Psicólogos | Muestra todos los psicólogos registrados con filtros por especialidad, enfoque, etc.    |
+| Busqueda Psicólogos | Ficha de Psicólogo  | Botón que muestra la información profesional, educación, certificaciones y testimonios. |
+| Busqueda Psicólogos | Agendar sesión      | Botón o formulario para reservar una cita (requiere estar registrado y ser premiun).    |
 
 
 
@@ -525,7 +525,98 @@ En PsychoHelp, aplicaremos distintos sistemas de organización de la informació
 
 
 #### 4.2.2. Labeling Systems
+
+Para garantizar una experiencia clara y sin confusión, utilizaremos etiquetas simples, consistentes y directas en todas las interfaces de usuario.
+
+| Sección                  | Etiqueta                     | Asociación / Función                                    |
+|--------------------------|------------------------------|---------------------------------------------------------|
+| Página de inicio         | Inicio                       | Entrada principal al sitio, visión general              |
+| Cómo funciona            | ¿Cómo funciona?              | Explicación paso a paso del servicio                    |
+| Test vocacional          | Realizar test                | Acceso directo al test básico o premium                 |
+| Resultados del test      | Mis resultados               | Acceso a resultados anteriores y descarga del PDF       |
+| Página de psicólogos     | Psicólogos disponibles       | Lista filtrable de especialistas certificados           |
+| Perfil del psicólogo     | Ver perfil                   | Información de experiencia, estudios, valoraciones      |
+| Citas / sesiones         | Agendar sesión               | Acción para programar una sesión                        |
+| Panel del estudiante     | Mi panel                     | Dashboard personalizado del estudiante                  |
+| Panel del psicólogo      | Panel profesional            | Dashboard de gestión del psicólogo                      |
+| Planes y precios         | Planes y suscripción         | Comparación y elección entre planes gratuitos y premium |
+| Registro e inicio sesión | Iniciar sesión / Registrarse | Acceso o creación de cuenta                             |
+| Cerrar sesión            | Salir                        | Finalizar la sesión actual                              |
+| Testimonios              | Opiniones de usuarios        | Comentarios y experiencias de estudiantes               |
+| Contacto                 | Contáctanos                  | Formulario de consulta o soporte                        |
+
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+1.Menú Principal
+- Title: "PsychoHelp - Plataforma de Orientación Vocacional para Estudiantes"
+
+- Meta Description: "Accede a la plataforma PsychoHelp para explorar tests psicométricos, sesiones con psicólogos certificados y reportes detallados. Descubre la mejor orientación vocacional."
+
+- Meta Keywords: "orientación vocacional, tests psicométricos, psicólogos certificados, plataforma vocacional, PsychoHelp"
+
+- Meta Author: "PsychoHelp Team"
+
+
+2.Inicio de Sesión y Registro
+- Title: "Iniciar Sesión / Registrarse - PsychoHelp"
+
+- Meta Description: "Inicia sesión en PsychoHelp o regístrate para obtener acceso a tests vocacionales, sesiones con psicólogos certificados y reportes detallados."
+
+- Meta Keywords: "iniciar sesión, registrarse, acceso PsychoHelp, cuenta estudiante, cuenta psicólogo"
+
+- Meta Author: "PsychoHelp Team"
+
+
+3.Panel del Estudiante (Dashboard)
+- Title: "Panel del Estudiante - PsychoHelp"
+
+- Meta Description: "Accede a tu panel personal en PsychoHelp, donde podrás ver tus resultados de test vocacionales, agendar sesiones con psicólogos certificados y consultar tus reportes vocacionales."
+
+- Meta Keywords: "panel estudiante, resultados de test, psicólogos certificados, agendar sesión, reporte vocacional"
+
+- Meta Author: "PsychoHelp Team"
+
+
+4.Panel del Psicólogo (Dashboard)
+- Title: "Panel del Psicólogo - PsychoHelp"
+
+- Meta Description: "Accede al panel de psicólogo en PsychoHelp para gestionar tu disponibilidad, interactuar con estudiantes, ver estadísticas de tus sesiones y obtener más visibilidad."
+
+- Meta Keywords: "panel psicólogo, gestionar disponibilidad, estadísticas de sesiones, psicólogos certificados, orientación vocacional"
+
+- Meta Author: "PsychoHelp Team"
+
+
+5.Página de Planes y Suscripción
+- Title: "Planes y Suscripción Premium - PsychoHelp"
+
+- Meta Description: "Descubre los planes y suscripción premium de PsychoHelp. Obtén acceso a tests avanzados, sesiones con psicólogos y reportes vocacionales interactivos."
+
+- Meta Keywords: "plan premium, suscripción premium, tests avanzados, orientación vocacional, reporte vocacional, psicólogos certificados"
+
+
+- Meta Author: "PsychoHelp Team"
+
+
+6.Página de Test Vocacional
+- Title: "Test Vocacional Gratuito y Avanzado - PsychoHelp"
+
+- Meta Description: "Realiza tu test vocacional gratuito o premium en PsychoHelp. Obtén recomendaciones de carrera, perfil psicométrico y acceso a reportes detallados."
+
+- Meta Keywords: "test vocacional, test gratuito, test avanzado, orientación vocacional, perfil psicométrico, carrera profesional"
+
+- Meta Author: "PsychoHelp Team"
+
+
+7.Página de Psicólogos
+- Title: "Psicólogos Certificados - PsychoHelp"
+
+- Meta Description: "Conecta con psicólogos vocacionales certificados. Encuentra el profesional adecuado para recibir orientación vocacional y tomar decisiones académicas informadas."
+
+- Meta Keywords: "psicólogos certificados, orientación vocacional, psicólogos en línea, sesión con psicólogos, psicología vocacional"
+
+
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design
