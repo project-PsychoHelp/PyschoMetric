@@ -618,8 +618,85 @@ Para garantizar una experiencia clara y sin confusión, utilizaremos etiquetas s
 
 
 #### 4.2.4. Searching Systems
+
+| Filtro                            | Opciones de búsqueda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Búsqueda de Psicólogos            | Búsqueda por nombre: Los usuarios podrán buscar a un psicólogo por su nombre o apellido. <br/><br/> Búsqueda por especialidad: Los usuarios podrán filtrar psicólogos según áreas de especialización, como orientación vocacional, terapia psicológica, etc.<br/><br/> Búsqueda por disponibilidad: Los usuarios podrán filtrar psicólogos según su disponibilidad para agendar citas.<br/><br/>Búsqueda por ubicación (opcional): Si se planea incluir una opción de ubicación, los usuarios podrían buscar psicólogos en su área geográfica (opcional si se implementan consultas físicas). |
+| Búsqueda de Tests Vocacionales    | Búsqueda por tipo de test: Los usuarios podrán elegir entre el test gratuito básico y los test avanzados (premium).<br/> <br/>Búsqueda por objetivo: El usuario podrá filtrar por el objetivo del test, como "Descubrir intereses profesionales" o "Identificar habilidades y fortalezas".                                                                                                                                                                                                                                                                                                    |
+| Búsqueda de Reportes Vocacionales | Búsqueda por carrera: Los usuarios podrán buscar reportes que correspondan a áreas o carreras específicas.<br/> <br/>Búsqueda por tipo de reporte: Por ejemplo, reporte de perfil psicométrico, recomendación de carreras, análisis de fortalezas y debilidades<br/><br/>Nivel de detalle: Los usuarios podrán seleccionar entre reportes básicos o detallados.<br/><br/>Áreas de recomendación: Filtro por áreas de interés (arte, ciencias, tecnología, salud, etc.).                                                                                                                       |
+| Sistema de Búsqueda Global        | Opciones de Búsqueda:<br/> <br/>  Búsqueda global: Un campo de búsqueda ubicado en la parte superior de la plataforma que permita a los usuarios realizar una búsqueda rápida de cualquier contenido (psicólogos, tests, reportes, artículos, etc.).<br/><br/>  Filtros Disponibles: <br/> <br/> Los resultados de búsqueda global estarán divididos en categorías como "Psicólogos", "Tests", "Reportes", "Planes", etc.                                                                                                                                                                     |
+
 #### 4.2.5. Navigation Systems
+1.Navegación en la Landing Page
+- Objetivo: Guiar a los usuarios para que exploren las características clave de la plataforma.
+
+
+- Acciones: Menú claro con acceso a secciones importantes (test vocacional, psicólogos, planes), llamadas a la acción destacadas (suscripción, prueba gratis).
+
+
+2.Navegación en el Panel del Estudiante
+- Objetivo: Facilitar el acceso a tests, psicólogos y reportes.
+
+
+- Acciones: Menú lateral con accesos directos, notificaciones de citas y reportes, filtros para tests y psicólogos.
+
+
+3.Navegación en el Panel del Psicólogo
+- Objetivo: Gestionar perfil, citas y estadísticas.
+
+
+- Acciones: Menú lateral con opciones clave (agenda, reportes, pagos), calendario interactivo, herramientas de visibilidad.
+
+4.Navegación en la Página de Test Vocacional
+- Objetivo: Facilitar el acceso y realización de tests.
+
+
+- Acciones: Botones de inicio claro para tests, instrucciones paso a paso, acceso a resultados y opción de suscripción para reportes premium.
+
+5.Navegación en la Página de Psicólogos
+- Objetivo: Ayudar a los estudiantes a encontrar psicólogos adecuados.
+
+
+- Acciones: Filtros de búsqueda, perfiles detallados de psicólogos, botón para agendar citas.
+
+6.Navegación en la Página de Planes y Suscripción
+
+- Objetivo: Guiar a los usuarios en la selección de su plan.
+
+
+- Acciones: Comparativa de planes, botones claros para suscribirse, explicaciones de beneficios.
+
 ### 4.3. Landing Page UI Design
+La Landing Page de PsychoHelp se diseñará con el objetivo de ser clara, accesible y fácil de navegar, tanto para estudiantes como para psicólogos.
+
+Elementos Clave:
+- Header: Logotipo, menú de navegación (Inicio, Test Vocacional, Psicólogos, Planes, Contacto), botones de login/registro.
+
+
+- Sección Principal: Imagen atractiva, mensaje inspirador y CTA de "Empieza ahora".
+
+
+- Beneficios: Tres bloques visuales con los beneficios de la plataforma (test vocacional, psicólogos certificados, reportes interactivos).
+
+
+- Testimonios: Opiniones de usuarios y psicólogos.
+
+
+- Planes y Suscripción: Comparativa de planes gratuitos y premium, con CTA para suscribirse.
+
+
+- Footer: Información de contacto, enlaces adicionales y opción de suscripción al boletín.
+
+
+Estrategias de Diseño:
+- Responsive Design para una experiencia óptima en todos los dispositivos.
+
+
+- Jerarquía Visual clara para una navegación intuitiva.
+
+
+- Colores y tipografía profesionales y fáciles de leer.
+
 #### 4.3.1. Landing Page Wireframe
 ![landing1.png](Assets/Chapter%204/landing1.png)
 
