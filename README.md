@@ -1119,5 +1119,281 @@ Estrategias de Diseño:
 
 ![Database Diagram](Assets/bd_diagram.png)
 
+## Capítulo V: Product Implementation, Validation & Deployment
+### 5.1. Software Configuration Management
 
+
+#### 5.1.1. Software Development Environment Configuration
+## Project Management
+
+| Plataforma   | Descripción                                                                                                                                      | Enlace                                   |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| Trello       | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso                                      | [Inicio \| Trello](https://trello.com)   |
+| Uxpressia    | Herramienta en línea que ayuda en el proceso de mapeo.                                                                                           | [https://uxpressia.com](https://uxpressia.com) |
+| Canva        | Es una aplicación web de diseño y comunicación visual donde los usuarios pueden diseñar lo que deseen y publicarlo.                             | [https://www.canva.com](https://www.canva.com) |
+| Lucidchart   | Sirve como un lienzo visual versátil para representar cualquier tipo de información estructurada o proceso, facilitando la comprensión.         | [https://www.lucidchart.com](https://www.lucidchart.com) |
+| Structurizr  | "Diagramas como código", lo que permite crear múltiples diagramas de arquitectura de software a partir de un único modelo.                     | [https://structurizr.com](https://structurizr.com) |
+
+Product UX/UI Desing
+| Plataforma   | Descripción                                                                                                                                      | Enlace                                   |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+|Figma     | Herramienta para el diseño de productos digitales que fomenta la colaboración, agiliza el flujo de trabajo  | [www.figma.com](www.figma.com) |
+
+## Software Development
+
+| Plataforma          | Descripción                                                                                                                                 | Link                                                                 |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| HTML                | Sirve para definir la estructura y el contenido de una página web.                                                                         | [HTML Tutorial](https://www.w3schools.com/html/)                     |
+| CSS                 | Se encarga de la presentación visual y el estilo de la página web.                                                                         | [CSS Tutorial](https://www.w3schools.com/css/)                       |
+| JS                  | Añade interactividad y dinamismo a la página web.                                                                                           | [JavaScript Tutorial](https://www.w3schools.com/js/)                |
+| Visual Studio Code  | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.     | [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/) |
+
+---
+
+## Software Documentation
+
+| Plataforma | Descripción                                                                                          | Link                                                                                     |
+|------------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| GitHub     | Gestión de la documentación en función a repositorios y organizaciones                              | [https://github.com](https://github.com)                                                 |
+| Markdown   | Formato base para la presentación y documentación del proyecto                                       | [Markdown - La guía definitiva en español](https://markdown.es/sintaxis-markdown/)      |
+
+
+
+
+
+#### 5.1.2. Source Code Management
+
+Modelo de ramas Git Flow: 
+main: rama principal donde siempre está el código estable y listo para producción.
+develop: rama de desarrollo donde se integran todas las nuevas funcionalidades antes de pasar a producción.
+feature/: ramas para trabajar nuevas funcionalidades.
+release/: ramas temporales para preparar una nueva versión estable.
+hotfix/: ramas para corregir errores en producción.
+
+Versionado semántico (Semantic Versioning):
+Se aplicará el versionado semántico (Semantic Versioning 2.0.0), siguiendo el esquema: MAJOR.MINOR.PATCH.  
+1.0.0 → versión estable inicial
+
+
+1.1.0 → agregaste nuevas funcionalidades
+
+
+1.1.1 → arreglos de bugs
+
+Convención de mensajes de commits
+El equipo seguirá la convención de mensajes de commits definida en “Conventional Commits”.  
+Ejemplos de mensajes:
+- feat: agregar nuevo sistema de login
+- fix: corregir validación en formulario de registro
+- docs: actualizar README con instrucciones de despliegue
+
+
+Nomenclatura de numeración de las versiones:
+Major changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios significativos con la versión anterior, estos cambios llegan a ser incompatibles con la versión anterior.
+Minor changes: Cuando el código o versión nueva del proyecto a implementar presenta cambios con respecto a alguna característica
+Patch: Cuando se solucionan bugs menores.
+
+
+Sufijos asignados a las versiones:
+-alpha: versión no estable con características básicas o no funcionales, ejemplo : versión 1.0.0 -alpha.
+-beta: versión no apta para la publicación, aún así ya presenta características funcionales en el estado base, ejemplo versión 1.0.0 –beta.
+-rc: versión apta para la publicación y uso de los usuarios, es candidata para publicar, ejemplo versión 1.0.0 -rc.
+
+
+#### 5.1.3. Source Code Style Guide & Conventions
+
+El equipo adoptará nomenclatura en inglés para todas las variables, funciones, clases y archivos del proyecto, con el objetivo de mantener flexibilidad, escalabilidad y coherencia en el desarrollo. 
+ HTML / CSS
+Se sigue el Google HTML/CSS Style Guide.
+
+
+Las clases CSS estarán en kebab-case (.main-header, .card-title).
+
+
+Se utilizarán etiquetas semánticas 
+- &lt;header&gt;
+- &lt;section&gt;
+- &lt;article&gt;
+
+
+Identificadores claros y descriptivos para accesibilidad y mantenimiento.
+
+
+- JavaScript / TypeScript
+  Se aplica el Google JavaScript Style Guide y Google TypeScript Style Guide.
+
+
+Nomenclatura:
+
+
+- Variables y funciones: camelCase (userData, getTestResults)
+
+
+- Clases y componentes: PascalCase (UserProfile, TestCard)
+
+
+- Constantes: UPPER_SNAKE_CASE (MAX_SCORE)
+
+
+- Se prioriza el uso de const y let sobre var.
+
+
+- Se evita el uso de funciones anónimas innecesarias para mejor depuración.
+
+
+
+-Java (Spring Boot)
+- Se sigue el Google Java Style Guide y las buenas prácticas de Spring Boot.
+
+
+- Uso de PascalCase para clases (UserController, StudentService) y camelCase para métodos y atributos (findUserById, studentName).
+
+
+
+- Se separan claramente las capas del proyecto: controller, service, repository, model.
+
+
+Se usó diferentes etiquetas para conformar la estructura del Landing Page del producto:
+
+- header: Esta etiqueta define todo el contenido introductorio de la página web.
+
+- nav: Define las secciones de la página que estarán dedicadas a la navegación en la página
+
+- div: Esta etiqueta permite la separación de diferentes objetos dentro de nuestra página, esto nos permitió poder aplicar hojas de estilo específicas para cada parte de los objetos.
+
+- img: Esta etiqueta permite la inserción de imágenes en la página web, se uso en diversas ocasiones dentro de la página.
+
+- ul: Esta etiqueta sirve para definir una lista desordenada, mayor mente se uso para la elaboración del menú interactivo de la página.
+
+- li: Sirve para definir los elementos de las listas que se implementaron en la página, más especifico en la barra de búsqueda y el blog.
+
+- a: También llamado “Anchor”, se usó para definir hipervínculos para mover a los usuarios a través de las diferentes secciones de la página.
+
+- p: Definen los párrafos de texto, separándolos del resto de contenido.
+
+- Button: Declaran un botón interactivo modificable que permite a los usuarios realizar una acción en específico.
+
+- h1 - h4: Definen los diferentes títulos y subtítulos de la página siendo h1 el mayor nivel y h4 el más bajo
+
+
+
+
+
+#### 5.1.4. Software Deployment Configuration
+
+Landing Page
+1.Archivos HTML, CSS y JS
+Los archivos de la página web serán implementados en HTML, CSS y JS para un correcto funcionamiento de la página. En el caso de las imágenes, usaremos el formato jpg.
+2.Publicación de archivos
+Debido al funcionamiento del servicio de Github Pages, todos los archivos correspondientes al funcionamiento de nuestra aplicación será subidos al repositorio compartido de Github para poder trabajar de manera simultánea entre los integrantes del Pruebas de funcionamiento
+Con cada actualización e implementación del repositorio se harán pruebas que garanticen el correcto funcionamiento de la página.
+Necesidades para el despliegue:
+Repositorio en nuestra organización de GitHub
+Repositorio con visibilidad pública
+Permisos de Github
+Código Fuente de nuestra Landing Page
+Pasos realizados para desplegar nuestra Landing Page:
+1. Subir el código fuente de nuestra Landing Page a nuestro repositorio destino en GitHub.
+2. Ir a la página de configuración de nuestro repositorio de GitHub.
+3. Seleccionar el apartado de Pages.
+4. Elegir la rama main y folder(/root).
+5. Una vez hecho el paso anterior se estaría construyendo y poco tiempo después tendríamos que observar la landing desplegada.
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #**                         | Sprint 1                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 20/04/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Eric Olivera                                       |
+| **Attendees (to planning meeting)** | Eric Olivera, Joaquín Alberto, Walter Fajardo, Víctor Manuel, Pablo Geronimo |
+| **Sprint n – 1 Review Summary**     | No hay nada que poner ahora, estamos en el primer sprint |
+| **Sprint n – 1 Retrospective Summary** | No hay nada que poner ahora, estamos en el primer sprint |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint n Goal**                   | Para este Sprint necesitamos implementar la landing page para nuestra aplicación **PyschoHealth**. Tenemos que dar una buena impresión a los posibles usuarios. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **19 story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **19 story points** |
+
+
+##### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
+|------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Olivera Eric                       | [EricMOB-afk](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
+| Geronimo Pablo                     | [Phatorgam](#)        |  L                                           |     C                                       | L                                           | C                                           | C                                           |
+| Fajardo Walter                     | [WalterFajardo](#)    | L                                           | L                                           |       C                                      |  C              C                             |                                             |
+| Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
+| Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L                                           |
+
+
+##### 5.2.1.3. Sprint Backlog 1
+
+
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección presentamos el flujo de trabajo para la creación y actualización de la landing page
+
+|Repository|Branch|CommitID|CommitMessage|CommitMessageBody|Commited on Date|
+|-----------|------|------|----------------|----------------|---------------|
+|project -PsychoHelp/landing-page|develop|c331b38|landing page 0.1.0|landing-page|22/04/2025|
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint
+[Nuestra landing page](https://project-psychohelp.github.io/landing-page/)
+
+
+![1](Assets/Chapter%205/1.JPG)
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+
+![2](Assets/Chapter%205/2.JPG)
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint, el equipo se enfocó exclusivamente en el desarrollo de la Landing Page de PsychoHelp, por lo tanto, no se ha implementado ni documentado ningún Web Service hasta el momento.
+La documentación con OpenAPI y la implementación de endpoints REST está planificada para los siguientes sprints, en los cuales se abordará la creación de los servicios backend necesarios para funcionalidades como login, registro, gestión de usuarios, pruebas vocacionales y reservas de sesiones con psicólogos
+Repositorio de Web Services:
+Aunque no se ha iniciado aún, se ha creado el repositorio que será usado en los próximos sprints para gestionar la lógica de backend y documentación técnica:
+GitHub Page
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+**Design**
+Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint, se hizo uso de la plataforma Figma
+![3](Assets/Chapter%205/3.JPG)
+
+Para el uso de la plataforma, es necesario crear una cuenta, así que nos dirigimos a la página oficial de Figma y nos registramos.
+![4](Assets/Chapter%205/4.JPG)
+
+**Deployment**
+
+Para la landing page, se utilizará GitHub y Github Pages para la creación del repositorio y el despliegue de la página.
+![5](Assets/Chapter%205/5.JPG)
+
+
+Nos registramos e ingresamos.
+![6](Assets/Chapter%205/6.JPG)
+
+
+Creamos una organización de nuestro proyecto.
+![7](Assets/Chapter%205/7.JPG)
+
+Para nuestro proyecto se crearon 2 repositorios los cuales son:
+Psycho-Metric:
+Este repositorio se usa para realizar el informe del proyecto de manera continua.
+Landing-Page:
+Este repositorio se usa para codificar y desplegar la landing page del proyecto.
+![8](Assets/Chapter%205/8.JPG)
+
+En nuestro repositorio vamos a github pages y logramos hacer un deploy de nuestra landing page
+
+![9](Assets/Chapter%205/9.JPG)
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Eric Olivera
 
