@@ -1051,6 +1051,13 @@ Estrategias de Diseño:
 
 ![landing4.png](Assets/Chapter%204/landing4.png)
 #### 4.3.2. Landing Page Mock-up
+
+![landing-mockup1.png](Assets/Chapter%204/landing-mockup1.png)
+
+![landing-mockup2.png](Assets/Chapter%204/landing-mockup2.png)
+
+![landing-mockup3.png](Assets/Chapter%204/landing-mockup3.png)
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 **LOGIN**
@@ -1084,9 +1091,63 @@ Estrategias de Diseño:
 **PANELL DE PSICÓLOGO**
 ![Panel-psicólogo.png](Assets/Chapter%204/Panel-psic%C3%B3logo.png)
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+![wireflow-diagram.png](Assets/Chapter%204/wireflow-diagram.png)
+
+[https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224](https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224)
+
 #### 4.4.3. Web Applications Mock-ups
+
+**LOGIN / REGISTER:**
+
+![iniciar-sesión.png](Assets/Chapter%204/iniciar-sesi%C3%B3n.png)
+
+![registrarse.png](Assets/Chapter%204/registrarse.png)
+
+**PÁGINA DE PLANES Y SUBSCRIPCIÓN:**
+
+![planes2.png](Assets/Chapter%204/planes2.png)
+
+![detalles-planes2.png](Assets/Chapter%204/detalles-planes2.png)
+
+**PÁGINA DE BÚSQUEDA DE PSICÓLOGOS**
+
+![busqueda-psicólogos2.png](Assets/Chapter%204/busqueda-psic%C3%B3logos2.png)
+
+**PANEL DE ESTUDIANTE:**
+
+![panel-estudiante2.png](Assets/Chapter%204/panel-estudiante2.png)
+
+**PANEL DE PSICÓLOGO**
+
+![panel-psicólogo2.png](Assets/Chapter%204/panel-psic%C3%B3logo2.png)
+
+**BUSQUEDA DE LOS TESTS**
+
+![busqueda-tests2.png](Assets/Chapter%204/busqueda-tests2.png)
+
+
+
+**INTERFAZ DE LOS TESTS**
+
+![interfaz-tests.png](Assets/Chapter%204/interfaz-tests.png)
+
+
 #### 4.4.4. Web Applications User Flow Diagrams
+
+![user-flow-diagram.png](Assets/Chapter%204/user-flow-diagram.png)
+
+[https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870](https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870)
+
+
+
 ### 4.5. Web Applications Prototyping
+
+![prototyping.png](Assets/Chapter%204/prototyping.png)
+
+[Elance para ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams
 
@@ -1124,6 +1185,7 @@ Estrategias de Diseño:
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+![Class Diagram](Assets/Chapter%204/diagram_class.jpeg)
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
