@@ -376,6 +376,67 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
+Es necesario estas guías de estilo para la plataforma de orientación vocacional, diseñadas para mantener una presentación consistente y profesional en todos los elementos de la interfaz.
+
+**Branding**
+
+Un cerebro estilizado, pero con un diseño amigable (líneas curvas suaves), integrado con un corazón o una mano que simboliza apoyo y guía.. Este logo representa lo cálida, confiable, profesional y moderna y además transmite la confianza, orientación, descubrimiento y progreso personal.
+
+![logo1.png](Assets/Chapter%204/logo1.png)
+
+**Typography**
+
+- Fuente principal: Inter (sans-serif)
+- Jerarquía de títulos: H1-H5 con tamaños y pesos específicos
+- Texto de cuerpo: Tres tamaños (base, small, caption)
+- Estilos especiales: Énfasis, itálica y enlaces
+
+![headings.png](Assets/Chapter%204/headings.png)
+
+![special-text-styles.png](Assets/Chapter%204/special-text-styles.png)
+
+**Colors**
+
+Brand Colors:
+- Primary: `#4361EE` (azul vibrante)
+- Primary Dark: `#3A0CA3` (azul oscuro)
+- Secondary: `#4CC9F0` (azul claro)
+- Accent: `#F72585` (rosa vibrante)
+
+![brand-colors.png](Assets/Chapter%204/brand-colors.png)
+
+**State Colors**
+
+- Success: `#10B981` (verde)
+- Warning: `#F59E0B` (ámbar)
+- Error: `#EF4444` (rojo)
+- Info: `#3B82F6` (azul)
+
+![state-colors.png](Assets/Chapter%204/state-colors.png)
+
+**Black/grey Colors**
+
+- Gray 900: `#111827` (texto principal)
+- Gray 700: `#374151` (texto secundario)
+- Gray 500: `#6B7280` (texto terciario, iconos)
+- Gray 300: `#D1D5DB` (bordes, divisores)
+- Gray 100: `#F3F4F6` (fondos, estados hover)
+
+![dark-scale-colors.png](Assets/Chapter%204/dark-scale-colors.png)
+
+**Spacing**
+- Sistema basado en incrementos de 4px
+- Escala: 4px (xs), 8px (sm), 16px (md), 24px (lg), 32px (xl), 48px (2xl), 64px (3xl)
+- Espaciado adaptativo para diferentes tamaños de pantalla:
+- Móvil: Espaciado reducido, elementos apilados verticalmente
+- Tablet: Espaciado estándar
+- Desktop: Espaciado amplio para mejor legibilidad
+
+![spacing.png](Assets/Chapter%204/spacing.png)
+
+El tono de comunicación y lenguaje aplicado se está usando es para tener un tono Formal/Casual
+
+
 #### 4.1.2. Web Style Guidelines
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
