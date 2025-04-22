@@ -710,14 +710,327 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guidelines
+Es necesario estas guías de estilo para la plataforma de orientación vocacional, diseñadas para mantener una presentación consistente y profesional en todos los elementos de la interfaz.
+
+**Branding**
+
+Un cerebro estilizado, pero con un diseño amigable (líneas curvas suaves), integrado con un corazón o una mano que simboliza apoyo y guía.. Este logo representa lo cálida, confiable, profesional y moderna y además transmite la confianza, orientación, descubrimiento y progreso personal.
+
+![logo1.png](Assets/Chapter%204/logo1.png)
+
+**Typography**
+
+- Fuente principal: Inter (sans-serif)
+- Jerarquía de títulos: H1-H5 con tamaños y pesos específicos
+- Texto de cuerpo: Tres tamaños (base, small, caption)
+- Estilos especiales: Énfasis, itálica y enlaces
+
+![headings.png](Assets/Chapter%204/headings.png)
+
+![special-text-styles.png](Assets/Chapter%204/special-text-styles.png)
+
+**Colors**
+
+Brand Colors:
+- Primary: `#4361EE` (azul vibrante)
+- Primary Dark: `#3A0CA3` (azul oscuro)
+- Secondary: `#4CC9F0` (azul claro)
+- Accent: `#F72585` (rosa vibrante)
+
+![brand-colors.png](Assets/Chapter%204/brand-colors.png)
+
+**State Colors**
+
+- Success: `#10B981` (verde)
+- Warning: `#F59E0B` (ámbar)
+- Error: `#EF4444` (rojo)
+- Info: `#3B82F6` (azul)
+
+![state-colors.png](Assets/Chapter%204/state-colors.png)
+
+**Black/grey Colors**
+
+- Gray 900: `#111827` (texto principal)
+- Gray 700: `#374151` (texto secundario)
+- Gray 500: `#6B7280` (texto terciario, iconos)
+- Gray 300: `#D1D5DB` (bordes, divisores)
+- Gray 100: `#F3F4F6` (fondos, estados hover)
+
+![dark-scale-colors.png](Assets/Chapter%204/dark-scale-colors.png)
+
+**Spacing**
+- Sistema basado en incrementos de 4px
+- Escala: 4px (xs), 8px (sm), 16px (md), 24px (lg), 32px (xl), 48px (2xl), 64px (3xl)
+- Espaciado adaptativo para diferentes tamaños de pantalla:
+- Móvil: Espaciado reducido, elementos apilados verticalmente
+- Tablet: Espaciado estándar
+- Desktop: Espaciado amplio para mejor legibilidad
+
+![spacing.png](Assets/Chapter%204/spacing.png)
+
+El tono de comunicación y lenguaje aplicado se está usando es para tener un tono Formal/Casual
+
+
 #### 4.1.2. Web Style Guidelines
+Para PsychoHelp, estamos desarrollando una plataforma web orientada a la orientación vocacional personalizada, para que los estudiantes y psicólogos puedan navegar de forma cómoda, clara y eficiente, mejorando significativamente su experiencia de usuario.
+
+Decidimos incorporar el patrón de diseño en forma de Z en nuestro sitio web. Esta técnica de diseño web es altamente efectiva para guiar visualmente la atención del usuario hacia los elementos clave, lo que potencia la comprensión del contenido y facilita la interacción. Normalmente, colocaremos el logotipo de PsychoHelp en la esquina superior izquierda, asegurando que sea el primer elemento que capte la atención del visitante.
+
+![web-style-guideline.png](Assets/Chapter%204/web-style-guideline.png)
+
+
+
 ### 4.2. Information Architecture
 #### 4.2.1. Organization Systems
+En PsychoHelp, aplicaremos distintos sistemas de organización de la información dependiendo del tipo de contenido y la experiencia deseada para el usuario. Nuestro objetivo es asegurar que tanto estudiantes como psicólogos accedan fácilmente a la información relevante, en el momento adecuado.
+
+**Menú principal:**
+
+| Sección        | Etiqueta             | Descripción                                                                                    |
+|----------------|----------------------|------------------------------------------------------------------------------------------------|
+| Menú de inicio | Inicio               | Página principal con visión general de la plataforma y CTA para comenzar.                      |
+| Menú de inicio | Sobre Nosotros       | Información sobre la misión, visión y equipo de PsychoHelp.                                    |
+| Menú de inicio | Test Vocacional      | Botón para acceso a los distintos tipos de test vocacionales (gratuito y premium).             |
+| Menú de inicio | Psicólogos           | Botón para ver el listado y perfiles de psicólogos certificados, con opción de agendar sesión. |
+| Menú de inicio | Planes y Suscripción | Comparación entre versión gratuita y premium para estudiantes y psicólogos.                    |
+| Menú de inicio | Iniciar sesión       | Botón para que usuarios registrados accedan a su cuenta.                                       |
+| Menú de inicio | Registrarse          | Opción para crear una nueva cuenta (estudiante o psicólogo).                                   |
+
+**Inicio de sesión y registro:**
+
+| Sección       | Etiqueta                    | Descripción                                          |
+|---------------|-----------------------------|------------------------------------------------------|
+| Autenticación | Iniciar sesión              | Botón donde los usuarios acceden a su cuenta.        |
+| Autenticación | Iniciar sesión con Google   | Inicio de sesión a través de una cuenta de Google.   |
+| Autenticación | Iniciar sesión con Facebook | Inicio de sesión a través de una cuenta de Facebook. |
+| Autenticación | Registrarse                 | Formulario de registro como estudiante o psicólogo.  |
+
+**Panel del Estudiante (Dashboard)**
+
+| Sección              | Etiqueta                   | Descripción                                                         |
+|----------------------|----------------------------|---------------------------------------------------------------------|
+| Dashboard Estudiante | Resultados de test         | Visualización de resultados y análisis básicos.                     |
+| Dashboard Estudiante | Reporte vocacional (PDF)   | Acceso y descarga del reporte detallado si es usuario premium.      |
+| Dashboard Estudiante | Historial de sesiones      | Registro de sesiones pasadas con psicólogos.                        |
+| Dashboard Estudiante | Recomendaciones académicas | Universidades sugeridas según perfil psicométrico( usuario premium) |
+| Dashboard Estudiante | Editar perfil              | Permite modificar sus datos personales                              |
+
+**Panel del Psicólogo (Dashboard)**
+
+| Sección             | Etiqueta               | Descripción                                                      |
+|---------------------|------------------------|------------------------------------------------------------------|
+| Dashboard Psicólogo | Perfil profesional     | Visualización y edición del perfil público.                      |
+| Dashboard Psicólogo | Disponibilidad         | Configuración de horarios y fechas para agendar citas.           |
+| Dashboard Psicólogo | Citas agendadas        | Vista y gestión de sesiones con estudiantes.                     |
+| Dashboard Psicólogo | Estadísticas de perfil | Métricas de visualización, citas programadas, reseñas recibidas. |
+| Dashboard Psicólogo | Acceso Premium         | Gestión de la suscripción premium y sus beneficios.              |
+
+**Página de Planes y Suscripción**
+
+| Sección          | Etiqueta            | Descripción                                                                  |
+|------------------|---------------------|------------------------------------------------------------------------------|
+| Planes y precios | Estudiante Gratuito | Plan básico con test inicial gratuito y visualización parcial de resultados. |
+| Planes y precios | Estudiante Premium  | Acceso a tests avanzados, reporte PDF y sesiones con psicólogos.             |
+| Planes y precios | Psicólogo Gratuito  | Registro en la plataforma y perfil básico visible.                           |
+| Planes y precios | Psicólogo Premium   | Mayor visibilidad, herramientas, estadísticas y agenda destacada.            |
+
+**Página de Test Vocacional**
+
+| Sección         | Etiqueta              | Descripción                                                                              |
+|-----------------|-----------------------|------------------------------------------------------------------------------------------|
+| Test Vocacional | Tipos de Test         | Sección que compara el test básico gratuito con el test premium más profundo.            |
+| Test Vocacional | Realizar Test         | Botón que llama a la acción para iniciar el test. Pide login/registro si aún no accedió. |
+| Test Vocacional | Resultados inmediatos | Muestra resumen básico de perfil vocacional.                                             |
+| Test Vocacional | CTA Premium           | Botón o mensaje para animar a suscribirse y desbloquear el test avanzado y el PDF.       |
+
+**Página de Psicólogos**
+
+| Sección             | Etiqueta            | Descripción                                                                             |
+|---------------------|---------------------|-----------------------------------------------------------------------------------------|
+| Busqueda Psicólogos | Lista de Psicólogos | Muestra todos los psicólogos registrados con filtros por especialidad, enfoque, etc.    |
+| Busqueda Psicólogos | Ficha de Psicólogo  | Botón que muestra la información profesional, educación, certificaciones y testimonios. |
+| Busqueda Psicólogos | Agendar sesión      | Botón o formulario para reservar una cita (requiere estar registrado y ser premiun).    |
+
+
+
+
+
+
+
+
 #### 4.2.2. Labeling Systems
+
+Para garantizar una experiencia clara y sin confusión, utilizaremos etiquetas simples, consistentes y directas en todas las interfaces de usuario.
+
+| Sección                  | Etiqueta                     | Asociación / Función                                    |
+|--------------------------|------------------------------|---------------------------------------------------------|
+| Página de inicio         | Inicio                       | Entrada principal al sitio, visión general              |
+| Cómo funciona            | ¿Cómo funciona?              | Explicación paso a paso del servicio                    |
+| Test vocacional          | Realizar test                | Acceso directo al test básico o premium                 |
+| Resultados del test      | Mis resultados               | Acceso a resultados anteriores y descarga del PDF       |
+| Página de psicólogos     | Psicólogos disponibles       | Lista filtrable de especialistas certificados           |
+| Perfil del psicólogo     | Ver perfil                   | Información de experiencia, estudios, valoraciones      |
+| Citas / sesiones         | Agendar sesión               | Acción para programar una sesión                        |
+| Panel del estudiante     | Mi panel                     | Dashboard personalizado del estudiante                  |
+| Panel del psicólogo      | Panel profesional            | Dashboard de gestión del psicólogo                      |
+| Planes y precios         | Planes y suscripción         | Comparación y elección entre planes gratuitos y premium |
+| Registro e inicio sesión | Iniciar sesión / Registrarse | Acceso o creación de cuenta                             |
+| Cerrar sesión            | Salir                        | Finalizar la sesión actual                              |
+| Testimonios              | Opiniones de usuarios        | Comentarios y experiencias de estudiantes               |
+| Contacto                 | Contáctanos                  | Formulario de consulta o soporte                        |
+
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+1.Menú Principal
+- Title: "PsychoHelp - Plataforma de Orientación Vocacional para Estudiantes"
+
+- Meta Description: "Accede a la plataforma PsychoHelp para explorar tests psicométricos, sesiones con psicólogos certificados y reportes detallados. Descubre la mejor orientación vocacional."
+
+- Meta Keywords: "orientación vocacional, tests psicométricos, psicólogos certificados, plataforma vocacional, PsychoHelp"
+
+- Meta Author: "PsychoHelp Team"
+
+
+2.Inicio de Sesión y Registro
+- Title: "Iniciar Sesión / Registrarse - PsychoHelp"
+
+- Meta Description: "Inicia sesión en PsychoHelp o regístrate para obtener acceso a tests vocacionales, sesiones con psicólogos certificados y reportes detallados."
+
+- Meta Keywords: "iniciar sesión, registrarse, acceso PsychoHelp, cuenta estudiante, cuenta psicólogo"
+
+- Meta Author: "PsychoHelp Team"
+
+
+3.Panel del Estudiante (Dashboard)
+- Title: "Panel del Estudiante - PsychoHelp"
+
+- Meta Description: "Accede a tu panel personal en PsychoHelp, donde podrás ver tus resultados de test vocacionales, agendar sesiones con psicólogos certificados y consultar tus reportes vocacionales."
+
+- Meta Keywords: "panel estudiante, resultados de test, psicólogos certificados, agendar sesión, reporte vocacional"
+
+- Meta Author: "PsychoHelp Team"
+
+
+4.Panel del Psicólogo (Dashboard)
+- Title: "Panel del Psicólogo - PsychoHelp"
+
+- Meta Description: "Accede al panel de psicólogo en PsychoHelp para gestionar tu disponibilidad, interactuar con estudiantes, ver estadísticas de tus sesiones y obtener más visibilidad."
+
+- Meta Keywords: "panel psicólogo, gestionar disponibilidad, estadísticas de sesiones, psicólogos certificados, orientación vocacional"
+
+- Meta Author: "PsychoHelp Team"
+
+
+5.Página de Planes y Suscripción
+- Title: "Planes y Suscripción Premium - PsychoHelp"
+
+- Meta Description: "Descubre los planes y suscripción premium de PsychoHelp. Obtén acceso a tests avanzados, sesiones con psicólogos y reportes vocacionales interactivos."
+
+- Meta Keywords: "plan premium, suscripción premium, tests avanzados, orientación vocacional, reporte vocacional, psicólogos certificados"
+
+
+- Meta Author: "PsychoHelp Team"
+
+
+6.Página de Test Vocacional
+- Title: "Test Vocacional Gratuito y Avanzado - PsychoHelp"
+
+- Meta Description: "Realiza tu test vocacional gratuito o premium en PsychoHelp. Obtén recomendaciones de carrera, perfil psicométrico y acceso a reportes detallados."
+
+- Meta Keywords: "test vocacional, test gratuito, test avanzado, orientación vocacional, perfil psicométrico, carrera profesional"
+
+- Meta Author: "PsychoHelp Team"
+
+
+7.Página de Psicólogos
+- Title: "Psicólogos Certificados - PsychoHelp"
+
+- Meta Description: "Conecta con psicólogos vocacionales certificados. Encuentra el profesional adecuado para recibir orientación vocacional y tomar decisiones académicas informadas."
+
+- Meta Keywords: "psicólogos certificados, orientación vocacional, psicólogos en línea, sesión con psicólogos, psicología vocacional"
+
+
 #### 4.2.4. Searching Systems
+
+| Filtro                            | Opciones de búsqueda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Búsqueda de Psicólogos            | Búsqueda por nombre: Los usuarios podrán buscar a un psicólogo por su nombre o apellido. <br/><br/> Búsqueda por especialidad: Los usuarios podrán filtrar psicólogos según áreas de especialización, como orientación vocacional, terapia psicológica, etc.<br/><br/> Búsqueda por disponibilidad: Los usuarios podrán filtrar psicólogos según su disponibilidad para agendar citas.<br/><br/>Búsqueda por ubicación (opcional): Si se planea incluir una opción de ubicación, los usuarios podrían buscar psicólogos en su área geográfica (opcional si se implementan consultas físicas). |
+| Búsqueda de Tests Vocacionales    | Búsqueda por tipo de test: Los usuarios podrán elegir entre el test gratuito básico y los test avanzados (premium).<br/> <br/>Búsqueda por objetivo: El usuario podrá filtrar por el objetivo del test, como "Descubrir intereses profesionales" o "Identificar habilidades y fortalezas".                                                                                                                                                                                                                                                                                                    |
+| Búsqueda de Reportes Vocacionales | Búsqueda por carrera: Los usuarios podrán buscar reportes que correspondan a áreas o carreras específicas.<br/> <br/>Búsqueda por tipo de reporte: Por ejemplo, reporte de perfil psicométrico, recomendación de carreras, análisis de fortalezas y debilidades<br/><br/>Nivel de detalle: Los usuarios podrán seleccionar entre reportes básicos o detallados.<br/><br/>Áreas de recomendación: Filtro por áreas de interés (arte, ciencias, tecnología, salud, etc.).                                                                                                                       |
+| Sistema de Búsqueda Global        | Opciones de Búsqueda:<br/> <br/>  Búsqueda global: Un campo de búsqueda ubicado en la parte superior de la plataforma que permita a los usuarios realizar una búsqueda rápida de cualquier contenido (psicólogos, tests, reportes, artículos, etc.).<br/><br/>  Filtros Disponibles: <br/> <br/> Los resultados de búsqueda global estarán divididos en categorías como "Psicólogos", "Tests", "Reportes", "Planes", etc.                                                                                                                                                                     |
+
 #### 4.2.5. Navigation Systems
+1.Navegación en la Landing Page
+- Objetivo: Guiar a los usuarios para que exploren las características clave de la plataforma.
+
+
+- Acciones: Menú claro con acceso a secciones importantes (test vocacional, psicólogos, planes), llamadas a la acción destacadas (suscripción, prueba gratis).
+
+
+2.Navegación en el Panel del Estudiante
+- Objetivo: Facilitar el acceso a tests, psicólogos y reportes.
+
+
+- Acciones: Menú lateral con accesos directos, notificaciones de citas y reportes, filtros para tests y psicólogos.
+
+
+3.Navegación en el Panel del Psicólogo
+- Objetivo: Gestionar perfil, citas y estadísticas.
+
+
+- Acciones: Menú lateral con opciones clave (agenda, reportes, pagos), calendario interactivo, herramientas de visibilidad.
+
+4.Navegación en la Página de Test Vocacional
+- Objetivo: Facilitar el acceso y realización de tests.
+
+
+- Acciones: Botones de inicio claro para tests, instrucciones paso a paso, acceso a resultados y opción de suscripción para reportes premium.
+
+5.Navegación en la Página de Psicólogos
+- Objetivo: Ayudar a los estudiantes a encontrar psicólogos adecuados.
+
+
+- Acciones: Filtros de búsqueda, perfiles detallados de psicólogos, botón para agendar citas.
+
+6.Navegación en la Página de Planes y Suscripción
+
+- Objetivo: Guiar a los usuarios en la selección de su plan.
+
+
+- Acciones: Comparativa de planes, botones claros para suscribirse, explicaciones de beneficios.
+
 ### 4.3. Landing Page UI Design
+La Landing Page de PsychoHelp se diseñará con el objetivo de ser clara, accesible y fácil de navegar, tanto para estudiantes como para psicólogos.
+
+Elementos Clave:
+- Header: Logotipo, menú de navegación (Inicio, Test Vocacional, Psicólogos, Planes, Contacto), botones de login/registro.
+
+
+- Sección Principal: Imagen atractiva, mensaje inspirador y CTA de "Empieza ahora".
+
+
+- Beneficios: Tres bloques visuales con los beneficios de la plataforma (test vocacional, psicólogos certificados, reportes interactivos).
+
+
+- Testimonios: Opiniones de usuarios y psicólogos.
+
+
+- Planes y Suscripción: Comparativa de planes gratuitos y premium, con CTA para suscribirse.
+
+
+- Footer: Información de contacto, enlaces adicionales y opción de suscripción al boletín.
+
+
+Estrategias de Diseño:
+- Responsive Design para una experiencia óptima en todos los dispositivos.
+
+
+- Jerarquía Visual clara para una navegación intuitiva.
+
+
+- Colores y tipografía profesionales y fáciles de leer.
+
 #### 4.3.1. Landing Page Wireframe
 ![landing1.png](Assets/Chapter%204/landing1.png)
 
@@ -776,11 +1089,27 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 
 **Diagrama de Componentes - User Management Bounded Context**
 
-![Component Diagram](Assets/Chapter%204/component_diagram01.png)
+![Component Diagram](Assets/Chapter%204/diagram_component01.png)
 
 **Diagrama de Componentes - Messaging Management Bounded Context**
 
-![Component Diagram](Assets/Chapter%204/component_diagram02.png)
+![Component Diagram](Assets/Chapter%204/diagram_component02.png) 
+
+**Diagrama de Componentes - Payment Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component03.png)
+
+**Diagrama de Componentes - Notification Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component04.png)
+
+**Diagrama de Componentes - Appointment Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component05.png)
+
+**Diagrama de Componentes - Test Bounded Context**
+
+![Component Diagram](Assets/Chapter%204/diagram_component06.png)
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
