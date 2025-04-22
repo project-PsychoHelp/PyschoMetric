@@ -466,6 +466,7 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 
 ### 4.7. Software Object-Oriented Design
 #### 4.7.1. Class Diagrams
+![Class Diagram](Assets/Chapter%204/diagram_class.jpeg)
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram
