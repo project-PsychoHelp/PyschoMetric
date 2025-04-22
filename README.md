@@ -255,7 +255,8 @@ Estas son las principales estrategias que aplicará **PsychoHelp**:
 - Ubicación en la que vive olivos, Lima, Perú
 
 #### Entrevista: ####
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=URfcjB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+link: [URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 - Momento en el que inicia: 0:02
 
@@ -274,7 +275,7 @@ En ese sentido, está dispuesto a probar nuevas alternativas y le parece una ide
 ![Entrevista 2](Assets/Elvis.png)
 
 #### Entrevista: ####
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=URfcjB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+link:[URL entrevista](https://drive.google.com/file/d/12zpl-imeFKodLIK2MSkcLZRE6kfCeG6q/view?usp=sharing)
 - Momento en el que inicia: 0:00
 - Duración: 6:08
   
@@ -293,7 +294,7 @@ Finalmente, manifestó que estaría totalmente dispuesto a contactar con un psic
   
 ![Entrevista 3](Assets/Alejandro.png)
 #### Entrevista: #####
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=URfcjB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+link:[URL entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EdFC8tauorhEuMi__ESOCRgBaBfZJhHZCFduqWM33oQudg?e=6k7wes)
 
 - Momento en el que inicia: 0:00
 - Duración: 4:56
@@ -315,7 +316,7 @@ Finalmente, mencionó que acceder a una videollamada con un psicólogo sería al
 ![Entrevista 4](Assets/Maricielo.png)
 #### Entrevista: ####
 
-link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
+link:[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW)
 - Momento en el que inicia: 0:00
 - Duración: 7:49
   
@@ -334,7 +335,7 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 
 #### Entrevista: ####
 
-link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+link:[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Momento en el que inicia: 0:00
 -Duración: 7:49
 
@@ -352,7 +353,7 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
 ![Entrevista 6](Assets/Erick.png)
 
 #### Entrevista: ####
-- link: https://youtu.be/IuQXwxSmHgA 
+- link:[URL entrevista]( https://youtu.be/IuQXwxSmHgA )
 - Momento en el que inicia: 0:00
 - Duración: 3:39
 
