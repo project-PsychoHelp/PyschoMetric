@@ -41,7 +41,23 @@
 
 <hr>
 
+
+| Versión | Fecha       | Autor                          | Descripción de modificación                  |
+|---------|-------------|--------------------------------|----------------------------------------------|
+| 0.1     | 06/04/2025  | Todos los integrantes          | Desarrollo del capítulo 1 y 2             |
+| 0.2     | 12/04/2025  | Todos los integrantes          | Desarrollo del capítulo 3                    |
+| 0.3     | 18/04/2025  | Eric Olivera                   | Desarrollo del capítulo 4 y sprint 1         |
+
+
 ## Project Report Collaboration Insights  
+
+
+Se han realizado todas las tareas asignadas para la entrega de la TB1, las cuales están en nuestro repositorio de Github: https://github.com/project-PsychoHelp/PyschoMetric
+
+Aqui se pueden en la TB1 evidenciando el trabajo colaborativo
+![tb](Assets/sprint1.JPG)
+![tb2](Assets/sprint2.JPG)
+
 
 <hr>
 
@@ -666,10 +682,10 @@ Aun así, Luis tiene disposición, habilidades y un alto compromiso con su labor
 #### 2.3.4. Empathy Mapping
 
 **USER PERSONA: Enrique Gonzalo**
-![Empathy Map 1](Assets/Empathy-Map-1.jpg)
+![Empathy map 1](Assets/Enrique%20Gonzalo.png)
 
 **USER PERSONA: Luis Ramirez**
-![Empathy Map 2](Assets/Empathy-Map_2.jpg)
+![Empathy Map 2](Assets/Enrique%20Gonzalo%20(1).png)
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -713,460 +729,43 @@ Luis se incorpora a PsychoHelp como profesional verificado, gestionando su dispo
 
 
 ### 3.2. User Stories
-### US-01 - Registro con correo y contraseña
-**Epic**: EPIC01  
-**Descripción**:  
-Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma.
+| User story ID | Título                                 | Descripción                                                                                                                                     | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                       | Epic    |
+|---------------|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| US-01         | Registro con correo y contraseña        | Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal.          | - Escenario 1: Dado que soy un nuevo usuario, cuando ingreso mi correo válido y una contraseña segura, entonces el sistema debe crear mi cuenta y mostrarme un mensaje de bienvenida. <br> - Escenario 2: Dado que estoy en la pantalla de registro, cuando ingreso datos inválidos, entonces el sistema debe mostrar mensajes de error claros.                          | EPIC01  |
+| US-02         | Inicio de sesión con credenciales       | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.                                | - Escenario 1: Dado que soy un usuario registrado, cuando ingreso mi correo y contraseña correctos, entonces el sistema debe permitirme acceder a mi cuenta. <br> - Escenario 2: Dado que ingreso una contraseña incorrecta, cuando intento iniciar sesión, entonces el sistema debe indicarme que las credenciales son incorrectas.             | EPIC01  |
+| US-03         | Recuperación de contraseña              | Como usuario, quiero poder recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta.                                          | - Escenario 1: Dado que olvidé mi contraseña, cuando hago clic en “¿Olvidaste tu contraseña?”, entonces el sistema debe solicitar mi correo electrónico. <br> - Escenario 2: Dado que ingreso un correo válido, cuando el sistema verifica mi cuenta, entonces debe enviarme un enlace para restablecer mi contraseña.                        | EPIC01  |
+| US-04         | Registro rápido con Google              | Como estudiante, quiero tener la opción de registrarme con Google, para facilitar el ingreso.                                                   | - Escenario 1: Dado que soy un nuevo usuario, cuando hago clic en "Registrarme con Google", entonces el sistema debe mostrarme una ventana de autenticación de Google. <br> - Escenario 2: Dado que autorizo el acceso con Google, cuando se complete la autenticación, entonces el sistema debe crear mi perfil automáticamente.             | EPIC01  |
+| US-05         | Acceso al menú principal intuitivo      | Como estudiante, quiero acceder a un menú con íconos claros, para navegar fácilmente por la app.                                                | - Escenario 1: Dado que veo el menú, cuando selecciono una opción, entonces el sistema debe llevarme a la funcionalidad correspondiente. <br> - Escenario 2: Dado que el menú está activo, cuando cambio de sección, entonces el menú debe mantenerse accesible.                                                                      | EPIC02  |
+| US-06         | Ingreso a tests psicométricos           | Como estudiante, quiero acceder desde el menú a los tests, para iniciar o continuar mi evaluación vocacional.                                   | - Escenario 1: Dado que estoy en el menú, cuando selecciono "Realizar Test", entonces debo ser redirigido a la pantalla del test. <br> - Escenario 2: Dado que ya empecé un test antes, cuando ingreso a esa sección, entonces debo ver la opción de continuar desde donde lo dejé.                                                        | EPIC02  |
+| US-07         | Agendamiento de sesiones                | Como estudiante, quiero agendar una sesión con un psicólogo desde el menú, para recibir orientación.                                            | - Escenario 1: Dado que estoy en el menú, cuando selecciono "Agendar sesión", entonces el sistema debe mostrarme la disponibilidad de psicólogos. <br> - Escenario 2: Dado que elijo una fecha y hora, cuando confirmo la reserva, entonces el sistema debe guardarla y enviarme una confirmación.                                 | EPIC02  |
+| US-08         | Consulta de resultados anteriores       | Como estudiante, quiero ver mis resultados anteriores desde el menú, para revisar mis áreas de afinidad vocacional.                             | - Escenario 1: Dado que accedo al menú, cuando selecciono "Mis resultados", entonces el sistema debe mostrar un resumen de mis tests completados. <br> - Escenario 2: Dado que veo mis resultados, cuando selecciono uno, entonces debo acceder al detalle del perfil vocacional y sugerencias académicas.                               | EPIC02  |
+| US-09         | Edición de información personal         | Como estudiante, quiero editar mi información personal, para mantener mis datos actualizados.                                                   | - Escenario 1: Dado que accedo al menú, cuando selecciono "Mi perfil", entonces debo ver mis datos actuales. <br> - Escenario 2: Dado que realizo cambios, cuando guardo la información, entonces el sistema debe actualizar los datos y mostrar un mensaje de éxito.                                                                | EPIC02  |
+| US-10         | Menú personalizado para psicólogos      | Como psicólogo, quiero acceder a un menú personalizado, para ver solo las funciones relevantes a mi rol.                                       | - Escenario 1: Dado que soy psicólogo, cuando inicio sesión, entonces debo ver un menú con secciones como “Citas agendadas”, “Estudiantes”, “Resultados” y “Disponibilidad”. <br> - Escenario 2: Dado que accedo al menú, cuando hago clic en una opción, entonces debo ser redirigido a la sección correspondiente sin errores.        | EPIC03  |
+| US-11         | Visualización del calendario de citas           | Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.                                                  | - Escenario 1: Dado que accedo a la opción “Citas agendadas”, cuando abro la sección, entonces debo ver un calendario con mis sesiones futuras. <br> - Escenario 2: Dado que selecciono una cita, cuando hago clic en ella, entonces debo ver detalles como nombre del estudiante, fecha, hora y enlace a la sesión.                 | EPIC03  |
+| US-12         | Acceso a perfiles de estudiantes                | Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.                           | - Escenario 1: Dado que accedo a “Estudiantes”, cuando selecciono un nombre, entonces debo ver información básica. <br> - Escenario 2: Dado que veo su perfil, cuando accedo a su historial, entonces también debo visualizar sus resultados previos de tests y citas anteriores.                                                 | EPIC03  |
+| US-13         | Consulta de resultados psicométricos de estudiantes | Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.           | - Escenario 1: Dado que estoy en el perfil de un estudiante, cuando selecciono “Resultados”, entonces debo ver los datos resumidos del test vocacional. <br> - Escenario 2: Dado que el estudiante ha completado el test, cuando visualizo los resultados, entonces debo ver niveles de afinidad y sugerencias académicas.           | EPIC03  |
+| US-14         | Actualización de disponibilidad                 | Como psicólogo, quiero actualizar mi disponibilidad, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados.              | - Escenario 1: Dado que estoy en el menú, cuando selecciono “Disponibilidad”, entonces debo poder añadir o editar días y horarios. <br> - Escenario 2: Dado que guardo mis cambios, entonces los estudiantes deben ver solo mis horarios actualizados.                                                                             | EPIC03  |
+| US-15         | Introducción explicativa al test                | Como estudiante, quiero ver una introducción antes del test, para entender su propósito y cómo responder correctamente.                               | - Escenario 1: Dado que accedo al test, cuando no lo he iniciado, entonces el sistema debe mostrar una pantalla de introducción. <br> - Escenario 2: Dado que leo la introducción, cuando hago clic en “Comenzar Test”, entonces debo acceder a la primera pregunta.                                                                | EPIC04  |
+| US-16         | Interfaz de preguntas clara y simple            | Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.                          | - Escenario 1: Dado que estoy en el test, cuando se carga una pregunta, entonces debe mostrarse una sola pregunta con opciones claras. <br> - Escenario 2: Dado que selecciono una opción, cuando hago clic en “Siguiente”, entonces el sistema debe guardar la respuesta y mostrar la siguiente pregunta.                           | EPIC04  |
+| US-17         | Opción para pausar y retomar el test            | Como estudiante, quiero poder pausar el test y retomarlo más adelante, para no perder mis respuestas.                                                 | - Escenario 1: Dado que realizo un test, cuando presiono “Pausar”, entonces el sistema debe guardar automáticamente mi progreso. <br> - Escenario 2: Dado que regreso al test pausado, cuando selecciono “Continuar Test”, entonces debo retomar desde donde lo dejé.                                                               | EPIC04  |
+| US-18         | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen al finalizar el test, para conocer mis áreas de afinidad vocacional.                                   | - Escenario 1: Dado que completo el test, cuando finalizo, entonces el sistema debe mostrar un resumen con niveles de afinidad. <br> - Escenario 2: Dado que veo mis resultados, cuando selecciono una afinidad, entonces el sistema debe mostrar una descripción y carreras relacionadas.                                         | EPIC04  |
+| US-19         | Notificación de test completado                 | Como estudiante, quiero recibir una notificación al completar un test, para saber que se guardaron mis resultados.                                   | - Escenario 1: Dado que termino un test, cuando se guarden los resultados, entonces el sistema debe mostrar una notificación en pantalla. <br> - Escenario 2: Dado que tengo habilitadas las notificaciones, cuando finalizo el test, entonces también debo recibir una notificación por correo o en la app.                           | EPIC04  |
+| US-20         | Repetición de tests vocacionales                | Como estudiante, quiero poder repetir un test vocacional, para explorar cambios en mis intereses.                                                    | - Escenario 1: Dado que ya completé un test, cuando accedo a la sección de tests, entonces debo ver la opción de “Repetir Test”. <br> - Escenario 2: Dado que inicio un nuevo test, cuando lo termino, entonces el sistema debe guardar los nuevos resultados sin eliminar los anteriores.                                              | EPIC04  |
+| US-31  | Navegación en la landing page               | Como usuario interesado, quiero navegar fácilmente la landing page, para encontrar información sobre el servicio.              | - Escenario 1: Menú claro con "Inicio", "Precios", "Psicólogos", "Contacto" y "Login". <br> - Escenario 2: Al hacer clic, debe redirigir de forma fluida a la sección correspondiente.                                                        | EPIC06  |
+| US-32  | Visualización de precios                    | Como visitante, quiero leer información clara sobre la plataforma, para entender cómo funciona.                                | - Escenario 1: Ver descripciones claras del propósito y funcionamiento. <br> - Escenario 2: Al hacer scroll, ver imágenes y textos complementarios.                                                                                           | EPIC06  |
+| US-33  | Cambio de idioma en la landing page         | Como usuario que habla otro idioma, quiero cambiar el idioma, para entender el contenido.                                      | - Escenario 1: Selector de idioma con opciones como Español e Inglés. <br> - Escenario 2: Al seleccionar, el contenido se actualiza automáticamente.                                                                                           | EPIC06  |
+| US-34  | Contacto                                    | Como usuario con dudas, quiero enviar un mensaje a través del formulario de contacto, para recibir atención personalizada.     | - Escenario 1: Formulario con nombre, correo y mensaje muestra confirmación tras enviar. <br> - Escenario 2: Recibir respuesta por correo en un plazo razonable.                                                                             | EPIC06  |
+| TS-35  | Gestión de usuarios registrados             | Como administrador, quiero ver un listado de usuarios, para monitorear y gestionar cuentas.                                   | - Escenario 1: Ver tabla con nombre, correo, rol y estado. <br> - Escenario 2: Al seleccionar un usuario, ver perfil y actividad.                                                                                                              | EPIC07  |
+| TS-36  | Activación o desactivación de cuentas       | Como administrador, quiero activar o desactivar cuentas, para controlar el acceso.                                             | - Escenario 1: Opción para desactivar una cuenta activa con confirmación. <br> - Escenario 2: Usuario desactivado no puede iniciar sesión.                                                                                                     | EPIC07  |
+| TS-37  | Gestión de sesiones agendadas               | Como administrador, quiero visualizar todas las sesiones, para asegurar la calidad del servicio.                              | - Escenario 1: Ver calendario con sesiones organizadas por fecha y hora. <br> - Escenario 2: Al seleccionar una sesión, ver nombres, rol del psicólogo y estatus.                                                                             | EPIC07  |
+| TS-38  | Estadísticas de uso de la plataforma        | Como administrador, quiero ver estadísticas generales, para evaluar el desempeño de la app.                                   | - Escenario 1: Ver gráficos con datos de registros, tests y sesiones. <br> - Escenario 2: Al filtrar por fecha, los datos se actualizan.                                                                                                       | EPIC07  |
+| TS-39  | Gestión de planes y suscripciones           | Como administrador, quiero gestionar los planes, para modificar beneficios, precios o reglas.                                 | - Escenario 1: Ver todos los planes activos y su configuración. <br> - Escenario 2: Al editar un plan, los cambios se aplican inmediatamente.                                                                                                  | EPIC07  |
+| TS-40  | Auditoría de actividad de usuarios          | Como administrador, quiero acceder al historial de acciones de los usuarios, para garantizar trazabilidad.                    | - Escenario: Ver historial con acciones como inicio de sesión, agendamientos y cambios de perfil.                                                                                                                                               | EPIC07  |
+| TS-41  | Gestión de reportes y soporte               | Como administrador, quiero ver y gestionar reportes enviados por usuarios, para darles respuesta oportuna.                     | - Escenario 1: Al ingresar a soporte, ver lista de reportes organizados por prioridad. <br> - Escenario 2: Al resolver un reporte, poder marcarlo como cerrado y dejar un comentario.                                       | EPIC07  |
+| TS-42  | Notificaciones globales del sistema         | Como administrador, quiero enviar notificaciones generales a usuarios, para mantenerlos informados.                            | - Escenario 1: En el módulo de notificaciones, redactar y enviar mensajes a todos o por tipo de usuario. <br> - Escenario 2: Notificación debe aparecer en bandeja o interfaz principal del usuario.                        | EPIC07  |
 
-**Criterios de aceptación**:
-- Escenario 1: Dado que soy un nuevo usuario, cuando ingreso mi correo válido y una contraseña segura, entonces el sistema debe crear mi cuenta y mostrarme un mensaje de bienvenida.
-- Escenario 2: Dado que estoy en la pantalla de registro, cuando ingreso datos inválidos (correo mal escrito o contraseña débil), entonces el sistema debe mostrar mensajes de error claros.
 
----
 
-### US-02 - Inicio de sesión con credenciales
-**Epic**: EPIC01  
-**Descripción**:  
-Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que soy un usuario registrado, cuando ingreso mi correo y contraseña correctos, entonces el sistema debe permitirme acceder a mi cuenta y llevarme al dashboard.
-- Escenario 2: Dado que ingreso una contraseña incorrecta, cuando intento iniciar sesión, entonces el sistema debe indicarme que las credenciales son incorrectas y no dejarme ingresar.
-
----
-
-### US-03 - Recuperación de contraseña
-**Epic**: EPIC01  
-**Descripción**:  
-Como usuario, quiero poder recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que olvidé mi contraseña, cuando hago clic en “¿Olvidaste tu contraseña?”, entonces el sistema debe solicitar mi correo electrónico registrado.
-- Escenario 2: Dado que ingreso un correo válido, cuando el sistema verifica mi cuenta, entonces debe enviarme un enlace para restablecer mi contraseña.
-
----
-
-### US-04 - Registro rápido con Google
-**Epic**: EPIC01  
-**Descripción**:  
-Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que soy un nuevo usuario, cuando hago clic en "Registrarme con Google", entonces el sistema debe mostrarme una ventana de autenticación de Google.
-- Escenario 2: Dado que autorizo el acceso con mi cuenta de Google, cuando se complete la autenticación, entonces el sistema debe crear mi perfil automáticamente y mostrarme el dashboard inicial.
-
----
-
-### US-05 - Acceso al menú principal intuitivo
-**Epic**: EPIC02  
-**Descripción**:  
-Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que veo el menú, cuando selecciono una opción, entonces el sistema debe llevarme directamente a la funcionalidad correspondiente.
-- Escenario 2: Dado que el menú está activo, cuando cambio de sección, entonces el menú debe mantenerse accesible desde cualquier pantalla principal.
-
----
-
-### US-06 - Ingreso a tests psicométricos desde el menú
-**Epic**: EPIC02  
-**Descripción**:  
-Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en el menú, cuando selecciono "Realizar Test", entonces debo ser redirigido a la pantalla del test vocacional.
-- Escenario 2: Dado que ya empecé un test antes, cuando ingreso a esa sección, entonces debo ver la opción de continuar desde donde lo dejé.
-
----
-
-### US-07 - Agendamiento de sesiones desde el menú
-**Epic**: EPIC02  
-**Descripción**:  
-Como estudiante, quiero poder agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en el menú, cuando selecciono "Agendar sesión", entonces el sistema debe mostrarme la disponibilidad de psicólogos.
-- Escenario 2: Dado que elijo una fecha y hora, cuando confirmo la reserva, entonces el sistema debe guardarla y enviarme una confirmación por la app o correo.
-
----
-
-### US-08 - Consulta de resultados anteriores desde el menú
-**Epic**: EPIC02  
-**Descripción**:  
-Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que accedo al menú, cuando selecciono "Mis resultados", entonces el sistema debe mostrar un resumen de mis tests completados.
-- Escenario 2: Dado que veo mis resultados, cuando selecciono uno, entonces debo acceder al detalle del perfil vocacional y sugerencias académicas.
-
----
-
-### US-09 - Edición de información personal
-**Epic**: EPIC02  
-**Descripción**:  
-Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que accedo al menú, cuando selecciono "Mi perfil", entonces debo ver mis datos actuales como nombre, correo y edad.
-- Escenario 2: Dado que realizo cambios, cuando guardo la información, entonces el sistema debe actualizar los datos y mostrar un mensaje de éxito.
-
-### US-10 - Menú personalizado para psicólogos
-**Epic**: EPIC03  
-**Descripción**:  
-Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que soy psicólogo, cuando inicio sesión en la app, entonces debo ver un menú con secciones como “Citas agendadas”, “Estudiantes”, “Resultados” y “Disponibilidad”.
-- Escenario 2: Dado que accedo al menú, cuando hago clic en una opción, entonces debo ser redirigido a la sección correspondiente sin errores.
-
----
-
-### US-11 - Visualización del calendario de citas
-**Epic**: EPIC03  
-**Descripción**:  
-Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que accedo a la opción “Citas agendadas”, cuando abro la sección, entonces debo ver un calendario con mis sesiones futuras.
-- Escenario 2: Dado que selecciono una cita en el calendario, cuando hago clic en ella, entonces debo ver detalles como nombre del estudiante, fecha, hora y enlace a la sesión (si es virtual).
-
----
-
-### US-12 - Acceso a perfiles de estudiantes
-**Epic**: EPIC03  
-**Descripción**:  
-Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que accedo a “Estudiantes”, cuando selecciono un nombre, entonces debo poder ver información básica como edad, nivel educativo y preferencias vocacionales.
-- Escenario 2: Dado que veo su perfil, cuando accedo a su historial, entonces también debo visualizar sus resultados previos de tests y citas anteriores.
-
----
-
-### US-13 - Consulta de resultados psicométricos de estudiantes
-**Epic**: EPIC03  
-**Descripción**:  
-Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en el perfil de un estudiante, cuando selecciono la opción “Resultados”, entonces debo ver los datos resumidos del test vocacional.
-- Escenario 2: Dado que el estudiante ha completado el test, cuando visualizo sus resultados, entonces debo ver niveles de afinidad con diferentes áreas profesionales y sugerencias académicas.
-
----
-
-### US-14 - Actualización de disponibilidad
-**Epic**: EPIC03  
-**Descripción**:  
-Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en el menú, cuando selecciono “Disponibilidad”, entonces debo poder añadir o editar días y horarios disponibles.
-- Escenario 2: Dado que guardo mis cambios, cuando los estudiantes accedan a la agenda, entonces solo deben ver mis horarios disponibles actualizados.
-
----
-
-### US-15 - Introducción explicativa al test
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que accedo a la sección del test, cuando todavía no lo he iniciado, entonces el sistema debe mostrar una pantalla de introducción con una explicación clara del objetivo y duración estimada.
-- Escenario 2: Dado que leo la introducción, cuando hago clic en “Comenzar Test”, entonces el sistema debe llevarme a la primera pregunta.
-
----
-
-### US-16 - Interfaz de preguntas clara y simple
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en el test, cuando se carga una nueva pregunta, entonces debe mostrarse una sola pregunta con opciones de respuesta bien definidas.
-- Escenario 2: Dado que selecciono una opción, cuando hago clic en “Siguiente”, entonces el sistema debe guardar la respuesta y mostrar la siguiente pregunta.
-
----
-
-### US-17 - Opción para pausar y retomar el test
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero poder pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy realizando un test, cuando presiono “Pausar”, entonces el sistema debe guardar automáticamente mi progreso.
-- Escenario 2: Dado que vuelvo a ingresar al test pausado, cuando selecciono “Continuar Test”, entonces el sistema debe llevarme a la pregunta donde me quedé.
-
----
-
-### US-18 - Resumen inmediato de resultados al finalizar el test
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que completo todas las preguntas del test, cuando finalizo, entonces el sistema debe procesar mis respuestas y mostrar un resumen con niveles de afinidad por área profesional.
-- Escenario 2: Dado que veo mis resultados, cuando selecciono una afinidad, entonces el sistema debe mostrarme una descripción y posibles carreras relacionadas.
-
----
-
-### US-19 - Notificación de test completado
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que termino un test, cuando se guarden los resultados, entonces el sistema debe mostrar una notificación en pantalla confirmando el guardado exitoso.
-- Escenario 2: Dado que tengo habilitadas las notificaciones, cuando finalizo el test, entonces también debo recibir una notificación por correo o dentro de la app.
-
-
-### US-20 - Repetición de tests vocacionales
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero poder repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que ya completé un test, cuando accedo a la sección de tests, entonces el sistema debe mostrarme la opción de “Repetir Test”.
-- Escenario 2: Dado que inicio un nuevo test, cuando lo termino, entonces el sistema debe guardar los nuevos resultados sin eliminar los anteriores.
-
----
-
-### US-21 - Visualización de diferencias entre plan Free y Premium
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero poder ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que ingreso a la sección de planes, cuando se cargue la pantalla, entonces debo ver una tabla comparativa clara con los beneficios de ambos planes.
-- Escenario 2: Dado que reviso la tabla, cuando selecciono un plan, entonces el sistema debe mostrarme un resumen y el botón para activarlo.
-
----
-
-### US-22 - Activación del plan Premium
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero poder activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en la pantalla de suscripción, cuando selecciono el plan Premium, entonces el sistema debe mostrarme las opciones de pago disponibles.
-- Escenario 2: Dado que completo el pago correctamente, cuando se confirme la transacción, entonces mi cuenta debe actualizarse a Premium y mostrar un mensaje de éxito.
-
----
-
-### US-23 - Uso continuo del plan Free sin pago
-**Epic**: EPIC04  
-**Descripción**:  
-Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que no selecciono un plan de pago, cuando ingreso a la app, entonces el sistema debe mantenerme en el plan Free con acceso limitado.
-- Escenario 2: Dado que intento acceder a una funcionalidad Premium desde el plan Free, cuando no tengo acceso, entonces el sistema debe mostrarme un aviso que me invite a actualizar mi plan.
-
----
-
-### US-24 - Comparación de planes desde perfil del psicólogo
-**Epic**: EPIC04  
-**Descripción**:  
-Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que ingreso como psicólogo, cuando voy a la sección de planes, entonces debo ver una comparativa específica con funcionalidades relevantes para mi rol (número de sesiones, herramientas de análisis, visibilidad, etc.).
-- Escenario 2: Dado que visualizo los planes, cuando selecciono uno, entonces el sistema debe mostrarme los beneficios exactos y los pasos para activarlo.
-
----
-
-### US-25 - Contratación del plan Premium como psicólogo
-**Epic**: EPIC04  
-**Descripción**:  
-Como psicólogo, quiero poder contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que selecciono el plan Premium, cuando ingreso los datos de pago y confirmo, entonces el sistema debe procesar la transacción de manera segura.
-- Escenario 2: Dado que la suscripción se activa, cuando regreso a mi cuenta, entonces debo ver reflejado el nuevo plan y sus beneficios habilitados.
-
----
-
-### US-26 - Listado de psicólogos con perfil resumido
-**Epic**: EPIC05  
-**Descripción**:  
-Como estudiante, quiero ver un listado de psicólogos disponibles con sus fotos, nombres y descripciones breves, para elegir con quién agendar una sesión.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que ingreso a la pantalla del catálogo, cuando se carga la sección, entonces debo ver una lista con las tarjetas de los psicólogos, incluyendo su nombre, foto, especialidad y una descripción corta.
-- Escenario 2: Dado que veo la lista, cuando hago clic en un psicólogo, entonces el sistema debe mostrarme su perfil detallado y horarios disponibles.
-
----
-
-### US-27 - Filtro por especialidad o disponibilidad
-**Epic**: EPIC05  
-**Descripción**:  
-Como estudiante, quiero poder filtrar psicólogos por especialidad o disponibilidad, para encontrar más fácilmente uno que se ajuste a mis necesidades.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en el catálogo, cuando uso el filtro por especialidad (por ejemplo: ansiedad, vocacional, etc.), entonces el sistema debe mostrar solo psicólogos con esa área de enfoque.
-- Escenario 2: Dado que activo el filtro por disponibilidad, cuando selecciono un rango de días u horas, entonces debo ver solo a los psicólogos que tienen citas disponibles en ese periodo.
-
----
-
-### US-28 - Edición del perfil profesional del psicólogo
-**Epic**: EPIC05  
-**Descripción**:  
-Como psicólogo, quiero editar la descripción de mi perfil en el catálogo, para comunicar mejor mi enfoque terapéutico y experiencia.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en mi perfil profesional, cuando selecciono la opción “Editar descripción”, entonces el sistema debe permitirme modificar el texto que ven los estudiantes.
-- Escenario 2: Dado que realizo cambios, cuando guardo la descripción, entonces el sistema debe actualizar la información en el catálogo y mostrar un mensaje de confirmación.
-
----
-
-### US-29 - Actualización de disponibilidad en el catálogo
-**Epic**: EPIC05  
-**Descripción**:  
-Como psicólogo, quiero actualizar mi disponibilidad desde el catálogo, para que los estudiantes solo vean horarios reales para agendar sesiones.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy en mi perfil, cuando accedo a “Editar disponibilidad”, entonces el sistema debe mostrarme un calendario editable con días y horas seleccionables.
-- Escenario 2: Dado que modifico mi disponibilidad, cuando guardo los cambios, entonces el catálogo debe reflejar las actualizaciones al instante.
-
----
-
-### US-30 - Marcado de psicólogos como favoritos
-**Epic**: EPIC05  
-**Descripción**:  
-Como estudiante, quiero poder marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro.
-
-**Criterios de aceptación**:
-- Escenario 1: Dado que estoy viendo el perfil de un psicólogo, cuando hago clic en el ícono de “favorito”, entonces el sistema debe guardarlo en mi lista personal de favoritos.
-- Escenario 2: Dado que regreso al catálogo, cuando abro mi lista de favoritos, entonces debo ver solo los psicólogos que he marcado previamente, con acceso rápido a su disponibilidad.
-
-### US-31 - Navegación en la landing page
-**Epic**: EPIC06  
-**Descripción**:  
-Como usuario interesado en la plataforma, quiero poder navegar fácilmente por la landing page, para encontrar rápidamente la información que necesito sobre el servicio.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando ingreso a la página, entonces debo ver un menú claro que me permita acceder a secciones como "Inicio", "Precios", "Psicólogos", "Contacto" y "Login".
-- Escenario 2: Cuando hago clic en un elemento del menú, entonces debo ser redirigido de forma fluida a la sección correspondiente.
-
----
-
-### US-32 - Visualización de precios
-**Epic**: EPIC06  
-**Descripción**:  
-Como usuario que visita la landing page, quiero leer información clara sobre la plataforma, para entender cómo funciona y si es útil para mí.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando ingreso a la página principal, entonces debo ver descripciones claras sobre el propósito de la plataforma, cómo funciona y a quién está dirigida.
-- Escenario 2: Cuando hago scroll, debo encontrar imágenes y textos que complementen la información y me ayuden a tomar una decisión.
-
----
-
-### US-33 - Cambio de idioma en la landing page
-**Epic**: EPIC06  
-**Descripción**:  
-Como usuario que habla otro idioma, quiero poder cambiar el idioma de la landing page, para entender todo el contenido de forma clara y cómoda.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando hago clic en el selector de idioma, entonces debo poder elegir entre los idiomas disponibles (por ejemplo, Español e Inglés).
-- Escenario 2: Cuando selecciono un idioma, el contenido de toda la página debe actualizarse automáticamente a ese idioma.
-
----
-
-### US-34 - Contacto
-**Epic**: EPIC06  
-**Descripción**:  
-Como usuario con dudas o interés en el servicio, quiero enviar un mensaje a través del formulario de contacto, para recibir atención personalizada por parte del equipo.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando completo el formulario con mi nombre, correo y mensaje, y presiono "Enviar", entonces debe mostrarse una confirmación de que fue recibido.
-- Escenario 2: Cuando envío el mensaje, quiero recibir una respuesta en un plazo razonable al correo que proporcioné.
-
----
-
-### TS-35 - Gestión de usuarios registrados
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para poder monitorear su actividad y gestionar cuentas.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando accedo al panel de administración, entonces debo ver una tabla con nombre, correo, rol, y estado de cuenta (activo/inactivo).
-- Escenario 2: Cuando selecciono un usuario, entonces debo poder ver detalles de su perfil y un historial básico de su actividad.
-
----
-
-### TS-36 - Activación o desactivación de cuentas
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero poder activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando hago clic en una cuenta activa, entonces debo ver la opción de desactivarla con confirmación.
-- Escenario 2: Cuando una cuenta es desactivada, entonces el usuario no debe poder iniciar sesión.
-
----
-
-### TS-37 - Gestión de sesiones agendadas
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando accedo al panel de citas, entonces debo ver un calendario con todas las sesiones organizadas por fecha y hora.
-- Escenario 2: Cuando selecciono una sesión, entonces debo ver detalles como nombres, rol del psicólogo y estatus de la cita.
-
----
-
-### TS-38 - Estadísticas de uso de la plataforma
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando accedo al módulo de estadísticas, entonces debo ver gráficos con datos de registros diarios, tests completados y sesiones realizadas.
-- Escenario 2: Cuando filtro por rango de fechas, entonces los datos deben actualizarse correctamente.
-
----
-
-### TS-39 - Gestión de planes y suscripciones
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero gestionar los planes Free y Premium, para poder modificar beneficios, precios o reglas de acceso.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando ingreso a la sección de planes, entonces debo poder ver todos los planes activos con su configuración actual.
-- Escenario 2: Cuando edito un plan, entonces los cambios deben aplicarse de inmediato a los usuarios correspondientes.
-
----
-
-### TS-40 - Auditoría de actividad de usuarios
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando selecciono un usuario en el panel de administración, entonces debo ver un historial con fecha, hora y tipo de acción realizada.
-- Escenario 2: Cuando se produzca una acción crítica (como cambio de plan), debe quedar registrada en el historial.
-
----
-
-### TS-41 - Gestión de reportes y soporte
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando ingreso a la sección de soporte, entonces debo ver una lista de reportes organizados por prioridad.
-- Escenario 2: Cuando resuelvo un reporte, entonces debo poder marcarlo como cerrado y dejar un comentario.
-
----
-
-### TS-42 - Notificaciones globales del sistema
-**Epic**: EPIC07  
-**Descripción**:  
-Como administrador, quiero poder enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados.
-
-**Criterios de aceptación**:
-- Escenario 1: Cuando ingreso al módulo de notificaciones, entonces debo poder redactar y enviar mensajes a todos o por tipo de usuario.
-- Escenario 2: Cuando un usuario recibe la notificación, debe aparecer en su bandeja de entrada o en la interfaz principal de la app.
 
 
 
@@ -1193,290 +792,50 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 # Product Backlog
 
 
-### 1. US-01 - Registro con correo y contraseña
-**Descripción:**  
-Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma.  
-**Story Points:** 8
-
----
-
-### 2. US-02 - Inicio de sesión con credenciales
-**Descripción:**  
-Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.  
-**Story Points:** 5
-
----
-
-### 3. US-03 - Recuperación de contraseña
-**Descripción:**  
-Como usuario, quiero poder recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados.  
-**Story Points:** 5
-
----
-
-### 4. US-04 - Registro rápido con Google
-**Descripción:**  
-Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso.  
-**Story Points:** 3
-
----
-
-### 5. US-05 - Acceso al menú principal intuitivo
-**Descripción:**  
-Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app.  
-**Story Points:** 3
-
----
-
-### 6. US-06 - Ingreso a tests psicométricos desde el menú
-**Descripción:**  
-Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional.  
-**Story Points:** 3
-
----
-
-### 7. US-07 - Agendamiento de sesiones desde el menú
-**Descripción:**  
-Como estudiante, quiero poder agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada.  
-**Story Points:** 3
-
----
-
-### 8. US-08 - Consulta de resultados anteriores desde el menú
-**Descripción:**  
-Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional.  
-**Story Points:** 3
-
----
-
-### 9. US-09 - Edición de información personal
-**Descripción:**  
-Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados.  
-**Story Points:** 3
-
----
-
-### 10. US-10 - Menú personalizado para psicólogos
-**Descripción:**  
-Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol.  
-**Story Points:** 3
-
-### 11. US-11 - Visualización del calendario de citas
-**Descripción:**  
-Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.  
-**Story Points:** 3
-
----
-
-### 12. US-12 - Acceso a perfiles de estudiantes
-**Descripción:**  
-Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.  
-**Story Points:** 5
-
----
-
-### 13. US-13 - Consulta de resultados psicométricos de estudiantes
-**Descripción:**  
-Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.  
-**Story Points:** 5
-
----
-
-### 14. US-14 - Actualización de disponibilidad
-**Descripción:**  
-Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados.  
-**Story Points:** 3
-
----
-
-### 15. US-15 - Introducción explicativa al test
-**Descripción:**  
-Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente.  
-**Story Points:** 3
-
----
-
-### 16. US-16 - Interfaz de preguntas clara y simple
-**Descripción:**  
-Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.  
-**Story Points:** 3
-
----
-
-### 17. US-17 - Opción para pausar y retomar el test
-**Descripción:**  
-Como estudiante, quiero poder pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad.  
-**Story Points:** 3
-
----
-
-### 18. US-18 - Resumen inmediato de resultados al finalizar el test
-**Descripción:**  
-Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional.  
-**Story Points:** 3
-
----
-
-### 19. US-19 - Notificación de test completado
-**Descripción:**  
-Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados.  
-**Story Points:** 5
-
----
-
-### 20. US-20 - Repetición de tests vocacionales
-**Descripción:**  
-Como estudiante, quiero poder repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo.  
-**Story Points:** 5
-
-
-### 21. US-21 - Visualización de diferencias entre plan Free y Premium
-**Descripción:**  
-Como estudiante, quiero poder ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.  
-**Story Points:** 5
-
----
-
-### 22. US-22 - Activación del plan Premium
-**Descripción:**  
-Como estudiante, quiero poder activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado.  
-**Story Points:** 5
-
----
-
-### 23. US-23 - Uso continuo del plan Free sin pago
-**Descripción:**  
-Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.  
-**Story Points:** 3
-
----
-
-### 24. US-24 - Comparación de planes desde perfil del psicólogo
-**Descripción:**  
-Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.  
-**Story Points:** 3
-
----
-
-### 25. US-25 - Contratación del plan Premium como psicólogo
-**Descripción:**  
-Como psicólogo, quiero poder contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas.  
-**Story Points:** 5
-
----
-
-### 26. US-26 - Listado de psicólogos con perfil resumido
-**Descripción:**  
-Como estudiante, quiero ver un listado de psicólogos disponibles con sus fotos, nombres y descripciones breves, para elegir con quién agendar una sesión.  
-**Story Points:** 5
-
----
-
-### 27. US-27 - Filtro por especialidad o disponibilidad
-**Descripción:**  
-Como estudiante, quiero poder filtrar psicólogos por especialidad o disponibilidad, para encontrar más fácilmente uno que se ajuste a mis necesidades.  
-**Story Points:** 3
-
----
-
-### 28. US-28 - Edición del perfil profesional del psicólogo
-**Descripción:**  
-Como psicólogo, quiero editar la descripción de mi perfil en el catálogo, para comunicar mejor mi enfoque terapéutico y experiencia.  
-**Story Points:** 3
-
----
-
-### 29. US-29 - Actualización de disponibilidad en el catálogo
-**Descripción:**  
-Como psicólogo, quiero actualizar mi disponibilidad desde el catálogo, para que los estudiantes solo vean horarios reales para agendar sesiones.  
-**Story Points:** 5
-
----
-
-### 30. US-30 - Marcado de psicólogos como favoritos
-**Descripción:**  
-Como estudiante, quiero poder marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro.  
-**Story Points:** 3
-
-### 31. US-31 - Navegación en la landing page
-**Descripción:**  
-Como usuario interesado en la plataforma, quiero poder navegar fácilmente por la landing page, para encontrar rápidamente la información que necesito sobre el servicio.  
-**Story Points:** 8
-
----
-
-### 32. US-32 - Visualización de precios
-**Descripción:**  
-Como usuario que visita la landing page, quiero leer información clara sobre la plataforma, para entender cómo funciona y si es útil para mí.  
-**Story Points:** 5
-
----
-
-### 33. US-33 - Cambio de idioma en la landing page
-**Descripción:**  
-Como usuario que habla otro idioma, quiero poder cambiar el idioma de la landing page, para entender todo el contenido de forma clara y cómoda.  
-**Story Points:** 3
-
----
-
-### 34. US-34 - Contacto
-**Descripción:**  
-Como usuario con dudas o interés en el servicio, quiero enviar un mensaje a través del formulario de contacto, para recibir atención personalizada por parte del equipo.  
-**Story Points:** 3
-
----
-
-### 35. TS-35 - Gestión de usuarios registrados
-**Descripción:**  
-Como administrador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para poder monitorear su actividad y gestionar cuentas.  
-**Story Points:** 5
-
----
-
-### 36. TS-36 - Activación o desactivación de cuentas
-**Descripción:**  
-Como administrador, quiero poder activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.  
-**Story Points:** 3
-
----
-
-### 37. TS-37 - Gestión de sesiones agendadas
-**Descripción:**  
-Como administrador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente.  
-**Story Points:** 3
-
----
-
-### 38. TS-38 - Estadísticas de uso de la plataforma
-**Descripción:**  
-Como administrador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app.  
-**Story Points:** 3
-
----
-
-### 39. TS-39 - Gestión de planes y suscripciones
-**Descripción:**  
-Como administrador, quiero gestionar los planes Free y Premium, para poder modificar beneficios, precios o reglas de acceso.  
-**Story Points:** 3
-
----
-
-### 40. TS-40 - Auditoría de actividad de usuarios
-**Descripción:**  
-Como administrador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad.  
-**Story Points:** 3
-### 41. TS-41 - Gestión de reportes y soporte
-**Descripción:**  
-Como administrador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.  
-**Story Points:** 3
-
----
-
-### 42. TS-42 - Notificaciones globales del sistema
-**Descripción:**  
-Como administrador, quiero poder enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados.  
-**Story Points:** 3
-
+| #Orden | UserStory ID | Título                              | Descripción                                                                                                                                   | StoryPoints |
+|--------|--------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| 1      | US-01        | Registro con correo y contraseña    | Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma. | 8           |
+| 2      | US-02        | Inicio de sesión con credenciales   | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.                             | 5           |
+| 3      | US-03        | Recuperación de contraseña                | Como usuario, quiero poder recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados.                | 5           |
+| 4      | US-04        | Registro rápido con Google                | Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso. | 3           |
+| 5      | US-05        | Acceso al menú principal intuitivo        | Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app.              | 3           |
+| 6      | US-06        | Ingreso a tests psicométricos desde el menú | Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional.        | 3           |
+| 7      | US-07        | Agendamiento de sesiones desde el menú    | Como estudiante, quiero poder agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada.                      | 3           |
+| 8      | US-08        | Consulta de resultados anteriores desde el menú | Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional.                   | 3           |
+| 9      | US-09        | Edición de información personal           | Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados.                                   | 3           |
+| 10     | US-10        | Menú personalizado para psicólogos        | Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol.                    | 3           |
+| 11     | US-11        | Visualización del calendario de citas      | Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.                                           | 3           |
+| 12     | US-12        | Acceso a perfiles de estudiantes           | Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.                    | 5           |
+| 13     | US-13        | Consulta de resultados psicométricos de estudiantes | Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.         | 5           |
+| 14     | US-14        | Actualización de disponibilidad            | Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados. | 3           |
+| 15     | US-15        | Introducción explicativa al test           | Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente.        | 3           |
+| 16     | US-16        | Interfaz de preguntas clara y simple       | Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.                    | 3           |
+| 17     | US-17        | Opción para pausar y retomar el test       | Como estudiante, quiero poder pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad.    | 3           |
+| 18     | US-18        | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional.          | 3           |
+| 19     | US-19        | Notificación de test completado            | Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados.     | 5           |
+| 20     | US-20        | Repetición de tests vocacionales           | Como estudiante, quiero poder repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo.   | 5           |
+| 21     | US-21        | Visualización de diferencias entre plan Free y Premium | Como estudiante, quiero poder ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.  | 5           |
+| 22     | US-22        | Activación del plan Premium                 | Como estudiante, quiero poder activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado. | 5           |
+| 23     | US-23        | Uso continuo del plan Free sin pago         | Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.      | 3           |
+| 24     | US-24        | Comparación de planes desde perfil del psicólogo | Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.     | 3           |
+| 25     | US-25        | Contratación del plan Premium como psicólogo | Como psicólogo, quiero poder contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas. | 5           |
+| 26     | US-26        | Listado de psicólogos con perfil resumido   | Como estudiante, quiero ver un listado de psicólogos disponibles con sus fotos, nombres y descripciones breves, para elegir con quién agendar una sesión. | 5           |
+| 27     | US-27        | Filtro por especialidad o disponibilidad    | Como estudiante, quiero poder filtrar psicólogos por especialidad o disponibilidad, para encontrar más fácilmente uno que se ajuste a mis necesidades. | 3           |
+| 28     | US-28        | Edición del perfil profesional del psicólogo | Como psicólogo, quiero editar la descripción de mi perfil en el catálogo, para comunicar mejor mi enfoque terapéutico y experiencia.           | 3           |
+| 29     | US-29        | Actualización de disponibilidad en el catálogo | Como psicólogo, quiero actualizar mi disponibilidad desde el catálogo, para que los estudiantes solo vean horarios reales para agendar sesiones. | 5           |
+| 30     | US-30        | Marcado de psicólogos como favoritos        | Como estudiante, quiero poder marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro. | 3           |
+| 31     | US-31        | Navegación en la landing page               | Como usuario interesado en la plataforma, quiero poder navegar fácilmente por la landing page, para encontrar rápidamente la información que necesito sobre el servicio. | 8           |
+| 32     | US-32        | Visualización de precios                    | Como usuario que visita la landing page, quiero leer información clara sobre la plataforma, para entender cómo funciona y si es útil para mí.  | 5           |
+| 33     | US-33        | Cambio de idioma en la landing page         | Como usuario que habla otro idioma, quiero poder cambiar el idioma de la landing page, para entender todo el contenido de forma clara y cómoda. | 3           |
+| 34     | US-34        | Contacto                                    | Como usuario con dudas o interés en el servicio, quiero enviar un mensaje a través del formulario de contacto, para recibir atención personalizada por parte del equipo. | 3           |
+| 35     | TS-35        | Gestión de usuarios registrados             | Como administrador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para poder monitorear su actividad y gestionar cuentas. | 5           |
+| 36     | TS-36        | Activación o desactivación de cuentas       | Como administrador, quiero poder activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.               | 3           |
+| 37     | TS-37        | Gestión de sesiones agendadas               | Como administrador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente. | 3           |
+| 38     | TS-38        | Estadísticas de uso de la plataforma        | Como administrador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app. | 3           |
+| 39     | TS-39        | Gestión de planes y suscripciones           | Como administrador, quiero gestionar los planes Free y Premium, para poder modificar beneficios, precios o reglas de acceso.                | 3           |
+| 40     | TS-40        | Auditoría de actividad de usuarios          | Como administrador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad. | 3           |
+| 41     | TS-41        | Gestión de reportes y soporte               | Como administrador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.       | 3           |
+| 42     | TS-42        | Notificaciones globales del sistema         | Como administrador, quiero poder enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados. | 3           |
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
@@ -2469,4 +1828,5 @@ En nuestro repositorio vamos a github pages y logramos hacer un deploy de nuestr
 
 Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyeron para todos los integrantes del equipo. La implementación y despliegue de la landing page fue llevado por Eric Olivera
 
-
+![sprint](Assets/sprint1.JPG)
+![sprint](Assets/sprint2.JPG)
