@@ -433,7 +433,7 @@ Estas son las principales estrategias que aplicará **PsychoHelp**:
 - Ubicación en la que vive olivos, Lima, Perú
 
 #### Entrevista: ####
-link: [URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 - Momento en el que inicia: 0:02
@@ -453,7 +453,7 @@ En ese sentido, está dispuesto a probar nuevas alternativas y le parece una ide
 ![Entrevista 2](Assets/Elvis.png)
 
 #### Entrevista: ####
-link:[URL entrevista](https://drive.google.com/file/d/12zpl-imeFKodLIK2MSkcLZRE6kfCeG6q/view?usp=sharing)
+link:https://drive.google.com/file/d/12zpl-imeFKodLIK2MSkcLZRE6kfCeG6q/view?usp=sharing
 - Momento en el que inicia: 0:00
 - Duración: 6:08
   
@@ -472,7 +472,7 @@ Finalmente, manifestó que estaría totalmente dispuesto a contactar con un psic
   
 ![Entrevista 3](Assets/Alejandro.png)
 #### Entrevista: #####
-link:[URL entrevista]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EdFC8tauorhEuMi__ESOCRgBaBfZJhHZCFduqWM33oQudg?e=6k7wes)
+link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EdFC8tauorhEuMi__ESOCRgBaBfZJhHZCFduqWM33oQudg?e=6k7wes
 
 - Momento en el que inicia: 0:00
 - Duración: 4:56
@@ -494,7 +494,7 @@ Finalmente, mencionó que acceder a una videollamada con un psicólogo sería al
 ![Entrevista 4](Assets/Maricielo.png)
 #### Entrevista: ####
 
-link:[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW)
+link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EcVMA4GvuX5PiYD6y-ZQDQoBMpOEFHInTl34d-NKVHWzAA?e=Xkc9TW
 - Momento en el que inicia: 0:00
 - Duración: 7:49
   
@@ -513,7 +513,7 @@ Su perspectiva refuerza la importancia de unir la tecnología con un enfoque hum
 
 #### Entrevista: ####
 
-link:[URL entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EfgU6lkVBSdAu4djjhTMSGABFNyjN-QAbxvux7EK8lC03w?e=HzHUxX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Momento en el que inicia: 0:00
 -Duración: 7:49
 
@@ -531,7 +531,7 @@ Antonella también resaltó la importancia del rol que cumplen los padres en est
 ![Entrevista 6](Assets/Erick.png)
 
 #### Entrevista: ####
-- link:[URL entrevista]( https://youtu.be/IuQXwxSmHgA )
+- link:https://youtu.be/IuQXwxSmHgA 
 - Momento en el que inicia: 0:00
 - Duración: 3:39
 
@@ -1862,7 +1862,7 @@ Cada diagrama muestra las interacciones y cambios de pantalla a lo largo de los 
 
 ![4](Assets/Chapter%204/4.JPG)
 
-[Ver tablero en Miro](https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224)
+https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1896,17 +1896,17 @@ PÁGINA WEB DE RESOLUCION DE TEST:
 #### 4.4.4. Web Applications User Flow Diagrams
 ![17](Assets/Chapter%204/17.JPG)
 
-[Ver tablero en miro](https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870 )
+https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870 
 ### 4.5. Web Applications Prototyping
 ![18](Assets/Chapter%204/18.JPG)
 
 VIDEO SOBRE EL PROTOTIPO:
-[VER EL VIDEO](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 =======
 
 ![wireflow-diagram.png](Assets/Chapter%204/wireflow-diagram.png)
 
-[https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224](https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224)
+https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224
 
 #### 4.4.3. Web Applications Mock-ups
 
@@ -1949,7 +1949,7 @@ VIDEO SOBRE EL PROTOTIPO:
 
 ![user-flow-diagram.png](Assets/Chapter%204/user-flow-diagram.png)
 
-[https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870](https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870)
+https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870
 
 
 
@@ -1957,7 +1957,7 @@ VIDEO SOBRE EL PROTOTIPO:
 
 ![prototyping.png](Assets/Chapter%204/prototyping.png)
 
-[Elance para ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315032_upc_edu_pe/EXuC3iWdqVZLvpQqu9WhDfMBrjcR5ysAYxonwmYJhobSLQ?e=sOcdoI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 
