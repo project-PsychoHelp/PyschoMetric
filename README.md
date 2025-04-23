@@ -1764,6 +1764,16 @@ Pasos realizados para desplegar nuestra Landing Page:
 ##### 5.2.1.3. Sprint Backlog 1
 
 
+**SPRINT 1**
+
+| **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**     | **Status**    |
+|-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|----------------------|---------------|
+| US-01             | Registro con correo y contraseña                   | T01         | Registro en la web                            | La página web debe poderse registrar en la aplicación con mi correo electrónico  | 4                      | Walter Fajardo       | InProcess     |
+| US-02             | Inicio de sesión con credenciales                  | T02         | Inicio de sesión en la web                    | La página web debe iniciar sesión con mis credenciales, para acceder             | 4                      | Joaquín Alberto      | InProcess     |
+| US-39             | Gestión de navegación en la landing page           | T03         | Navegación de landing page                    | La página web debe navegar                                                       | 1                      | Víctor Manuel        | Done          |
+| US-40             | Visualización de precios                           | T04         | Visualizar precios                            | La página web debe darme una visualización de precios                            | 2                      | Pablo Gerónimo       | InProcess     |
+| US-41             | Cambio de idioma en la landing page                | T05         | Cambio de idiomas                             | La página web debe darme un cambio de idiomas                                    | 6                      | Eric Olivera         | Done          |
+| US-42             | Recepción y gestión de mensajes del formulario     | T06         | Agregar formulario de contacto                | La página web debe tener un apartado de enviar mensaje al equipo de soporte     | 2                      | Joaquín Alberto      | InProcess     |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
