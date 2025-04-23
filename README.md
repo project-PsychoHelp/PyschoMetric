@@ -1185,8 +1185,8 @@ Como administrador, quiero poder enviar notificaciones generales a los usuarios 
 
 ### 3.3. Impact Mapping
 Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. 
-![fin](Assets/final1.jpg)
-![fin](Assets/final2.png)
+![fin](Assets/Impact%20map%201.png)
+![fin](Assets/Impact%20map%202.png)
 
 
 ### 3.4. Product Backlog
