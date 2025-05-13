@@ -209,50 +209,59 @@ De acuerdo con un informe de la UNESCO (2021), la orientación vocacional es cla
 Nuestro objetivo es comprender las necesidades de nuestros usuarios, por lo tanto, hemos analizamos sus historiales y la problemática bajo el enfoque de las 5 ‘W’s y 2 ‘H’s.
 
 
+
 **What (Qué)**
 - ¿Cuál es el problema?
-Muchos jóvenes estudiantes se sienten confundidos o insatisfechos con la elección de su carrera profesional, lo que puede llevar a la desmotivación, cambio de carrera o abandono académico. La falta de orientación vocacional temprana y personalizada es la causa central de la problemática identificada.
+Muchos estudiantes de secundaria y universitarios de primeros ciclos enfrentan confusión, inseguridad o frustración al elegir una carrera profesional. Este problema está relacionado con la falta de autoconocimiento, la ausencia de orientación vocacional personalizada y el desconocimiento de la oferta académica. Como resultado, muchos jóvenes toman decisiones desinformadas que pueden derivar en abandono académico, cambios de carrera o baja satisfacción profesional.
+
 
 **When (Cuando)**
-- ¿Cuándo sucede el problema?
-Este problema ocurre principalmente durante la etapa final de la secundaria y en algunos casos, en los primeros ciclos universitarios, cuando los estudiantes deben tomar decisiones importantes sobre su futuro académico o decidir si necesitan un cambio de carrera antes de avanzar con su malla curricular.
+Este problema se presenta en momentos decisivos del desarrollo académico:
+- Al terminar la secundaria, cuando deben elegir una carrera o postular a una universidad.
 
-- ¿Cuándo utiliza el cliente el producto?
-El cliente utiliza el producto en momentos clave de su vida académica:
- - Antes de postular a una universidad o carrera.
+- En el caso de los psicólogos, cuando buscan posicionarse profesionalmente y captar nuevos usuarios, pero no encuentran canales accesibles ni especializados.
 
- - Durante los primeros ciclos universitarios, cuando sienten dudas o insatisfacción respecto a la carrera elegida.
-En el caso de los psicólogos:
- Cuando están en búsqueda de clientes, como lo son los estudiantes.
 
 **Where (Dónde)**
 - ¿Dónde está el usuario cuando usa el producto?
-El usuario accede a la aplicación desde cualquier lugar con conexión a internet, generalmente desde su casa, colegio, biblioteca, oficina o en espacios donde busca privacidad para reflexionar sobre su futuro. La plataforma está diseñada para ser accesible desde dispositivos móviles y computadoras.
+
+El problema se origina en espacios educativos tradicionales, como colegios o universidades, donde la orientación vocacional es limitada. También surge en el entorno familiar, donde las expectativas externas pueden influir en la toma de decisiones sin una base personal sólida.
+Los psicólogos enfrentan este problema desde sus entornos laborales, donde muchas veces carecen de herramientas digitales para ampliar su alcance.
+
 
 **Who (Quién)**
-- ¿Quiénes están involucrados?
-Usuarios principales: Jóvenes estudiantes, de secundaria (últimos años) y universitarios de primeros ciclos.
+- Usuarios principales: Jóvenes estudiantes, de secundaria (últimos años) y universitarios de primeros ciclos.
+- Profesionales involucrados: Psicólogos vocacionales y consejeros certificados que brindan asesoramiento personalizado.
 
-Profesionales involucrados: Psicólogos vocacionales y consejeros certificados que brindan asesoramiento personalizado.
-
-- ¿Quién lo utilizará?
-Principalmente lo utilizarán los jóvenes estudiantes que buscan claridad y guía para tomar decisiones académicas alineadas con su perfil e intereses. Asimismo los profesionales en orientación vocacional lo usarán para ofrecer sus servicios.
 
 **Why (Por qué)**
 - ¿Cuál es la causa del problema?
-Algunas de las causas identificadas son las siguientes: 
- - Falta de autoconocimiento vocacional desde etapas tempranas.
- - Ausencia de orientación profesional efectiva en colegios y universidades.
- - Escasa información clara y personalizada sobre las opciones académicas disponibles.
+Las causas clave del problema incluyen:
+- Ausencia de programas de orientación vocacional en escuelas.
+
+- Falta de autoconocimiento y herramientas para explorarlo desde edades tempranas.
+
+
+- Presión social o familiar que dificulta una elección libre e informada.
+
+
+- Falta de acceso a profesionales especializados.
+
+
+- Limitaciones para que los psicólogos vocacionales accedan a canales de difusión eficientes.
+
 
 **How (Cómo)**
 - ¿Cómo prefieren los usuarios que sea el producto?
-Los usuarios esperan una aplicación intuitiva y fácil de usar desde el celular o    computadora. Además su confianza estará puesta en la confiabilidad de los resultados, por lo cual estos deben estar respaldados por profesionales. Y finalmente, esperan recibir resultados personalizados, adaptados a su perfil e intereses.
+Los estudiantes deben tomar decisiones críticas sin información adecuada, ni guía profesional, y sin entender sus propios intereses y aptitudes. Esto los lleva a elegir por moda, influencia externa o presión, sin un proceso reflexivo.
+Al mismo tiempo, los psicólogos enfrentan una baja visibilidad digital, barreras tecnológicas y limitaciones para conectar con personas que realmente necesitan su orientación.
+
 
  **How much (Cuánto)**
-- ¿Cuánto usaron los usuarios la app?
-Nuestra aplicación resuelve una problemática crítica y ampliamente extendida: la falta de claridad vocacional entre estudiantes de secundaria y primeros ciclos universitarios. Más del 60 % de los jóvenes en América Latina no recibe orientación vocacional, lo que evidencia una gran brecha que nuestra plataforma puede cubrir. Esta necesidad es especialmente urgente en etapas clave como la preparación para postular a una carrera o durante los primeros ciclos universitarios, donde se consolidan decisiones fundamentales sobre el futuro profesional del estudiante. Es por estos motivos que el uso de nuestra app por parte de los usuarios será grande.
-En cuanto al nivel de uso, se espera que los estudiantes interactúen activamente con la aplicación en varios momentos de su camino vocacional. Inicialmente, para realizar tests psicométricos y definir su perfil vocacional. Posteriormente, para revisar resultados, explorar carreras afines, agendar citas con psicólogos vocacionales y recibir retroalimentación personalizada.
+- ¿Cuánto?
+El problema es ampliamente prevalente: según la UNESCO (2021), más del 60 % de los estudiantes en América Latina no recibe orientación vocacional formal. Esta falta de apoyo tiene consecuencias a nivel académico, psicológico y profesional.
+Además, muchos psicólogos tienen dificultades para escalar su impacto, a pesar de contar con experiencia. La magnitud de la problemática sugiere una necesidad insatisfecha crítica y constante, tanto en el sistema educativo como en el ejercicio profesional de la psicología vocacional.
+
 
 #### 1.2.2. Lean UX Process
 
@@ -292,15 +301,44 @@ Existe una oportunidad de mercado debido a la falta de soluciones digitales comp
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
-Creemos que los estudiantes de secundaria necesitan una herramienta digital de orientación vocacional que les permita descubrir sus intereses, habilidades y compatibilidad con carreras profesionales mediante pruebas psicométricas avanzadas, sesiones con especialistas y reportes vocacionales personalizados.
-Si desarrollamos una aplicación que combine:
- - Un modelo freemium con beneficios exclusivos en su versión premium (tests avanzados, acceso a especialistas y reportes detallados),
+Hypothesis Statement para Estudiantes
 
- - La posibilidad de agendar citas con psicólogos certificados dentro de la plataforma,
+**Creemos que** los estudiantes de secundaria necesitan una herramienta digital confiable, intuitiva y profesional que les facilite su decisión vocacional, reduzca su confusión al elegir una carrera y los conecte con especialistas que puedan guiarlos en este proceso.
+**Si desarrollamos** una plataforma que incluya:
+- Tests psicométricos validados, con versiones gratuitas y premium más profundas.
+- Un sistema de recomendaciones de carreras alineado a sus resultados e intereses.
+- Reportes vocacionales detallados, visuales y descargables en PDF.
+- La opción de agendar sesiones con psicólogos vocacionales directamente desde la app.
+- Un seguimiento visual de su progreso vocacional en un dashboard personalizado.
 
- - Y una suscripción premium para psicólogos que les ofrezca visibilidad, posicionamiento profesional y herramientas para su práctica vocacional,
 
-Entonces lograremos que los estudiantes tomen decisiones académicas más informadas, reduzcan la tasa de deserción por elección incorrecta de carrera y que los psicólogos encuentren una red profesional sólida, sostenible y con oportunidades reales de crecimiento dentro de la plataforma.
+**Entonces:**
+- Los estudiantes tomarán decisiones académicas más informadas.
+- Se reducirá la decepción por las malas elecciones de carrera.
+- Aumentará su confianza, satisfacción y claridad sobre su futuro profesional.
+- Se fomentará una cultura de exploración vocacional acompañada, desde etapas tempranas.
+
+Hypothesis Statement para psicólogo
+
+**Creemos que** los psicólogos vocacionales certificados necesitan una plataforma que les permita mostrar su experiencia profesional, atraer nuevos pacientes, gestionar su trabajo vocacional de forma digital y formar parte de una comunidad especializada.
+**Si desarrollamos** una app que les ofrezca:
+- Un perfil profesional editable con visibilidad dentro del buscador de psicólogos.
+- Un sistema de suscripción premium que les brinde posicionamiento destacado.
+- Acceso a herramientas digitales para atender, evaluar y generar reportes vocacionales.
+- Un panel de control para agendar, revisar y gestionar citas.
+- Estadísticas sobre su impacto, sesiones y satisfacción de estudiantes.
+
+
+**Entonces:**
+- Aumentarán sus oportunidades de captar nuevos pacientes.
+- Tendrán una herramienta profesional para modernizar su práctica vocacional.
+- Se sentirán parte de una comunidad profesional sólida y con valor agregado.
+
+##### 1.2.2.4. Lean UX Canvas
+![1](Assets/chapter01/1.png)
+
+
+https://miro.com/welcomeonboard/SkxvZDZOSkVFd0p2b0hRLzJiM0ttR0N2MkZRbFdCQld3bkl0VFVUKzZjYlFGQWxLNEk4MkFNZUxlQmdBN3M0K2I0bXhGbUM4UEVZQlVzS21pdFZ0bGtnVG5ZTlRaT1J2bUlsSWxoV3lwTUxyeENGYS9pS1BTTGhGc2tDS3JvcTdBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=110904466604
 
 ### 1.3. Segmentos Objetivos
 
@@ -629,11 +667,11 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 
 | Actividades                                                | Frecuencia     | Importancia |
 |------------------------------------------------------------|----------------|-------------|
-| Buscar electricistas certificados                          | Frecuentemente | Alta        |
-| Agendar mantenimientos preventivos para el hogar           | Ocasionalmente | Alta        |
-| Comparar calificaciones de proveedores                     | Frecuentemente | Media       |
-| Buscar soluciones que ahorren energía en el hogar          | Ocasionalmente | Media       |
-| Pedir recomendaciones a vecinos o conocidos                | Rara vez       | Media       |
+| Brindar sesiones de orientación vocacional                          | Frecuentemente  | Alta        |
+| Coordinar fechas y horarios con estudiantes           | Frecuentemente  | Alta        |
+| Promocionar sus servicios profesionalmente                    | Ocasional     | Media       |
+| Analizar resultados de pruebas psicométricas          | Ocasional     | Alta       |
+| Actualizar certificaciones profesionales o colegiaturas              | Rara vez       | Media       |
 
 
 
@@ -751,18 +789,37 @@ Luis se incorpora a PsychoHelp como profesional verificado, gestionando su dispo
 | US-18         | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen al finalizar el test, para conocer mis áreas de afinidad vocacional.                                   | - Escenario 1: Dado que completo el test, cuando finalizo, entonces el sistema debe mostrar un resumen con niveles de afinidad. <br> - Escenario 2: Dado que veo mis resultados, cuando selecciono una afinidad, entonces el sistema debe mostrar una descripción y carreras relacionadas.                                         | EPIC04  |
 | US-19         | Notificación de test completado                 | Como estudiante, quiero recibir una notificación al completar un test, para saber que se guardaron mis resultados.                                   | - Escenario 1: Dado que termino un test, cuando se guarden los resultados, entonces el sistema debe mostrar una notificación en pantalla. <br> - Escenario 2: Dado que tengo habilitadas las notificaciones, cuando finalizo el test, entonces también debo recibir una notificación por correo o en la app.                           | EPIC04  |
 | US-20         | Repetición de tests vocacionales                | Como estudiante, quiero poder repetir un test vocacional, para explorar cambios en mis intereses.                                                    | - Escenario 1: Dado que ya completé un test, cuando accedo a la sección de tests, entonces debo ver la opción de “Repetir Test”. <br> - Escenario 2: Dado que inicio un nuevo test, cuando lo termino, entonces el sistema debe guardar los nuevos resultados sin eliminar los anteriores.                                              | EPIC04  |
-| US-31  | Navegación en la landing page               | Como usuario interesado, quiero navegar fácilmente la landing page, para encontrar información sobre el servicio.              | - Escenario 1: Menú claro con "Inicio", "Precios", "Psicólogos", "Contacto" y "Login". <br> - Escenario 2: Al hacer clic, debe redirigir de forma fluida a la sección correspondiente.                                                        | EPIC06  |
-| US-32  | Visualización de precios                    | Como visitante, quiero leer información clara sobre la plataforma, para entender cómo funciona.                                | - Escenario 1: Ver descripciones claras del propósito y funcionamiento. <br> - Escenario 2: Al hacer scroll, ver imágenes y textos complementarios.                                                                                           | EPIC06  |
-| US-33  | Cambio de idioma en la landing page         | Como usuario que habla otro idioma, quiero cambiar el idioma, para entender el contenido.                                      | - Escenario 1: Selector de idioma con opciones como Español e Inglés. <br> - Escenario 2: Al seleccionar, el contenido se actualiza automáticamente.                                                                                           | EPIC06  |
-| US-34  | Contacto                                    | Como usuario con dudas, quiero enviar un mensaje a través del formulario de contacto, para recibir atención personalizada.     | - Escenario 1: Formulario con nombre, correo y mensaje muestra confirmación tras enviar. <br> - Escenario 2: Recibir respuesta por correo en un plazo razonable.                                                                             | EPIC06  |
-| TS-35  | Gestión de usuarios registrados             | Como administrador, quiero ver un listado de usuarios, para monitorear y gestionar cuentas.                                   | - Escenario 1: Ver tabla con nombre, correo, rol y estado. <br> - Escenario 2: Al seleccionar un usuario, ver perfil y actividad.                                                                                                              | EPIC07  |
-| TS-36  | Activación o desactivación de cuentas       | Como administrador, quiero activar o desactivar cuentas, para controlar el acceso.                                             | - Escenario 1: Opción para desactivar una cuenta activa con confirmación. <br> - Escenario 2: Usuario desactivado no puede iniciar sesión.                                                                                                     | EPIC07  |
-| TS-37  | Gestión de sesiones agendadas               | Como administrador, quiero visualizar todas las sesiones, para asegurar la calidad del servicio.                              | - Escenario 1: Ver calendario con sesiones organizadas por fecha y hora. <br> - Escenario 2: Al seleccionar una sesión, ver nombres, rol del psicólogo y estatus.                                                                             | EPIC07  |
-| TS-38  | Estadísticas de uso de la plataforma        | Como administrador, quiero ver estadísticas generales, para evaluar el desempeño de la app.                                   | - Escenario 1: Ver gráficos con datos de registros, tests y sesiones. <br> - Escenario 2: Al filtrar por fecha, los datos se actualizan.                                                                                                       | EPIC07  |
-| TS-39  | Gestión de planes y suscripciones           | Como administrador, quiero gestionar los planes, para modificar beneficios, precios o reglas.                                 | - Escenario 1: Ver todos los planes activos y su configuración. <br> - Escenario 2: Al editar un plan, los cambios se aplican inmediatamente.                                                                                                  | EPIC07  |
-| TS-40  | Auditoría de actividad de usuarios          | Como administrador, quiero acceder al historial de acciones de los usuarios, para garantizar trazabilidad.                    | - Escenario: Ver historial con acciones como inicio de sesión, agendamientos y cambios de perfil.                                                                                                                                               | EPIC07  |
-| TS-41  | Gestión de reportes y soporte               | Como administrador, quiero ver y gestionar reportes enviados por usuarios, para darles respuesta oportuna.                     | - Escenario 1: Al ingresar a soporte, ver lista de reportes organizados por prioridad. <br> - Escenario 2: Al resolver un reporte, poder marcarlo como cerrado y dejar un comentario.                                       | EPIC07  |
-| TS-42  | Notificaciones globales del sistema         | Como administrador, quiero enviar notificaciones generales a usuarios, para mantenerlos informados.                            | - Escenario 1: En el módulo de notificaciones, redactar y enviar mensajes a todos o por tipo de usuario. <br> - Escenario 2: Notificación debe aparecer en bandeja o interfaz principal del usuario.                        | EPIC07  |
+| US-21  | Visualización de diferencias entre plan Free y Premium | Como estudiante, quiero ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.                     | - Escenario 1: Dado que ingreso a la sección de planes, cuando se cargue la pantalla, entonces debo ver una tabla comparativa clara con los beneficios de ambos planes. <br> - Escenario 2: Dado que reviso la tabla, cuando selecciono un plan, entonces el sistema debe mostrarme un resumen y el botón para activarlo.                                      | EPIC04 |
+| US-22  | Activación del plan Premium                      | Como estudiante, quiero activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado. | - Escenario 1: Dado que estoy en la pantalla de suscripción, cuando selecciono el plan Premium, entonces el sistema debe mostrarme las opciones de pago disponibles. <br> - Escenario 2: Dado que completo el pago correctamente, cuando se confirme la transacción, entonces mi cuenta debe actualizarse a Premium y mostrar un mensaje de éxito.             | EPIC04 |
+| US-23  | Uso continuo del plan Free sin pago              | Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.                     | - Escenario 1: Dado que no selecciono un plan de pago, cuando ingreso a la app, entonces el sistema debe mantenerme en el plan Free con acceso limitado. <br> - Escenario 2: Dado que intento acceder a una funcionalidad Premium desde el plan Free, cuando no tengo acceso, entonces el sistema debe mostrarme un aviso que me invite a actualizar mi plan. | EPIC04 |
+| US-24  | Comparación de planes desde perfil del psicólogo | Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.                    | - Escenario 1: Dado que ingreso como psicólogo, cuando voy a la sección de planes, entonces debo ver una comparativa específica con funcionalidades relevantes para mi rol (número de sesiones, herramientas de análisis, visibilidad, etc.). <br> - Escenario 2: Dado que visualizo los planes, cuando selecciono uno, entonces el sistema debe mostrarme los beneficios exactos y los pasos para activarlo. | EPIC04 |
+| US-25  | Contratación del plan Premium como psicólogo     | Como psicólogo, quiero contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas. | - Escenario 1: Dado que selecciono el plan Premium, cuando ingreso los datos de pago y confirmo, entonces el sistema debe procesar la transacción de manera segura. <br> - Escenario 2: Dado que la suscripción se activa, cuando regreso a mi cuenta, entonces debo ver reflejado el nuevo plan y sus beneficios habilitados.                            | EPIC04 |
+| US-26  | Listado de psicólogos con perfil resumido        | Como estudiante, quiero ver un listado de psicólogos disponibles con sus fotos, nombres y descripciones breves, para elegir con quién agendar una sesión.   | - Escenario 1: Dado que ingreso a la pantalla del catálogo, cuando se carga la sección, entonces debo ver una lista con las tarjetas de los psicólogos, incluyendo su nombre, foto, especialidad y una descripción corta. <br> - Escenario 2: Dado que veo la lista, cuando hago clic en un psicólogo, entonces el sistema debe mostrarme su perfil detallado y horarios disponibles. | EPIC05 |
+| US-27  | Filtro por especialidad o disponibilidad          | Como estudiante, quiero filtrar psicólogos por especialidad o disponibilidad, para encontrar más fácilmente uno que se ajuste a mis necesidades.           | - Escenario 1: Dado que estoy en el catálogo, cuando uso el filtro por especialidad (por ejemplo: ansiedad, vocacional, etc.), entonces el sistema debe mostrar solo psicólogos con esa área de enfoque. <br> - Escenario 2: Dado que activo el filtro por disponibilidad, cuando selecciono un rango de días u horas, entonces debo ver solo a los psicólogos que tienen citas disponibles en ese periodo.         | EPIC05 |
+| US-28  | Edición del perfil profesional del psicólogo     | Como psicólogo, quiero editar la descripción de mi perfil en el catálogo, para comunicar mejor mi enfoque terapéutico y experiencia.                        | - Escenario 1: Dado que estoy en mi perfil profesional, cuando selecciono la opción “Editar descripción”, entonces el sistema debe permitirme modificar el texto que ven los estudiantes. <br> - Escenario 2: Dado que realizo cambios, cuando guardo la descripción, entonces el sistema debe actualizar la información en el catálogo y mostrar un mensaje de confirmación.                         | EPIC05 |
+| US-29  | Actualización de disponibilidad en el catálogo   | Como psicólogo, quiero actualizar mi disponibilidad desde el catálogo, para que los estudiantes solo vean horarios reales para agendar sesiones.           | - Escenario 1: Dado que estoy en mi perfil, cuando accedo a “Editar disponibilidad”, entonces el sistema debe mostrarme un calendario editable con días y horas seleccionables. <br> - Escenario 2: Dado que modifico mi disponibilidad, cuando guardo los cambios, entonces el catálogo debe reflejar las actualizaciones al instante.                            | EPIC05 |
+| US-30  | Marcado de psicólogos como favoritos             | Como estudiante, quiero marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro.        | - Escenario 1: Dado que estoy viendo el perfil de un psicólogo, cuando hago clic en el ícono de “favorito”, entonces el sistema debe guardarlo en mi lista personal de favoritos. <br> - Escenario 2: Dado que regreso al catálogo, cuando abro mi lista de favoritos, entonces debo ver solo los psicólogos que he marcado previamente, con acceso rápido a su disponibilidad.               | EPIC05 |
+| US-31  | Ver de qué trata la página                                | Como visitante de la landing, quiero entender rápidamente de qué trata la plataforma, para saber si me interesa seguir explorando sus servicios.                       | - Escenario 1: Dado que soy un usuario nuevo, cuando ingreso a la página principal, entonces debo ver una sección introductoria con un mensaje claro sobre la plataforma. <br> - Escenario 2: Dado que estoy haciendo scroll, cuando avanzo por la página, entonces debo encontrar más información sobre la propuesta de valor de PsychoHelp.                        | EPIC06 |
+| US-32  | Opiniones de otros usuarios                                | Como usuario, quiero leer opiniones de otros usuarios, para generar confianza antes de registrarme o pagar.                                                              | - Escenario 1: Dado que quiero conocer experiencias, cuando accedo a la sección de testimonios, entonces debo ver comentarios y valoraciones con nombres o perfiles visibles. <br> - Escenario 2: Dado que estoy explorando reseñas, cuando reviso varios testimonios, entonces debo notar que expresan resultados positivos reales de la plataforma.                  | EPIC06 |
+| US-33  | Visualización del apartado: Por qué elegir PsychoHelp     | Como usuario que compara opciones, quiero ver razones claras para elegir esta plataforma, para tomar una decisión informada.                                            | - Escenario 1: Dado que estoy explorando ventajas, cuando accedo a la sección “¿Por qué elegirnos?”, entonces debo ver beneficios destacados respecto a otras soluciones. <br> - Escenario 2: Dado que leo los puntos comparativos, cuando analizo los beneficios, entonces debo entender qué hace única a la plataforma.                                            | EPIC06 |
+| US-34  | Visualización de apartado de cómo funciona la plataforma  | Como usuario nuevo, quiero entender cómo funciona PsychoHelp, para saber qué pasos debo seguir para comenzar.                                                            | - Escenario 1: Dado que quiero saber el proceso, cuando accedo a la sección “Cómo funciona”, entonces debo ver un paso a paso visual e informativo. <br> - Escenario 2: Dado que reviso los pasos, cuando leo cada descripción, entonces debo tener claridad sobre el flujo de uso del servicio.                                                                | EPIC06 |
+| US-35  | Encabezado de navegación                                  | Como usuario de la landing, quiero un menú de navegación visible, para acceder fácilmente a distintas secciones.                                                         | - Escenario 1: Dado que ingreso a la landing, cuando visualizo la parte superior de la página, entonces debo ver un encabezado con enlaces como "Inicio", "Precios", "Psicólogos", "Contacto" y "Login".                                                                                                                 | EPIC06 |
+| US-36  | Pie de página de la landing page                          | Como usuario que llega al final de la landing, quiero encontrar información útil en el pie de página, para acceder a soporte, contacto y redes sociales.               | - Escenario 1: Dado que estoy al final de la landing, cuando visualizo el footer, entonces debo encontrar enlaces como contacto, políticas y redes sociales. <br> - Escenario 2: Dado que hago clic en un enlace del footer, cuando interactúo con los elementos, entonces los enlaces deben funcionar correctamente y abrir según corresponda.                   | EPIC06 |
+| TS-37        | Gestión de usuarios registrados                    | Como administrador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para monitorear su actividad y gestionar cuentas. | - Escenario 1: Cuando accedo al panel de administración, entonces debo ver una tabla con nombre, correo, rol, y estado de cuenta (activo/inactivo). <br> - Escenario 2: Cuando selecciono un usuario, entonces debo poder ver detalles de su perfil y un historial básico de su actividad.                                                                     | EPIC07  |
+| TS-38        | Activación o desactivación de cuentas              | Como administrador, quiero activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.                                | - Escenario 1: Cuando hago clic en una cuenta activa, entonces debo ver la opción de desactivarla con confirmación. <br> - Escenario 2: Cuando una cuenta es desactivada, entonces el usuario no debe iniciar sesión.                                                                                                                                        | EPIC07  |
+| TS-39        | Gestión de sesiones agendadas                      | Como administrador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente. | - Escenario 1: Cuando accedo al panel de citas, entonces debo ver un calendario con todas las sesiones organizadas por fecha y hora. <br> - Escenario 2: Cuando selecciono una sesión, entonces debo ver detalles como nombres, rol del psicólogo y estatus de la cita.                                                                                      | EPIC07  |
+| TS-40        | Estadísticas de uso de la plataforma               | Como administrador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app. | - Escenario 1: Cuando accedo al módulo de estadísticas, entonces debo ver gráficos con datos de registros diarios, tests completados y sesiones realizadas. <br> - Escenario 2: Cuando filtro por rango de fechas, entonces los datos deben actualizarse correctamente.                                                                                       | EPIC07  |
+| TS-41        | Gestión de planes y suscripciones                  | Como administrador, quiero gestionar los planes Free y Premium, para modificar beneficios, precios o reglas de acceso.                                  | - Escenario 1: Cuando ingreso a la sección de planes, entonces debo ver todos los planes activos con su configuración actual. <br> - Escenario 2: Cuando edito un plan, entonces los cambios deben aplicarse de inmediato a los usuarios correspondientes.                                                                                                    | EPIC07  |
+| TS-42        | Auditoría de actividad de usuarios                 | Como administrador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad. | - Escenario 1: Cuando selecciono un usuario en el panel de administración, entonces debo ver un historial con fecha, hora y tipo de acción realizada. <br> - Escenario 2: Cuando se produzca una acción crítica (como cambio de plan), debe quedar registrada en el historial.                                                                              | EPIC07  |
+| TS-43        | Gestión de reportes y soporte                      | Como administrador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.                 | - Escenario 1: Cuando ingreso a la sección de soporte, entonces debo ver una lista de reportes organizados por prioridad. <br> - Escenario 2: Cuando resuelvo un reporte, entonces debo marcarlo como cerrado y dejar un comentario.                                                                                                                         | EPIC07  |
+| TS-44        | Notificaciones globales del sistema                | Como administrador, quiero enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados.                | - Escenario 1: Cuando ingreso al módulo de notificaciones, entonces debo redactar y enviar mensajes a todos o por tipo de usuario. <br> - Escenario 2: Cuando un usuario recibe la notificación, debe aparecer en su bandeja de entrada o en la interfaz principal de la app.                                                                                | EPIC07  |
+| TS-45        | Inicio de sesión exitoso con API                   | Como administrador, quiero registrar y validar a los nuevos usuarios mediante una API para que puedan acceder de forma segura a sus respectivas cuentas. | - Escenario 1: Cuando ingreso un correo y contraseña válidos y hago clic en “Iniciar sesión”, entonces la aplicación debe enviar una solicitud POST a la API. <br> - Escenario 2: Cuando la API responde con éxito (HTTP 200) y devuelve un token, entonces el sistema debe guardar el token y redirigirme con un mensaje de bienvenida.                      | EPIC07  |
+| TS-46        | Manejo de error en login fallido mediante API      | Como administrador, quiero llamar a una API que valide si las credenciales de inicio de sesión son incorrectas para que los usuarios sepan qué datos deben corregir. | - Escenario 1: Cuando la API responde con un error (HTTP 401 o 400), entonces el sistema debe mostrar el mensaje “Correo o contraseña incorrectos” y no guardar ningún token. <br> - Escenario 2: Cuando ocurre un intento fallido, el campo de contraseña se vacía y el botón de login queda deshabilitado hasta nueva respuesta.                   | EPIC07  |
+| TS-47        | Visualización de historial de estudiantes          | Como desarrollador, quiero ver la lista de estudiantes con quienes he trabajado para revisar antecedentes.                                               | - Escenario 1: El desarrollador puede acceder a una lista con nombres y fechas de sesiones. <br> - Escenario 2: La lista permite buscar por nombre o filtrar por fecha.                                                                                                                                                                                    | EPIC07  |
+| TS-48        | Registro de nuevos psicólogos                      | Como administrador, quiero registrar un nuevo psicólogo en el sistema para ampliar la oferta de profesionales.                                           | - Escenario 1: El administrador puede ingresar nombre, email y especialización del psicólogo. <br> - Escenario 2: El nuevo perfil se activa solo después de validación y aprobación.                                                                                                                                                                     | EPIC07  |
+| TS-49        | Actualización de la descripción de planes          | Como administrador, quiero actualizar la descripción de un plan de suscripción para reflejar cambios en el servicio.                                     | - Escenario 1: El administrador puede editar nombre, beneficios y precio del plan. <br> - Escenario 2: Los cambios aparecen en la vista de planes para los estudiantes.                                                                                                                                                                                    | EPIC07  |
+| TS-50        | Gestión de opciones de test psicométrico obsoleto | Como administrador, quiero eliminar, agregar o editar opciones de un test psicométrico obsoleto para evitar confusión entre los usuarios.               | - Escenario 1: El administrador puede seleccionar y eliminar un test desde el panel. <br> - Escenario 2: El test eliminado deja de estar visible para nuevos usuarios, pero se conserva en el historial de quienes ya lo tomaron.                                                                                                                           | EPIC07  |
+| TS-51        | Eliminación de suscripciones vencidas              | Como administrador, quiero eliminar una suscripción vencida para mantener actualizada la base de datos.                                                 | - Escenario 1: El administrador puede eliminar suscripciones con estado "vencida" y más de 30 días de antigüedad. <br> - Escenario 2: Al eliminar, el sistema registra la acción en el log de auditoría.                                                                                                                                                | EPIC07  |
 
 
 
@@ -794,48 +851,63 @@ Impact Mapping nos ayudará a visualizar y planificar cómo nuestro proyecto pue
 
 | #Orden | UserStory ID | Título                              | Descripción                                                                                                                                   | StoryPoints |
 |--------|--------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| 1      | US-01        | Registro con correo y contraseña    | Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma. | 8           |
-| 2      | US-02        | Inicio de sesión con credenciales   | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.                             | 5           |
-| 3      | US-03        | Recuperación de contraseña                | Como usuario, quiero poder recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados.                | 5           |
-| 4      | US-04        | Registro rápido con Google                | Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso. | 3           |
-| 5      | US-05        | Acceso al menú principal intuitivo        | Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app.              | 3           |
-| 6      | US-06        | Ingreso a tests psicométricos desde el menú | Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional.        | 3           |
-| 7      | US-07        | Agendamiento de sesiones desde el menú    | Como estudiante, quiero poder agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada.                      | 3           |
-| 8      | US-08        | Consulta de resultados anteriores desde el menú | Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional.                   | 3           |
-| 9      | US-09        | Edición de información personal           | Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados.                                   | 3           |
-| 10     | US-10        | Menú personalizado para psicólogos        | Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol.                    | 3           |
-| 11     | US-11        | Visualización del calendario de citas      | Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.                                           | 3           |
-| 12     | US-12        | Acceso a perfiles de estudiantes           | Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.                    | 5           |
-| 13     | US-13        | Consulta de resultados psicométricos de estudiantes | Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.         | 5           |
-| 14     | US-14        | Actualización de disponibilidad            | Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados. | 3           |
-| 15     | US-15        | Introducción explicativa al test           | Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente.        | 3           |
-| 16     | US-16        | Interfaz de preguntas clara y simple       | Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.                    | 3           |
-| 17     | US-17        | Opción para pausar y retomar el test       | Como estudiante, quiero poder pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad.    | 3           |
-| 18     | US-18        | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional.          | 3           |
-| 19     | US-19        | Notificación de test completado            | Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados.     | 5           |
-| 20     | US-20        | Repetición de tests vocacionales           | Como estudiante, quiero poder repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo.   | 5           |
-| 21     | US-21        | Visualización de diferencias entre plan Free y Premium | Como estudiante, quiero poder ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.  | 5           |
-| 22     | US-22        | Activación del plan Premium                 | Como estudiante, quiero poder activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado. | 5           |
-| 23     | US-23        | Uso continuo del plan Free sin pago         | Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.      | 3           |
-| 24     | US-24        | Comparación de planes desde perfil del psicólogo | Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.     | 3           |
-| 25     | US-25        | Contratación del plan Premium como psicólogo | Como psicólogo, quiero poder contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas. | 5           |
-| 26     | US-26        | Listado de psicólogos con perfil resumido   | Como estudiante, quiero ver un listado de psicólogos disponibles con sus fotos, nombres y descripciones breves, para elegir con quién agendar una sesión. | 5           |
-| 27     | US-27        | Filtro por especialidad o disponibilidad    | Como estudiante, quiero poder filtrar psicólogos por especialidad o disponibilidad, para encontrar más fácilmente uno que se ajuste a mis necesidades. | 3           |
-| 28     | US-28        | Edición del perfil profesional del psicólogo | Como psicólogo, quiero editar la descripción de mi perfil en el catálogo, para comunicar mejor mi enfoque terapéutico y experiencia.           | 3           |
-| 29     | US-29        | Actualización de disponibilidad en el catálogo | Como psicólogo, quiero actualizar mi disponibilidad desde el catálogo, para que los estudiantes solo vean horarios reales para agendar sesiones. | 5           |
-| 30     | US-30        | Marcado de psicólogos como favoritos        | Como estudiante, quiero poder marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro. | 3           |
-| 31     | US-31        | Navegación en la landing page               | Como usuario interesado en la plataforma, quiero poder navegar fácilmente por la landing page, para encontrar rápidamente la información que necesito sobre el servicio. | 8           |
-| 32     | US-32        | Visualización de precios                    | Como usuario que visita la landing page, quiero leer información clara sobre la plataforma, para entender cómo funciona y si es útil para mí.  | 5           |
-| 33     | US-33        | Cambio de idioma en la landing page         | Como usuario que habla otro idioma, quiero poder cambiar el idioma de la landing page, para entender todo el contenido de forma clara y cómoda. | 3           |
-| 34     | US-34        | Contacto                                    | Como usuario con dudas o interés en el servicio, quiero enviar un mensaje a través del formulario de contacto, para recibir atención personalizada por parte del equipo. | 3           |
-| 35     | TS-35        | Gestión de usuarios registrados             | Como administrador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para poder monitorear su actividad y gestionar cuentas. | 5           |
-| 36     | TS-36        | Activación o desactivación de cuentas       | Como administrador, quiero poder activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.               | 3           |
-| 37     | TS-37        | Gestión de sesiones agendadas               | Como administrador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente. | 3           |
-| 38     | TS-38        | Estadísticas de uso de la plataforma        | Como administrador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app. | 3           |
-| 39     | TS-39        | Gestión de planes y suscripciones           | Como administrador, quiero gestionar los planes Free y Premium, para poder modificar beneficios, precios o reglas de acceso.                | 3           |
-| 40     | TS-40        | Auditoría de actividad de usuarios          | Como administrador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad. | 3           |
-| 41     | TS-41        | Gestión de reportes y soporte               | Como administrador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.       | 3           |
-| 42     | TS-42        | Notificaciones globales del sistema         | Como administrador, quiero poder enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados. | 3           |
+| 1   | US-31  | Ver de qué trata la página                           | Como visitante de la landing, quiero entender rápidamente de qué trata la plataforma, para saber si me interesa seguir explorando sus servicios.                                                                  | 5      |
+| 2   | US-32  | Opiniones de otros usuarios                          | Como usuario, quiero leer opiniones de otros usuarios, para generar confianza antes de registrarme o pagar.                                                                                                       | 3      |
+| 3   | US-33  | Visualización del apartado: Por qué elegir PsychoHelp | Como usuario que compara opciones, quiero ver razones claras para elegir esta plataforma, para tomar una decisión informada.                                                                                      | 3      |
+| 4   | US-34  | Visualización de apartado de cómo funciona           | Como usuario nuevo, quiero entender cómo funciona PsychoHelp, para saber qué pasos debo seguir para comenzar.                                                                                                     | 3      |
+| 5   | US-35  | Encabezado de navegación                             | Como usuario de la landing, quiero un menú de navegación visible, para acceder fácilmente a distintas secciones.                                                                                                  | 3      |
+| 6   | US-36  | Pie de página de la landing page                     | Como usuario que llega al final de la landing, quiero encontrar información útil en el pie de página, para acceder a soporte, contacto y redes sociales.                                                         | 3      |
+| 7   | US-21  | Visualización de diferencias entre plan Free y Premium| Como estudiante, quiero ver las diferencias entre el plan Free y el plan Premium, para elegir el que mejor se adapte a mis necesidades.                                                                           | 3      |
+| 8   | US-22  | Activación del plan Premium                          | Como estudiante, quiero activar el plan Premium desde la app, para acceder a beneficios como tests de mayor nivel, acceso a citas con psicólogos y certificado con mi plan académico adecuado.                    | 3      |
+| 9   | US-23  | Uso continuo del plan Free sin pago                  | Como estudiante, quiero seguir usando el plan Free si no deseo pagar, para continuar con funcionalidades de tests vocacionales básicos.                                                                           | 3      |
+| 10  | US-24  | Comparación de planes desde perfil del psicólogo     | Como psicólogo, quiero ver qué incluye el plan Free y Premium para mi perfil profesional, para decidir si necesito actualizar mi cuenta.                                                                          | 3      |
+| 11  | US-25  | Contratación del plan Premium como psicólogo         | Como psicólogo, quiero contratar el plan Premium, para mejorar mi alcance, ofrecer más sesiones y acceder a herramientas de análisis vocacional avanzadas.                                                        | 3      |
+| 12  | US-05  | Acceso al menú principal intuitivo                   | Como estudiante, quiero acceder a un menú principal con íconos claros y opciones organizadas, para navegar fácilmente por la app.                                                                                 | 5      |
+| 13  | US-06  | Ingreso a tests psicométricos desde el menú          | Como estudiante, quiero acceder desde el menú a la sección de tests psicométricos, para iniciar o continuar mi evaluación vocacional.                                                                             | 5      |
+| 14  | US-07  | Agendamiento de sesiones desde el menú               | Como estudiante, quiero agendar una sesión con un psicólogo desde el menú, para recibir orientación personalizada.                                                                                                | 3      |
+| 15  | US-08  | Consulta de resultados anteriores desde el menú      | Como estudiante, quiero ver mis resultados de test anteriores desde el menú, para revisar mis áreas de afinidad vocacional.                                                                                       | 3      |
+| 16  | US-09  | Edición de información personal                      | Como estudiante, quiero editar mi información personal desde el menú, para mantener mis datos actualizados.                                                                                                        | 3      |
+| 17  | US-10  | Menú personalizado para psicólogos                   | Como psicólogo, quiero acceder a un menú personalizado al iniciar sesión, para ver solo las funciones relevantes a mi rol.                                                                                        | 3      |
+| 18  | US-11  | Visualización del calendario de citas                | Como psicólogo, quiero ver un calendario con mis citas agendadas, para organizar mejor mis sesiones.                                                                                                              | 3      |
+| 19  | US-12  | Acceso a perfiles de estudiantes                     | Como psicólogo, quiero revisar el perfil de los estudiantes asignados, para conocer su información antes de la orientación.                                                                                       | 5      |
+| 20  | US-13  | Consulta de resultados psicométricos de estudiantes  | Como psicólogo, quiero ver los resultados de los tests psicométricos de cada estudiante, para brindar una orientación más personalizada.                                                                          | 5      |
+| 21  | US-14  | Actualización de disponibilidad                      | Como psicólogo, quiero actualizar mi disponibilidad desde el menú, para que los estudiantes puedan agendar sesiones conmigo en los horarios adecuados.                                                            | 5      |
+| 22  | US-15  | Introducción explicativa al test                     | Como estudiante, quiero ver una breve introducción antes de comenzar el test, para entender su propósito y cómo responder correctamente.                                                                          | 5      |
+| 23  | US-16  | Interfaz de preguntas clara y simple                 | Como estudiante, quiero que el test muestre una pregunta por pantalla con opciones claras, para que sea fácil de responder.                                                                                       | 3      |
+| 24  | US-17  | Opción para pausar y retomar el test                 | Como estudiante, quiero pausar el test y retomarlo más adelante, para no perder mis respuestas si tengo que interrumpir la actividad.                                                                             | 3      |
+| 25  | US-18  | Resumen inmediato de resultados al finalizar el test | Como estudiante, quiero recibir un resumen con mis resultados apenas finalice el test, para conocer mis áreas de afinidad vocacional.                                                                             | 5      |
+| 26  | US-19  | Notificación de test completado                      | Como estudiante, quiero recibir una notificación cuando haya completado un test, para saber que se guardaron correctamente mis resultados.                                                                         | 5      |
+| 27  | US-20  | Repetición de tests vocacionales                     | Como estudiante, quiero repetir un test vocacional si lo deseo, para explorar posibles cambios en mis intereses a lo largo del tiempo.                                                                            | 3      |
+| 28  | US-26  | Listado de psicólogos con perfil resumido            | Como usuario, quiero ver un listado de psicólogos con un resumen de su perfil, para elegir con quién agendar una sesión.                                                                                          | 3      |
+| 29  | US-27  | Filtro por especialidad o disponibilidad             | Como usuario, quiero filtrar los psicólogos por especialidad o disponibilidad, para encontrar al profesional más adecuado para mis necesidades.                                                                   | 5      |
+| 30  | US-28  | Edición del perfil profesional del psicólogo         | Como psicólogo, quiero editar mi perfil profesional, para mantener actualizada mi presentación y atraer más estudiantes.                                                                                           | 3      |
+| 31  | US-29   | Actualización de disponibilidad en el catálogo     | Como psicólogo, quiero que mi disponibilidad se refleje en el catálogo, para que los estudiantes vean cuándo pueden agendar conmigo.                                                                             | 3      |
+| 32  | US-30   | Marcado de psicólogos como favoritos               | Como estudiante, quiero marcar a psicólogos como “favoritos”, para guardar mis opciones preferidas y agendar con ellos más fácilmente en el futuro.                                                             | 5      |
+| 33  | US-1    | Registro con correo y contraseña                   | Como estudiante nuevo, quiero registrarme en la aplicación con mi correo electrónico y una contraseña, para crear mi perfil personal y comenzar a usar la plataforma.                                           | 8      |
+| 34  | US-2    | Inicio de sesión con credenciales                  | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder con mis actividades en la app.                                                                                                 | 5      |
+| 35  | US-3    | Recuperación de contraseña                         | Como usuario, quiero recuperar mi contraseña si la olvido, para no perder el acceso a mi cuenta y a mis datos guardados.                                                                                        | 3      |
+| 36  | US-4    | Registro rápido con Google                         | Como estudiante, quiero tener la opción de registrarme rápidamente usando mi cuenta de Google, para evitar llenar formularios largos y facilitar el ingreso.                                                    | 5      |
+| 37  | TS-37   | Gestión de usuarios registrados                    | Como administrador, quiero ver un listado completo de usuarios registrados (estudiantes y psicólogos), para monitorear su actividad y gestionar cuentas.                                                        | 5      |
+| 38  | TS-38   | Activación o desactivación de cuentas              | Como administrador, quiero activar o desactivar cuentas de usuario, para mantener el control del acceso a la plataforma.                                                                                        | 3      |
+| 39  | TS-39   | Gestión de sesiones agendadas                      | Como administrador, quiero visualizar todas las sesiones agendadas entre psicólogos y estudiantes, para asegurarme de que el servicio se está prestando adecuadamente.                                          | 3      |
+| 40  | TS-40   | Estadísticas de uso de la plataforma               | Como administrador, quiero acceder a estadísticas generales de uso (registro, tests completados, sesiones agendadas), para evaluar el desempeño de la app.                                                      | 3      |
+| 41  | TS-41   | Gestión de planes y suscripciones                     | Como administrador, quiero gestionar los planes Free y Premium, para modificar beneficios, precios o reglas de acceso.                                                                                      | 3      |
+| 42  | TS-42   | Auditoría de actividad de usuarios                    | Como administrador, quiero tener acceso a un historial de acciones por usuario (inicio de sesión, agendamientos, cambios de perfil), para garantizar trazabilidad.                                         | 3      |
+| 43  | TS-43   | Gestión de reportes y soporte                         | Como administrador, quiero ver y gestionar reportes o solicitudes de soporte enviadas por los usuarios, para darles respuesta oportuna.                                                                    | 3      |
+| 44  | TS-44   | Notificaciones globales del sistema                   | Como administrador, quiero enviar notificaciones generales a los usuarios (actualizaciones, mantenimiento), para mantenerlos informados.                                                                   | 3      |
+| 45  | TS-45   | Inicio de sesión exitoso con API                      | Como administrador, quiero registrar y validar a los nuevos usuarios mediante una API para que puedan acceder de forma segura a sus respectivas cuentas.                                                   | 3      |
+| 46  | TS-46   | Manejo de error en login fallido mediante API         | Como administrador, quiero llamar a una API que valide si las credenciales de inicio de sesión son incorrectas para que los usuarios sepan qué datos ingresados deben corregir.                            | 3      |
+| 47  | TS-47   | Visualización de historial de estudiantes             | Como desarrollador quiero ver la lista de estudiantes con quienes he trabajado para revisar antecedentes.                                                                                                   | 3      |
+| 48  | TS-48   | Registro de nuevos psicólogos                         | Como administrador quiero registrar un nuevo psicólogo en el sistema para ampliar la oferta de profesionales.                                                                                               | 3      |
+| 49  | TS-49   | Actualización de la descripción de planes de suscripción | Como administrador quiero actualizar la descripción de un plan de suscripción para reflejar cambios en el servicio.                                                                                         | 3      |
+| 50  | TS-50   | Gestión de opciones de test psicométrico obsoleto     | Como administrador quiero eliminar, agregar o editar una opción para el test psicométrico obsoleto para evitar confusión entre los usuarios.                                                               | 3      |
+| 51  | TS-51   | Eliminación de suscripciones vencidas                 | Como administrador quiero eliminar una suscripción vencida para mantener actualizada la base de datos.                                                                                                      | 3      |
+
+Para el product Backlog usamos la aplicación de trello:
+
+![TO BE](Assets/correcciones/1.png)
+
+https://trello.com/b/nhHnQhhc/si729-pyschohelp
 
 ## Capítulo IV: Product Design
 ### 4.1. Style Guidelines
@@ -1170,10 +1242,15 @@ Estrategias de Diseño:
 
 ![landing4.png](Assets/Chapter%204/landing4.png)
 #### 4.3.2. Landing Page Mock-up
+La Landing Page de PsychoHelp tiene como objetivo principal presentar la propuesta de valor de la plataforma a estudiantes, psicólogos e instituciones educativas. Está diseñada para informar, convencer y convertir visitantes en usuarios registrados.
+ Justificación del Diseño:
+Este mock-up educa y convence al visitante desde el primer scroll.
 
-![1](Assets/Chapter%204/1.JPG)
-![2](Assets/Chapter%204/2.JPG)
-![3](Assets/Chapter%204/3.JPG)
+
+Sigue una estructura de embudo: atracción, explicación, diferenciación.
+
+
+Refuerza la confianza mediante contenido profesional y claridad.
 
 
 ![landing-mockup1.png](Assets/Chapter%204/landing-mockup1.png)
@@ -1226,10 +1303,25 @@ https://miro.com/app/board/uXjVI_Bs754=/?share_link_id=481809337224
 #### 4.4.3. Web Applications Mock-ups
 
 LOGIN / REGISTER:
+Esto en pantalla representa el control de usuarios, es lo primero que llegas a ver cuando entras a nuestra página web y para asegurarnos de que nuestros usuarios lleguen a identificarse de una manera correcta.
+	En esta parte, tenemos diferentes botones, para registrarnos y para loguearnos. En la sección de registro, tenemos dos opciones distintas, escoger si eres un estudiante o escoger si eres un psicólogo (Los datos que te piden son diferentes respecto al apartado que escogiste)
+
+
+
 ![5](Assets/Chapter%204/5.JPG)
 ![6](Assets/Chapter%204/6.JPG)
 
 PÁGINA DE PLANES Y SUBSCRIPCIÓN:
+
+Su objetivo principal es permitir a los usuarios (estudiantes o psicólogos certificados) visualizar y comparar los diferentes planes de suscripción disponibles, destacando los beneficios que cada uno ofrece.
+- Tenemos una visualización clara de los planes gratuitos y premium, organizados en tarjetas comparativas.
+- Tenemos un detalle en tablas de los beneficios incluidos en cada plan.
+- Botones de acción como “Suscribirse” o “Más información”, que facilitan la conversión del usuario.
+
+
+Propósito del mock-up:
+Este diseño es clave para el modelo de negocio de suscripción freemium, ya que presenta de manera visualmente atractiva y funcional los incentivos para que los usuarios pasen del plan gratuito al premium
+
 
 ![7](Assets/Chapter%204/7.JPG)
 ![8](Assets/Chapter%204/8.JPG)
@@ -1237,22 +1329,144 @@ PÁGINA DE PLANES Y SUBSCRIPCIÓN:
 
 PÁGINA DE BÚSQUEDA DE PSICÓLOGOS
 
+Este mock-up representa la pantalla de exploración y búsqueda de psicólogos vocacionales certificados, donde los estudiantes pueden filtrar, revisar perfiles y agendar sesiones directamente desde la plataforma.
+Algunas funcionalidades que podemos ver:
+Barra de búsqueda y filtros por criterios como:
+
+- Lista de psicólogos disponibles.
+- Botón con la opción de “Agendar cita” directamente.
+
+
+Propósito del mock-up:
+Esta pantalla es esencial para el acceso a orientación personalizada, permitiendo a los estudiantes elegir al profesional que mejor se adapte a sus necesidades. Dando un valor agregado a nuestro plan premium.
+
+
 ![10](Assets/Chapter%204/10.JPG)
 
 PANEL DE ESTUDIANTE:
+
+Este mock-up muestra el panel principal que ve el estudiante al iniciar sesión en la plataforma, está  diseñado para mostrar su avance dentro del proceso de orientación vocacional además de un acceso directo a funcionalidades clave y recomendaciones personalizadas.
+Funcionalidades mostradas:
+Barra de progreso general, que indica qué porcentaje del proceso vocacional ha completado (por ejemplo: tests realizados, sesiones agendadas, reporte generado).
+
+
+Sección de carreras recomendadas, basada en los resultados de sus tests psicométricos y preferencias registradas.
+
+
+Acceso rápido a:
+
+- Mi perfil: datos personales, intereses, historial de resultados.
+- Tests pendientes o “Volver a hacer test”.
+- Agenda: próximas sesiones con psicólogos.
+- Reportes vocacionales descargables en PDF.
+
+Propósito del mock-up:
+Este dashboard centraliza toda la experiencia del estudiante y le permite seguir su proceso de autoconocimiento y toma de decisiones de forma estructurada y personalizada. Refuerza el valor del sistema mostrando avances tangibles y resultados claros, al mismo tiempo que ofrece una navegación intuitiva hacia los distintos módulos de la plataforma. Su diseño está pensado para fomentar la continuidad en el uso y el compromiso activo del usuario.
+
+
 ![11](Assets/Chapter%204/11.JPG)
 
 PANEL DE PSICÓLOGO:
+
+Este mock-up muestra la pantalla principal que visualiza el psicólogo certificado al iniciar sesión, diseñada para ofrecer un control claro y eficiente sobre su actividad profesional dentro de la plataforma.
+Funcionalidades mostradas:
+
+
+- Agenda del día: listado de las sesiones programadas para la jornada, con hora, nombre del estudiante y botón de “Iniciar sesión” o “Ver detalles”.
+- Calendario completo de sesiones futuras, con posibilidad de bloquear horarios o ajustar disponibilidad.
+- Sección de valoración o reputación profesional, basada en feedback recibido de los estudiantes (puntuación y comentarios).
+
+
+Acceso rápido a:
+
+    - Mi perfil profesional: editable, con datos académicos, experiencia, horarios, especialidades.
+    - Informes vocacionales generados: acceso a reportes PDF asociados a cada estudiante, con posibilidad de añadir observaciones o firmarlos digitalmente.
+
+
+Propósito del mock-up:
+Este dashboard está diseñado para facilitar la gestión profesional del psicólogo dentro de la plataforma, permitiéndole organizar su agenda, hacer seguimiento a sus estudiantes y consultar documentos clave.
+
+
+
 ![12](Assets/Chapter%204/12.JPG)
 
 PÁGINA DE LOS TEST:
+
+Este mock-up representa la pantalla de catálogo de los tests psicométricos, donde el estudiante puede explorar, acceder y hacer seguimiento a todas las pruebas disponibles en la plataforma.
+Funcionalidades mostradas:
+- Listado de tests disponibles, organizados en tarjetas individuales, cada una con:
+    - Nombre del test
+    - Breve descripción de su propósito.
+    - Etiquetas de estado:
+
+
+- Filtros para buscar por categoría o estado
+- Indicador de progreso dentro del test (si está en curso).
+- Botón de “Iniciar test”, “Volver a ver resultados” o “Actualizar test”, según el caso.
+
+
+Propósito del mock-up:
+Esta pantalla organiza la experiencia de evaluación del estudiante de forma clara y estructurada, facilitando el acceso a pruebas clave para el proceso vocacional. Refuerza la propuesta de valor de la suscripción premium al mostrar los tests exclusivos de forma visible pero restringida, incentivando el cambio a premium.
+
+
+
 ![15](Assets/Chapter%204/15.JPG)
 
 PÁGINA WEB DE RESOLUCION DE TEST:
 
+Este mock-up representa la pantalla en la que el estudiante realiza un test psicométrico dentro de la plataforma.
+Funcionalidades mostradas:
+
+- Título del test en la parte superior (ej. “Test de Intereses Profesionales”).
+- Progreso visual (barra o número de pregunta actual).
+- Preguntas en formato de opción múltiple, con botones o casillas seleccionables.
+- Botón de “Siguiente” para avanzar entre preguntas.
+- Al finalizar, botón de “Ver resultados” o redirección automática al resumen del test.
+
+Propósito del mock-up:
+Este diseño básico permite a los estudiantes completar sus tests de manera sencilla, clara y sin distracciones. Es una parte central del proceso de orientación vocacional, ya que los resultados de estos tests alimentan el sistema de recomendaciones y reportes de la plataforma.
+
+
+
 ![16](Assets/Chapter%204/16.JPG)
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+1) User Goal: Como estudiante de secundaria, quiero realizar un test psicométrico 
+Task Flow:
+
+
+![c1](Assets/correcciones/2.png)
+
+Wireflow:
+
+![c2](Assets/correcciones/3.png)
+
+User Flow:
+
+![4](Assets/correcciones/4.png)
+
+2) User Goal: Como estudiante, quiero buscar y encontrar psicólogos vocacionales disponibles para agendar una sesión personalizada
+
+Task Flow:
+![5](Assets/correcciones/5.png)
+
+Wireflow:
+![6](Assets/correcciones/6.png)
+
+User Flow:
+
+![7](Assets/correcciones/7.png)
+
+3) User Goal: Como psicólogo vocacional, quiero ver mi agenda de sesiones
+Task Flow: 
+![8](Assets/correcciones/8.png)
+Wireflow:
+![9](Assets/correcciones/9.png)
+User Flow:
+![10](Assets/correcciones/10.png)
+
+**DIAGRAMA GENERAL:**
 ![17](Assets/Chapter%204/17.JPG)
 
 https://miro.com/app/board/uXjVI_BJbCA=/?share_link_id=200559940870 
@@ -1594,6 +1808,17 @@ Product UX/UI Desing
 
 #### 5.1.2. Source Code Management
 
+Tenemos una organización en github para partir nuestro proyecto: https://github.com/project-PsychoHelp
+
+En el cual se parten en varios repositorios:
+- Web Services: https://github.com/project-PsychoHelp/Web-Services
+- Informe del proyecto: https://github.com/project-PsychoHelp/PyschoMetric
+- Landing page: https://github.com/project-PsychoHelp/Landing-page
+- Frontend Web Applications: https://github.com/project-PsychoHelp/Frontend-Web-Applications
+
+
+
+
 Modelo de ramas Git Flow: 
 main: rama principal donde siempre está el código estable y listo para producción.
 develop: rama de desarrollo donde se integran todas las nuevas funcionalidades antes de pasar a producción.
@@ -1752,6 +1977,15 @@ Pasos realizados para desplegar nuestra Landing Page:
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+En el caso de este sprint, escogimos el desarrollo de la Landing Page de PsychoHelp, que representa un primer contacto entre el usuario y la plataforma. Para ello, se han identificado los siguientes aspectos clave:
+- Diseño visual de la landing page (UI/UX)
+- Contenido informativo y comunicación del valor de la plataforma
+- Integración funcional básica
+- Despliegue de la landing page
+
+
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+
 | Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
 |------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
 | Olivera Eric                       | [EricMOB-afk](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
@@ -1763,36 +1997,86 @@ Pasos realizados para desplegar nuestra Landing Page:
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+En esta sección se presenta el Sprint Backlog 1, que corresponde al primer ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el diseño y desarrollo de la landing page de PsychoHelp, que tiene como propósito comunicar de manera clara y atractiva el valor de la plataforma tanto para estudiantes como para psicólogos. Esta página debe generar confianza, explicar el funcionamiento del servicio y motivar a los visitantes a registrarse o explorar la plataforma.
+El backlog incluye tareas relacionadas con diseño de interfaz (UI), redacción del contenido, estructura de navegación, desarrollo web básico.
+
+
 
 **SPRINT 1**
 
 | **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**     | **Status**    |
 |-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|----------------------|---------------|
-| US-01             | Registro con correo y contraseña                   | T01         | Registro en la web                            | La página web debe poderse registrar en la aplicación con mi correo electrónico  | 4                      | Walter Fajardo       | InProcess     |
-| US-02             | Inicio de sesión con credenciales                  | T02         | Inicio de sesión en la web                    | La página web debe iniciar sesión con mis credenciales, para acceder             | 4                      | Joaquín Alberto      | InProcess     |
-| US-39             | Gestión de navegación en la landing page           | T03         | Navegación de landing page                    | La página web debe navegar                                                       | 1                      | Víctor Manuel        | Done          |
-| US-40             | Visualización de precios                           | T04         | Visualizar precios                            | La página web debe darme una visualización de precios                            | 2                      | Pablo Gerónimo       | InProcess     |
-| US-41             | Cambio de idioma en la landing page                | T05         | Cambio de idiomas                             | La página web debe darme un cambio de idiomas                                    | 6                      | Eric Olivera         | Done          |
-| US-42             | Recepción y gestión de mensajes del formulario     | T06         | Agregar formulario de contacto                | La página web debe tener un apartado de enviar mensaje al equipo de soporte     | 2                      | Joaquín Alberto      | InProcess     |
+| US-31             | Ver de qué trata la página                        | T01         | Crear bloque introductorio visual     | Diseñar bloque introductorio con un mensaje claro y conciso.      | 1                      | Eric Olivera      | Done         |
+| US-31             | Ver de qué trata la página                        | T02         | Redactar propuesta de valor           | Redactar una propuesta de valor breve.                            | 1                      | Eric Olivera      | Done         |
+| US-31             | Ver de qué trata la página                        | T03         | Insertar imagen destacada            | Agregar imagen o ilustración llamativa.                           | 0.5                    | Eric Olivera      | Done         |
+| US-32             | Opiniones de otros usuarios                       | T04         | Opiniones de usuarios                | La página web debe mostrar testimonios reales.                    | 1                      | Joaquin Alberto   | Done         |
+| US-32             | Opiniones de otros usuarios                       | T05         | Diseñar sección con testimonios       | Diseñar sección de testimonios.                                    | 0.5                    | Joaquin Alberto   | Done         |
+| US-32             | Opiniones de otros usuarios                       | T06         | Redactar testimonios representativos  | Redactar 3-4 testimonios reales o simulados.                      | 1                      | Joaquin Alberto   | In-Process   |
+| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T07         | Crear bloque de razones diferenciadoras | Crear bloque con 3 a 4 razones destacadas.                        | 1                      | Victor Manuel     | Done         |
+| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T08         | Asociar íconos visuales a cada beneficio | Usar íconos o ilustraciones representativas.                      | 0.5                    | Victor Manuel     | Done         |
+| US-33             | Visualización del apartado: Por qué elegir PsychoHelp | T09         | Redactar beneficios claros           | Redactar beneficios concretos y directos.                         | 1                      | Victor Manuel     | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T10         | Diseñar sección paso a paso           | Diseñar diagrama o pasos numerados.                               | 1                      | Pablo Geronimo    | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T11         | Redactar explicación breve por paso  | Redactar texto breve por cada paso.                               | 0.5                    | Pablo Geronimo    | Done         |
+| US-34             | Visualización de apartado de cómo funciona la plataforma | T12         | Incorporar íconos explicativos       | Agregar íconos o visuales para cada paso.                         | 1                      | Pablo Geronimo    | Done         |
+| US-35             | Encabezado de navegación                         | T13         | Diseñar barra de navegación fija     | Diseñar barra de navegación fija (sticky).                        | 1                      | Eric Olivera      | Done         |
+| US-35             | Encabezado de navegación                         | T14         | Agregar enlaces a secciones clave    | Agregar enlaces a Inicio, Precios, Psicólogos, Contacto, Login.   | 1                      | Eric Olivera      | In-Process   |
+| US-35             | Encabezado de navegación                         | T15         | Asegurar diseño responsive          | Asegurar que sea responsive.                                      | 1                      | Eric Olivera      | Done         |
+| US-36             | Pie de página de la landing page                 | T16         | Diseñar pie de página estructurado   | Diseñar bloque inferior con estructura de columnas.               | 1                      | Joaquin Alberto   | Done         |
+| US-36             | Pie de página de la landing page                 | T17         | Agregar enlaces de interés           | Agregar enlaces útiles: contacto, redes, términos y condiciones.  | 1                      | Joaquin Alberto   | In-Process   |
+
+board hecho con trello: https://trello.com/b/Cs1CCBi6/sprint-1
+![14](Assets/correcciones/14.png)
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
-En esta sección presentamos el flujo de trabajo para la creación y actualización de la landing page
+Repositorio GitHub creado:
+Nombre del repositorio: psychohealth-landing
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+
+
 
 |Repository|Branch|CommitID|CommitMessage|CommitMessageBody|Commited on Date|
 |-----------|------|------|----------------|----------------|---------------|
-|project -PsychoHelp/landing-page|develop|c331b38|landing page 0.1.0|landing-page|22/04/2025|
+| project-PsychoHelp/landing-page  | main       | c3eafa4b4361e332a64d799b88a8ceedbd708d74    | Add files                           | No description provided     | 22/04/2025             |
+| project-PsychoHelp/Landing-page | main       | bd88e22640df2c01e05258be9e2e49e8e0397bef    | Add files via upload                | No description provided     | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | 4a18998ef6c1ebb8aeaaa30edfcabc815f32355d    | Update index.html                   | No description provided     | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | c536ef0bbb83234e2080b59e38d7ba44c0a6deb6    | Actualizando 2da parte de index.html | No description provided     | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | 5d53c6b0a1bfb49c0a9913b92ef6fda61a60040e    | styles: add initial styles for landing page | No description provided | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | 107b644b37eed4f7e968a0d83bed0e2adaec792f    | Realice la parte del footer         | No description provided     | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | 3bfed6492900cb17c56bedb618e23fbb7203a1db    | styles: add remaining styles for the landing page | No description provided | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | d1ed0769f100879afc651a3d918b805ad1397d7d    | fix index.html                      | No description provided     | 09/05/2025             |
+| project-PsychoHelp/Landing-page | main       | 0968179dd736fd2d632a3e8a8c235ded3a8da768    | Update index.html                   | No description provided     | 09/05/2025             |
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
-Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint
-[Nuestra landing page](https://project-psychohelp.github.io/landing-page/)
+Avances en los Productos Desarrollados
+Producto desarrollado: Landing Page (versión estática)
+ Tecnologías utilizadas: HTML, CSS, JAVASCRIPT
+- Se implementó una estructura básica de navegación con menú fijo y enlaces a las secciones: Inicio, Precios, Psicólogos, Contacto y Login.
+- Se diseñó la sección introductoria, donde se explica brevemente la finalidad de la plataforma.
+- Se creó una sección “Por qué elegir PsychoHealth”, que presenta los beneficios diferenciales mediante listas e íconos decorativos.
+- Se añadió una sección de testimonios de usuarios, con comentarios simulados como parte del diseño estático.
+- Se desarrolló una sección de “Cómo funciona”, estructurada por pasos visuales.
+- Se construyó un footer informativo, con enlaces generales y campos decorativos de contacto/redes.
+- Se aplicaron estilos CSS para lograr un diseño limpio, responsivo en pantallas móviles y legible.
 
+La landing page no incluye funcionalidades dinámicas, ni conexión con base de datos o servicios web, ya que se trata de un desarrollo inicial con HTML y CSS puro, orientado a validar la estructura visual y de contenido.
 
-![1](Assets/Chapter%205/1.JPG)
+![11](Assets/correcciones/11.png)
+![11](Assets/correcciones/12.png)
+![11](Assets/correcciones/13.png)
+
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 
 ![2](Assets/Chapter%205/2.JPG)
+
+LINK de la página desplegada: https://project-psychohelp.github.io/Landing-page/
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
