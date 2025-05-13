@@ -1971,8 +1971,8 @@ Pasos realizados para desplegar nuestra Landing Page:
 | **Sprint n – 1 Retrospective Summary** | No hay nada que poner ahora, estamos en el primer sprint |
 | **Sprint Goal & User Stories**      |                                                    |
 | **Sprint n Goal**                   | Para este Sprint necesitamos implementar la landing page para nuestra aplicación **PyschoHealth**. Tenemos que dar una buena impresión a los posibles usuarios. |
-| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **19 story points** |
-| **Sum of Story Points**             | La suma de Story Points atendidos es de **19 story points** |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **18 story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **18 story points** |
 
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
@@ -2124,3 +2124,194 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 ![sprint](Assets/sprint1.JPG)
 ![sprint](Assets/sprint2.JPG)
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2.
+
+En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
+
+| **Sprint #**                         | Sprint 2                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 11/05/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Eric Olivera                                       |
+| **Attendees (to planning meeting)** | Eric Olivera, Joaquín Alberto, Walter Fajardo, Víctor Manuel, Pablo Geronimo |
+| **Sprint n – 1 Review Summary**     | La Landing Page fue completada usando HTML y CSS, con un diseño responsivo. |
+| **Sprint n – 1 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint n Goal**                   | Para este Sprint necesitamos implementar la parte visual de la aplicación con su respectivo CRUD y lograr desplegarlo en Firebase. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **XX story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **XX story points** |
+
+
+##### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+En este sprint, nos enfocamos en el desarrollo de la parte visual de las aplicaciones web para PsychoHelp, utilizando Angular para crear una experiencia interactiva. Los aspectos clave identificados para este sprint son:
+Diseño visual de las aplicaciones web (UI/UX): Implementación de las interfaces de usuario.
+
+
+- Desarrollo de la funcionalidad básica en el frontend: Uso de Angular para conectar la lógica con la interfaz.
+
+
+- Integración con servicios backend (API) básicos: Conexión con los servicios para mostrar datos.
+
+
+- Despliegue de las aplicaciones web en Firebase.
+
+
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo colaboran para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+
+
+| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
+|------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Olivera Eric                       | [EricMOB-afk](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
+| Geronimo Pablo                     | [Phatorgam](#)        |  L                                           |     C                                       | L                                           | C                                           | C                                           |
+| Fajardo Walter                     | [WalterFajardo](#)    | L                                           | L                                           |       C                                      |  C                                             |      C                                       |
+| Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
+| Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L       
+
+##### 5.2.2.3. Sprint Backlog 2.
+
+En esta sección se presenta el Sprint Backlog 2, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoHelp, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
+
+| **User Story ID** | **Title**                                          | **Task ID** | **Task Title**                               | **Description**                                                                 | **Estimation (Hours)** | **Assigned to**     | **Status**    |
+|-------------------|----------------------------------------------------|-------------|----------------------------------------------|----------------------------------------------------------------------------------|------------------------|----------------------|---------------|
+| US-15             | Interfaz del catálogo de test        | T01         | Crear interfaz de listado de tests     | Visualización de todos los tests registrados, con estructura de tarjetas o tabla. | 1                      | Eric Olivera     | Done       |
+| US-15             | Interfaz del catálogo de test        | T02         | Implementar formulario de creación de test | Formulario dinámico que permite ingresar título, categoría y descripción del test. | 1                      | Eric Olivera     | Done       |
+| US-15             | Interfaz del catálogo de test        | T03         | Incorporar opción de eliminación y edición de test | Interfaz reutilizable que permite modificar la información del test existente. | 1                      | Eric Olivera     | Done       |
+| US-16             | Interfaz de preguntas clara y simple | T04         | Crear listado de preguntas por test    | Interfaz que muestra las preguntas correspondientes a cada test seleccionado.     | 2                      | Eric Olivera     | Done       |
+| US-16             | Interfaz de preguntas clara y simple | T05         | Diseñar formulario de creación de pregunta | Campos para redactar pregunta, opciones de respuesta, y asignación de puntajes o categorías. | 1                      | Eric Olivera     | Done       |
+| US-16             | Interfaz de preguntas clara y simple | T06         | Eliminar y diseñar pregunta del test   | Opción funcional para borrar y editar preguntas asociadas a un test.              | 1                      | Eric Olivera     | Done       |
+
+LINK DEL TRELLO: https://trello.com/b/vWjVAt4H/sprint-2
+
+#### 5.2.2.4. Development Evidence for Sprint Review. 
+
+Repositorio GitHub creado:
+Nombre del repositorio: project-PsychoHelp/Frontend-Web-Applications
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+https://github.com/project-PsychoHelp/Frontend-Web-Applications
+
+| Repository                                  | Branch              | CommitID                                 | CommitMessage                                | CommitMessageBody           | Commited on Date |
+|--------------------------------------------|---------------------|-------------------------------------------|------------------------------------------------|------------------------------|------------------|
+| project-PsychoHelp/Frontend-Web-Applications | main                | de0169a9ff95afb9006082ceee8bb54bddf7b5fa  | Initial Commit                                | No description provided      | 11/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | main                | caa88622994addb832c79b0b8fdd6ec692468c0d  | feat: add components to start front           | No description provided      | 11/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-custom-test | 4fee1e3f7ff96c0be76789f7a4b7f5d497239b44  | feat: create CRUD and front from test catalog | No description provided      | 12/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-custom-test | bfb36d444220824b5bb2d9fa4fe1864bc94ede8f  | feat: create test content and firebase deployment | No description provided  | 12/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-premium-plans | d6ab4ac2e134df42dd8a8c1178941d6c409771fb | feat: project structure                       | No description provided      | 13/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-premium-plans | 6821f05589f65c54fd15050617b716bd9835ccd4 | feat: preview 1                                | No description provided      | 13/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-premium-plans | 5cbe6a1f71754afd0fc8075f920581e152630a6d | feat: beeceptor                                | No description provided      | 13/05/2025       |
+| project-PsychoHelp/Frontend-Web-Applications | feature-custom-test | 0cba6205194105d40e3bf02d5c0ea619f0be8cd4  | feat: update css component                    | No description provided      | 13/05/2025       |
+
+##### 5.2.2.5. Execution Evidence for Sprint Review. 
+Producto desarrollado: Frontend interactivo de PsychoHelp
+ Tecnologías utilizadas: Angular, Firebase
+En el segundo sprint, el equipo trabajó en la implementación del frontend interactivo de PsychoHelp, centrado en crear una experiencia de usuario dinámica y funcional. A continuación, se detallan los avances realizados:
+Estructura de navegación interactiva: Se implementó un sistema de navegación interactiva utilizando Angular, lo que permite que las secciones de la aplicación sean accesibles de manera fluida.
+
+
+Diseño de interfaces (UI/UX): Se diseñaron y desarrollaron interfaces visuales responsivas para las diferentes secciones de la plataforma, incluyendo el dashboard de estudiantes y psicólogos, adaptadas a dispositivos móviles y de escritorio.
+
+
+Integración básica con backend (API): Se implementaron conexiones básicas con servicios backend para la visualización de datos (por ejemplo, estudiantes activos y psicólogos registrados).
+
+
+Despliegue en Firebase: Se completó el despliegue de la aplicación en Firebase, asegurando que la aplicación estuviera accesible públicamente y pudiera recibir futuros cambios de manera ágil.
+
+
+Componentes de la interfaz: Se crearon componentes reutilizables y modulares dentro de Angular para mejorar la escalabilidad y mantenimiento de la aplicación en futuras iteraciones.
+
+
+Interactividad y flujo de navegación: Se desarrollaron interacciones dinámicas como transiciones entre vistas, carga de datos en tiempo real y formularios interactivos.
+
+**ERIC**
+
+Diseño e implementación del CRUD de tests: Se crearon las vistas de creación, edición, visualización y eliminación de tests psicométricos.
+
+
+Estructura de contenido de los tests: Se implementó la lógica visual para mostrar preguntas, opciones y categorías organizadas por cada test.
+
+
+Integración simulada con API pública: A través de Beeceptor, se definieron endpoints públicos para simular el comportamiento de la API real, permitiendo probar las interacciones sin necesidad de backend.
+
+
+Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosamente en Firebase Hosting, lo cual facilitó pruebas visuales, revisiones del equipo y demostración funcional.
+
+
+
+deploy en firebase: https://pyschohealth-2025.web.app/customTests/tests
+
+APARTADO DEL CATALOGO DE TEST
+![15](Assets/correcciones/15.png)
+
+APARTADO DEL CONTENIDO DE UN TEST
+![15](Assets/correcciones/16.png)
+
+
+**WALTER**
+
+![17](Assets/correcciones/17.png)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
+
+Repositorio de Web Services (Planificado para los próximos sprints):
+Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para este sprint, lo que vamos a necesitar es la página Beeceptor para gestionar nuestras public endpoints. Beeceptor es una herramienta útil para crear endpoints simulados de manera rápida y fácil, lo que nos permitirá tener una interfaz de prueba para las solicitudes y respuestas HTTP
+
+
+1) Beeceptor
+    ![18](Assets/correcciones/18.png)
+    Nos registramos 
+|   ![18](Assets/correcciones/19.png)
+
+    Ya registrados podemos crear nuestras endpoints públicas
+![18](Assets/correcciones/20.png)
+    Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
+![18](Assets/correcciones/21.png)
+
+2) Firebase
+    Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real
+    ![18](Assets/correcciones/22.png)
+
+    Nos registramos con una cuenta de google y vamos a la consola
+    ![18](Assets/correcciones/23.png)
+    Creamos un nuevo proyecto de firebase
+    ![18](Assets/correcciones/24.png)
+    Ponemos un nombre para el proyecto 
+    ![18](Assets/correcciones/25.png)        
+    Vamos al apartado de hosting
+    ![18](Assets/correcciones/26.png)
+    Se configura el firebase hosting en nuestro proyecto de intellij idea
+    ![18](Assets/correcciones/28.png)
+    Con esto ya tendríamos nuestro hosting desplegado
+    con los siguientes comandos 
+    - ng build
+    - sudo npm install -g firebase-tools
+    - firebase login
+    - firebase init
+    - firebase deploy
+
+5.2.2.8. Team Collaboration Insights during Sprint.
+
+    Para este sprint, las tareas de diseño, implementación se distribuyeron para todos los integrantes del equipo
+
+
+![18](Assets/correcciones/29.png)
+![18](Assets/correcciones/30.png)
+![18](Assets/correcciones/31.png)
+![18](Assets/correcciones/32.png)
