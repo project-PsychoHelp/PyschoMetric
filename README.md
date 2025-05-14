@@ -2262,6 +2262,9 @@ APARTADO DEL CONTENIDO DE UN TEST
 
 ![17](Assets/correcciones/17.png)
 
+**PABLO**
+    ![18](Assets/correcciones/pablo.png)
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
