@@ -2318,3 +2318,98 @@ Para este sprint, lo que vamos a necesitar es la página Beeceptor para gestiona
 ![18](Assets/correcciones/30.png)
 ![18](Assets/correcciones/31.png)
 ![18](Assets/correcciones/32.png)
+
+
+#### 5.3.2. Sprint 3
+
+##### 5.3.2.1. Sprint Planning 3.
+
+En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
+
+| **Sprint #**                         | Sprint 3                                           |
+|-------------------------------------|----------------------------------------------------|
+| **Sprint Planning Background**      |                                                    |
+| **Date**                            | 15/06/2025                                         |
+| **Time**                            | 6:00PM                                             |
+| **Location**                        | Virtual - Discord                                  |
+| **Prepared By**                     | Eric Olivera                                       |
+| **Attendees (to planning meeting)** | Eric Olivera, Joaquín Alberto, Walter Fajardo, Víctor Manuel, Pablo Geronimo |
+| **Sprint n – 1 Review Summary**     | El front fue completado |
+| **Sprint n – 1 Retrospective Summary** | El diseño visual y despliegue fueron exitosos, pero se identificaron áreas de mejora en interactividad. |
+| **Sprint Goal & User Stories**      |                                                    |
+| **Sprint n Goal**                   | Para este Sprint necesitamos implementar la parte visual de la aplicación con su respectivo CRUD y lograr desplegarlo en Firebase. |
+| **Sprint n Velocity**               | Por esta oportunidad estaremos aceptando **XX story points** |
+| **Sum of Story Points**             | La suma de Story Points atendidos es de **XX story points** |
+
+
+##### 5.3.2.2. Aspect Leaders and Collaborators. 
+
+En este sprint, nos enfocamos en el desarrollo del backend de las aplicaciones web para PsychoHelp y su integración efectiva con el frontend, utilizando servicios API para lograr una comunicación fluida entre ambas capas. Los aspectos clave identificados para este sprint son:
+
+Desarrollo de servicios backend (API REST): Implementación de endpoints necesarios para gestionar los datos y funcionalidades de la plataforma.
+
+Integración del backend con el frontend: Conexión de los servicios desarrollados con la interfaz en Angular, permitiendo mostrar y manipular datos en tiempo real.
+
+Pruebas y validación de funcionalidades: Verificación del correcto funcionamiento de la lógica de negocio y la comunicación entre capas.
+
+Despliegue de los servicios en entornos productivos o de prueba: Uso de Firebase y otras herramientas para alojar y probar las aplicaciones integradas.
+
+Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miembros del equipo cumplen roles de colaboración para asegurar que el desarrollo cumpla con los objetivos del sprint en cuanto a calidad, funcionalidad y tiempo.
+
+
+| Team Member (Last Name, First Name) | GitHub Username     | Aspect Name 1 Leader (L) / Collaborator (C) | Aspect Name 2 Leader (L) / Collaborator (C) | Aspect Name 3 Leader (L) / Collaborator (C) | Aspect Name 4 Leader (L) / Collaborator (C) | Aspect Name 5 Leader (L) / Collaborator (C) |
+|------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Olivera Eric                       | [EricMOB-afk](#)      | L                                           | C                                           | C                                           | C                                           | C                                           |
+| Geronimo Pablo                     | [Phatorgam](#)        |  L                                           |     C                                       | L                                           | C                                           | C                                           |
+| Fajardo Walter                     | [WalterFajardo](#)    | L                                           | L                                           |       C                                      |  C                                             |      C                                       |
+| Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
+| Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L       
+
+##### 5.3.2.3. Sprint Backlog 3. 
+
+En esta sección se presenta el Sprint Backlog 3, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
+El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoHelp, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
+
+
+
+##### 5.2.2.4. Development Evidence for Sprint Review. 
+
+Repositorio GitHub creado:
+Nombre del repositorio: project-PsychoHelp/Frontend-Web-Applications
+
+
+Organización: Se utilizó GitHub como sistema de control de versiones para alojar el código fuente, garantizar trazabilidad y mantener un entorno colaborativo.
+
+Metodología usada:
+Se aplicó una estructura de ramas sencilla con main como rama principal. El trabajo se hizo directamente sobre dicha rama al tratarse de una implementación estática inicial.
+
+https://github.com/project-PsychoHelp/PyschoHelp-Backend
+
+
+
+
+| Repository                                  | Branch              | CommitID                                 | CommitMessage                                | CommitMessageBody           | Commited on Date |
+|--------------------------------------------|---------------------|-------------------------------------------|------------------------------------------------|------------------------------|------------------|
+| project-PsychoHelp/PyschoHelp-Backend |  (HEAD -> master, origin/master, origin/feat/dashboard-analytics, origin/develop, origin/HEAD) | fad21cb | chore(acl): implement profile facade. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 83c27fa | chore(value-object): implement recommended career value object. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | eab5be3 | chore(controller): implement profiles controller. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | a0c83e3 | chore(assemblers): implement resource assemblers. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | bbffaf2 | chore(serviceImpl): implement services Impl. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 83c94d8 | chore(resource): implement interface resources. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | cbf9861 | chore(queries): implement query services. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 52debe4 | chore(queries): implement domain queries. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1f9b046 | chore(repositories): implement infrastructure repositories. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 8d67f0f | chore(services): implement services. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | a7bcde7 | chore(commands): implement command services. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | a1602af | chore(commands): implement commands. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5c422b5 | chore(value-object): implement Test value object. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 1d18d5b | chore(dashboard): implement Dashboard aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 5947bdb | chore(value-object): implement Progress value object. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 8adfc73 | chore(psychologist): implement Psychologist aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | bac3612 | chore(section): implement Section aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 0845ec6 | chore(student): implement Student aggregate. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 8dad57d | fix(pom): refactor pom.xml. |  | 2025-06-23 |
+| project-PsychoHelp/PyschoHelp-Backend |  | 2ea9425 | chore: initial commit |  | 2025-06-22 |
+
+
+
