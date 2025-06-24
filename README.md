@@ -2320,9 +2320,10 @@ Para este sprint, lo que vamos a necesitar es la página Beeceptor para gestiona
 ![18](Assets/correcciones/32.png)
 
 
-#### 5.3.2. Sprint 3
 
-##### 5.3.2.1. Sprint Planning 3.
+#### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
 
 En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplicación web, utilizando Angular para la construcción del front-end. El objetivo principal de este sprint es crear las pantallas esenciales de la plataforma, asegurándonos de que la interfaz sea intuitiva, visualmente atractiva 
 
@@ -2342,7 +2343,7 @@ En este sprint, nos enfocaremos en el desarrollo de la parte visual de la aplica
 | **Sum of Story Points**             | La suma de Story Points atendidos es de **XX story points** |
 
 
-##### 5.3.2.2. Aspect Leaders and Collaborators. 
+##### 5.2.3.2. Aspect Leaders and Collaborators. 
 
 En este sprint, nos enfocamos en el desarrollo del backend de las aplicaciones web para PsychoHelp y su integración efectiva con el frontend, utilizando servicios API para lograr una comunicación fluida entre ambas capas. Los aspectos clave identificados para este sprint son:
 
@@ -2365,14 +2366,38 @@ Cada uno de estos aspectos ha sido asignado a un líder, mientras que otros miem
 | Victor Rojas                       | [VRojas1603](#)       | L                                           | L                                           |  C                                           |           A                                  |                                             |C
 | Joaquin Cuentas                    | [JoaCUPE](#)          | L                                           | C                                           | L                                           | L                                           | L       
 
-##### 5.3.2.3. Sprint Backlog 3. 
+##### 5.2.3.3. Sprint Backlog 3. 
 
 En esta sección se presenta el Sprint Backlog 3, correspondiente al segundo ciclo de desarrollo del proyecto. Este backlog contiene las tareas priorizadas y estimadas que el equipo debe ejecutar para alcanzar el objetivo principal del sprint.
 El objetivo principal de este sprint es el desarrollo del frontend interactivo para las aplicaciones web de PsychoHelp, utilizando Angular para la creación de interfaces dinámicas y funcionales. Además, se implementarán conexiones básicas con los servicios backend y el despliegue en Firebase.
 
+| **User Story ID** | **Title**                                                 | **Task ID** | **Task Title**                                        | **Description**                                                                                              | **Estimation (Hours)** | **Assigned to** | **Status** |
+|-------------------|-----------------------------------------------------------|-------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------------|------------------|------------|
+| TS-40             | Estadísticas de uso de la plataforma                      | T01         | Crear endpoint para estadísticas de registros          | Endpoint que retorne el total de usuarios registrados.                                                       | 1                      Victor Manuel       | To Do      |
+| TS-40             | Estadísticas de uso de la plataforma                      | T02         | Crear endpoint para estadísticas de tests completados  | Endpoint para obtener la cantidad de tests completados por fecha o usuario.                                  | 1                      |Victor Manuel       | To Do      |
+| TS-40             | Estadísticas de uso de la plataforma                      | T03         | Crear endpoint para estadísticas de sesiones agendadas | Endpoint para mostrar sesiones realizadas y agendadas por periodo.                                           | 1                      | Victor Manuel       | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T04         | Endpoint para listar estudiantes por psicólogo         | Obtener estudiantes asignados a un profesional.                                                               | 1                      | Victor Manuel      | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T05         | Agregar paginación y filtros al historial              | Filtros por fecha, nombre o estado de la sesión para facilitar la búsqueda.                                   | 1                      | Victor Manuel      | To Do      |
+| TS-47             | Visualización de historial de estudiantes                 | T06         | Documentar endpoints del historial                      | Usar Swagger/OpenAPI para describir los endpoints creados.                                                    | 1                      | Victor Manuel       | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T07         | Crear endpoint para agregar opción                     | Permitir al administrador crear nuevas opciones para tests obsoletos.                                         | 1                      | Eric Olivera      | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T08         | Crear endpoint para editar opción                      | Modificar texto o valor de opciones existentes.                                                               | 1                      | Eric Olivera         | To Do      |
+| TS-50             | Gestión de opciones de test psicométrico obsoleto         | T09         | Crear endpoint para eliminar opción                    | Eliminar opciones obsoletas del test.                                                                         | 1                      | Eric Olivera        | To Do      |
+| TS-54             | Visualización del contenido en diferentes idiomas         | T10         | Implementar soporte de idiomas en modelos y respuestas | Añadir campos de idioma en respuestas JSON desde el backend.                                                  | 1                      | Eric Olivera         | To Do      |
+| TS-54             | Visualización del contenido en diferentes idiomas         | T11         | Adaptar contenido de planes premium según idioma       | Obtener textos dinámicos en función del idioma del usuario.                                                   | 2                      | Eric Olivera         | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T13         | Diseñar estructura visual de la sección                | Maquetar la sección de “Cómo funciona” con bloques informativos.                                              | 1                      | Eric Olivera         | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T14         | Agregar contenido explicativo e ilustraciones          | Incluir textos simples con imágenes o íconos que expliquen el flujo de uso.                                   | 1                      | Eric Olivera         | To Do      |
+| US-34             | Visualización de apartado de cómo funciona                | T15         | Adaptar sección para desktop                   | Aplicar diseño responsive para diferentes dispositivos.                                                       | 1                      | Eric Olivera         | To Do      |
+| US-35             | Encabezado de navegación                                  | T16         | Crear barra de navegación en la landing                | Incluir logo y secciones como “Inicio”, “Planes”, “Contacto”, etc.                                            | 1                      | Eric Olivera         | To Do      |
+| US-35             | Encabezado de navegación                                  | T17         | Agregar estilos e íconos a la barra                    | Personalización visual del header usando CSS e íconos.                                                        | 1                      | Eric Olivera         | To Do      |
+| US-06             | Ingreso a tests psicométricos desde el menú               | T19         | Agregar opción “Tests psicométricos” al menú           | Botón en el menú principal que dirija a la sección de tests.                                                  | 1                      | Eric Olivera         | To Do      |
+| US-06             | Ingreso a tests psicométricos desde el menú               | T20         | Conectar el menú con el router de Angular              | Configurar rutas y navegación hacia la vista de tests.                                                        | 2                      | Eric Olivera         | To Do      |
+| US-06             | Ingreso a tests psicométricos desde el menú               | T21         | Validar acceso según autenticación                     | Asegurar que solo usuarios autenticados accedan a la sección.                                                 | 2                      | Eric Olivera         | To Do      |
+| US-15             | Introducción explicativa al test                          | T22         | Crear componente de introducción al test               | Componente de Angular para mostrar instrucciones antes del test.                                              | 2                      | Eric Olivera         | To Do      |
+| US-15             | Introducción explicativa al test                          | T23         | Agregar lógica condicional para mostrar la intro       | Solo mostrar la introducción si es la primera vez que se inicia el test.                                      | 2                      | Eric Olivera         | To Do      |
+| US-15             | Introducción explicativa al test                          | T24         | Estilizar el componente con CSS                        | Diseñar la introducción con estilos amigables y visualmente claros.                                           | 1                      | Eric Olivera        | To Do      |
 
 
-##### 5.2.2.4. Development Evidence for Sprint Review. 
+##### 5.2.3.4. Development Evidence for Sprint Review. 
 
 Repositorio GitHub creado:
 Nombre del repositorio: project-PsychoHelp/Frontend-Web-Applications
@@ -2412,4 +2437,195 @@ https://github.com/project-PsychoHelp/PyschoHelp-Backend
 | project-PsychoHelp/PyschoHelp-Backend |  | 2ea9425 | chore: initial commit |  | 2025-06-22 |
 
 
+##### 5.2.3.5 Execution Evidence for Sprint Review.
+![1](Assets/TB2/1.png)
+![1](Assets/TB2/2.png)
+![1](Assets/TB2/3.png)
+
+##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+**API Endpoints - PsychoHelp**
+MANAGEMENT TEST
+
+**Exams - Exam Management Endpoints**
+
+| Method | Endpoint                                      | Description                              |
+|--------|-----------------------------------------------|------------------------------------------|
+| GET    | `/api/v1/exams`                               | Fetch all exams                          |
+| POST   | `/api/v1/exams`                               | Add a new exam                           |
+| POST   | `/api/v1/exams/{examId}/question-assing`      | Add a new Question into the exam         |
+| GET    | `/api/v1/exams/{examId}`                      | Obtener examen por ID                    |
+
+---
+
+**ExamQuestions - Exam Questions Management Endpoints**
+
+| Method | Endpoint                                         | Description                                       |
+|--------|--------------------------------------------------|---------------------------------------------------|
+| GET    | `/api/v1/exam-question`                          | Fetch all exam questions                         |
+| POST   | `/api/v1/exam-question`                          | Add a new exam question                          |
+| GET    | `/api/v1/exam-question/{examQuestionID}`         | Get specific exam question by ID                 |
+
+---
+
+**ExamViews - Exam Views Management Endpoints**
+
+| Method | Endpoint                                            | Description                                |
+|--------|-----------------------------------------------------|--------------------------------------------|
+| GET    | `/api/v1/examviews/{examviewCode}`                  | Get exam view by code                      |
+| PUT    | `/api/v1/examviews/{examviewCode}`                  | Update exam view by code                   |
+| DELETE | `/api/v1/examviews/{examviewCode}`                  | Delete exam view by code                   |
+| GET    | `/api/v1/examviews`                                 | Fetch all exam views                       |
+| POST   | `/api/v1/examviews`                                 | Add a new exam view                        |
+
+##### 5.2.3.7.Software Deployment Evidence for Sprint Review
+
+![1](Assets/TB2/4.png)
+![1](Assets/TB2/5.png)
+![1](Assets/TB2/6.png)
+![1](Assets/TB2/7.png)
+
+
+##### 5.2.3.8.Team Collaboration Insights during Sprint
+
+![1](Assets/TB2/8.png)
+![1](Assets/TB2/9.png)
+![1](Assets/TB2/10.png)
+
+### 5.3. Validation Interviews.
+#### 5.3.1. Diseño de Entrevistas.
+
+**Entrevistas por Segmento - Plataforma PsychoHelp**
+
+Segmento: Estudiantes
+- ¿Qué tan fácil te resultó registrarte y entender el propósito de PsychoHelp?
+
+- ¿La sección de tests vocacionales fue clara y accesible desde el inicio?
+
+- ¿Sentiste que las preguntas del test fueron comprensibles y relevantes para ti?
+
+- ¿El informe de resultados te pareció útil para entender tus intereses vocacionales?
+
+- ¿Pudiste agendar fácilmente una cita con un psicólogo después de realizar el test?
+
+- ¿La interfaz te motivó a continuar explorando tu perfil vocacional?
+
+- ¿Te pareció clara la sección de “Mi perfil” y sus recomendaciones?
+
+- ¿Pudiste revisar tus resultados anteriores sin dificultad?
+
+- ¿Confiaste en la plataforma para recibir orientación profesional?
+
+- ¿El diseño de la aplicación te pareció moderno y fácil de usar?
+
+- ¿Te parecieron útiles las notificaciones sobre próximos tests o sesiones?
+
+- ¿Qué mejorarías en la experiencia visual o funcional como estudiante?
+
+Segmento: Psicólogos
+- ¿Fue clara la información sobre cómo funciona la plataforma desde el inicio?
+
+- ¿El panel de control te permitió gestionar adecuadamente tus sesiones?
+
+- ¿Te pareció útil el historial de estudiantes atendidos y sus progresos?
+
+- ¿La opción para calificar o hacer comentarios sobre los tests fue fácil de usar?
+
+- ¿Consideras útil ver el perfil vocacional del estudiante antes de una sesión?
+
+- ¿Pudiste editar tu disponibilidad horaria sin problemas?
+
+- ¿La plataforma facilita la comunicación con los estudiantes?
+
+- ¿El diseño de tu perfil profesional te pareció apropiado y personalizable?
+
+- ¿Confías en PsychoHelp como canal de atracción de nuevos estudiantes?
+
+- ¿El módulo de reportes te ayuda a evaluar la evolución de tus estudiantes?
+
+- ¿La plataforma te notifica con tiempo sobre las próximas sesiones?
+
+- ¿Qué funcionalidades crees que faltan para mejorar tu experiencia como psicólogo?
+
+#### 5.3.2. Registro de Entrevistas.
+#### 5.3.3. Evaluaciones según heurísticas.
+
+Evaluación Heurística de PsychoHelp
+Carrera: Ingeniería de Software
+Curso: Aplicaciones Web
+Auditor: PsychoHelp
+Plataforma evaluada: PsychoHelp – Plataforma Web
+
+**Tareas evaluadas**
+- Comprender el propósito de la plataforma al ingresar
+
+- Realizar registro como estudiante o psicólogo
+
+- Iniciar un test vocacional y navegar por sus preguntas
+
+- Visualizar resultados y recomendaciones de carrera
+
+- Agendar una sesión con un psicólogo
+
+- Acceder al historial de tests y sesiones
+
+- Interacción de psicólogos con el perfil del estudiante
+
+- Ver disponibilidad de psicólogos y agendar citas
+
+- Recibir notificaciones y recordatorios de sesiones
+
+- Acceder a recursos vocacionales y sugerencias personalizadas
+
+| #  | Problema detectado                                                                 | Severidad | Heurística/Principio violado                                      |
+|----|-------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------|
+| 1  | Falta de guía clara tras registrarse                                               | 2         | Reconocer en lugar de recordar                                    |
+| 2  | Íconos sin etiquetas accesibles o tooltips                                         | 3         | Diseño inclusivo / Ayuda y documentación                          |
+| 3  | Jerarquía visual débil en botones clave                                            | 2         | Visibilidad y jerarquía visual                                    |
+| 4  | Ambigüedad en elección de rol (psicólogo/estudiante)                              | 3         | Prevención de errores / Control del usuario                       |
+| 5  | Informe de resultados sin conexión evidente con carreras                          | 2         | Correspondencia entre sistema y el mundo real                     |
+| 6  | Historial de tests sin marcadores visuales recientes                               | 2         | Visibilidad del estado del sistema                                |
+| 7  | Falta de retroalimentación visual en acciones de perfil                            | 3         | Visibilidad del estado del sistema                                |
+| 8  | Sin opción para comparar resultados pasados del test                               | 2         | Flexibilidad y eficiencia de uso                                  |
+| 9  | Poca personalización en la experiencia del estudiante                              | 2         | Reconocer en lugar de recordar / Personalización del contenido    |
+| 10 | Contraste bajo en modo claro                                                       | 3         | Diseño inclusivo                                                  |
+| 11 | Políticas de privacidad poco visibles al agendar sesión                            | 2         | Ayuda y documentación / Seguridad del usuario                     |
+| 12 | Botón para contactar psicólogo poco visible al finalizar test                      | 2         | Visibilidad / Consistencia y estándares                           |
+
+
+
+**Descripción de problemas clave**
+
+### Problema #2: Íconos sin etiquetas accesibles o tooltips
+- **Severidad:** 3
+- **Heurística violada:** Diseño inclusivo / Ayuda y documentación
+- **Descripción:** Íconos como “Ver resultados”, “Mi perfil”, o “Agendar sesión” no tienen texto alternativo ni descripciones que permitan su comprensión con lector de pantalla.
+- **Recomendación:** Añadir `alt`, `aria-label` o tooltips visibles para mejorar la accesibilidad.
+
+---
+
+### Problema #4: Ambigüedad en elección de rol (psicólogo/estudiante)
+- **Severidad:** 3  
+- **Heurística violada:** Prevención de errores / Control del usuario
+- **Descripción:** En el registro inicial no se valida de forma clara si el usuario seleccionó correctamente su rol, lo que puede afectar la navegación posterior.
+- **Recomendación:** Añadir confirmación visual clara y posibilidad de corregir el rol antes de finalizar el registro.
+
+
+
+### Conclusiones
+
+- El equipo de PsychoHelp logró mantener una dinámica colaborativa, distribuyendo tareas entre diseño, backend y frontend de forma equilibrada.
+- Se aplicaron metodologías centradas en el usuario como entrevistas, heurísticas y validación con prototipos, lo que permitió detectar necesidades reales de los segmentos clave (estudiantes y psicólogos).
+- Durante el último sprint se consolidaron avances técnicos importantes como el despliegue de servicios backend, integración con el frontend en Angular.
+- A pesar de retos en la carga de trabajo entre módulos técnicos, el equipo logró cumplir los entregables clave y mantener una evolución constante en la calidad del producto.
+
+---
+
+### Recomendaciones
+
+- Fomentar una validación continua con usuarios reales antes de cada nueva iteración, especialmente para asegurar la claridad del flujo de registro y test.
+- Implementar mejoras de accesibilidad visual (contraste, tooltips, navegación con teclado) para asegurar una experiencia inclusiva.
+- Automatizar más tareas repetitivas (como generación de reportes vocacionales) para aumentar eficiencia del equipo y experiencia del usuario.
+- Documentar los aprendizajes de cada sprint de forma sistemática para que el equipo pueda identificar patrones de mejora continua.
+- Diseñar una estrategia de personalización del contenido para estudiantes, basada en sus resultados y progreso dentro de la plataforma.
 
