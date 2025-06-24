@@ -2395,7 +2395,7 @@ El objetivo principal de este sprint es el desarrollo del frontend interactivo p
 | US-15             | Introducción explicativa al test                          | T22         | Crear componente de introducción al test               | Componente de Angular para mostrar instrucciones antes del test.                                              | 2                      | Eric Olivera         | To Do      |
 | US-15             | Introducción explicativa al test                          | T23         | Agregar lógica condicional para mostrar la intro       | Solo mostrar la introducción si es la primera vez que se inicia el test.                                      | 2                      | Eric Olivera         | To Do      |
 | US-15             | Introducción explicativa al test                          | T24         | Estilizar el componente con CSS                        | Diseñar la introducción con estilos amigables y visualmente claros.                                           | 1                      | Eric Olivera        | To Do      |
-
+https://trello.com/invite/b/685acc9f1074736cc1ca7c39/ATTI762551f36cb3d79ec442974cdb9d9eb1C393A168/sprint-3-psychohelp
 
 ##### 5.2.3.4. Development Evidence for Sprint Review. 
 
