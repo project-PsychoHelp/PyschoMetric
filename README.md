@@ -2629,3 +2629,44 @@ Plataforma evaluada: PsychoHelp – Plataforma Web
 - Documentar los aprendizajes de cada sprint de forma sistemática para que el equipo pueda identificar patrones de mejora continua.
 - Diseñar una estrategia de personalización del contenido para estudiantes, basada en sus resultados y progreso dentro de la plataforma.
 
+
+
+
+
+##### Execution Evidence for Sprint Review.
+
+![1](AssetsFinal/1.png)
+![1](AssetsFinal/2.png)
+![1](AssetsFinal/3.png)
+![1](AssetsFinal/4.png)
+![1](AssetsFinal/5.png)
+![1](AssetsFinal/6.png)
+![1](AssetsFinal/7.png)
+![1](AssetsFinal/8.png)
+![1](AssetsFinal/9.png)
+
+
+
+#### Software Deployment Evidence for Sprint Review
+-Este es el portal del estudiante donde hay un contexto general
+![1](AssetsFinal/10.png)
+-Lugar donde te puedes registrar o iniciar sesión
+![1](AssetsFinal/11.png)
+-Zona de los contenido de los examenes, premiun y no premiun
+![1](AssetsFinal/12.png)
+
+-Zona donde están las preguntas de los examenes donde puedes escoger distintas opciones
+![1](AssetsFinal/13.png)
+-Verificación de tus respuestas con sus explicaciones respectivas
+![1](AssetsFinal/14.png)
+-Zona de su Dashboard, donde puedes ver tus examenes dados
+![1](AssetsFinal/15.png)
+
+
+
+
+
+
+
+
+
